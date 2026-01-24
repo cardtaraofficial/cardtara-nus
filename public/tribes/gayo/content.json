@@ -1,0 +1,189 @@
+{
+    "tribe": "gayo",
+    "tribeName": {
+        "id": "Gayo",
+        "en": "Gayo"
+    },
+    "cards": [
+        {
+            "slug": "KS",
+            "cardName": "King of Spades",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Aceh",
+                "en": "Aceh"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Gayo"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Gayo"
+                ]
+            },
+            "image": "/tribes/gayo/media/ks.webp",
+            "quiz": []
+        },
+        {
+            "slug": "KH",
+            "cardName": "King of Hearts",
+            "title": {
+                "id": "Rumah Gadang dari Minangkabau",
+                "en": "Rumah Gadang from Minangkabau"
+            },
+            "region": {
+                "id": "Sumatera Barat",
+                "en": "West Sumatra"
+            },
+            "paragraphs": {
+                "id": [
+                    "Rumah Gadang adalah rumah adat tradisional masyarakat Minangkabau di Sumatera Barat. Rumah ini memiliki ciri khas berupa atap yang melengkung menyerupai tanduk kerbau, yang melambangkan kemenangan dalam legenda Minangkabau.",
+                    "Struktur Rumah Gadang dibangun dengan sistem rumah panggung yang tinggi dan menggunakan kayu sebagai bahan utama. Rumah ini tidak menggunakan paku, melainkan teknik pasak dan sambungan kayu yang sangat kuat.",
+                    "Rumah Gadang berfungsi sebagai tempat tinggal keluarga besar dalam sistem matrilineal Minangkabau. Setiap ukiran dan ornamen pada rumah memiliki makna filosofis yang mendalam tentang nilai-nilai kehidupan masyarakat Minangkabau."
+                ],
+                "en": [
+                    "Rumah Gadang is a traditional house of the Minangkabau people in West Sumatra. This house has a distinctive curved roof resembling buffalo horns, which symbolizes victory in Minangkabau legend.",
+                    "The structure of Rumah Gadang is built with a high stilt house system and uses wood as the main material. This house does not use nails, but rather uses pegs and wooden joints that are very strong.",
+                    "Rumah Gadang functions as a residence for extended families in the Minangkabau matrilineal system. Each carving and ornament on the house has deep philosophical meaning about the values of Minangkabau society."
+                ]
+            },
+            "image": "/tribes/gayo/media/kh.webp",
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa ciri khas atap Rumah Gadang?",
+                        "en": "What is the distinctive feature of Rumah Gadang's roof?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Datar",
+                            "Melengkung seperti tanduk kerbau",
+                            "Kerucut",
+                            "Piramida"
+                        ],
+                        "en": [
+                            "Flat",
+                            "Curved like buffalo horns",
+                            "Cone-shaped",
+                            "Pyramid"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Atap Rumah Gadang melengkung menyerupai tanduk kerbau, melambangkan kemenangan dalam legenda Minangkabau.",
+                        "en": "Rumah Gadang's roof curves like buffalo horns, symbolizing victory in Minangkabau legend."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang digunakan untuk menyambung kayu di Rumah Gadang?",
+                        "en": "What is used to join wood in Rumah Gadang?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Paku besi",
+                            "Pasak dan sambungan kayu",
+                            "Lem",
+                            "Kawat"
+                        ],
+                        "en": [
+                            "Iron nails",
+                            "Pegs and wooden joints",
+                            "Glue",
+                            "Wire"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rumah Gadang tidak menggunakan paku, melainkan teknik pasak dan sambungan kayu yang sangat kuat.",
+                        "en": "Rumah Gadang does not use nails, but rather uses pegs and wooden joints that are very strong."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Sistem kekerabatan apa yang berlaku dalam Rumah Gadang?",
+                        "en": "What kinship system applies in Rumah Gadang?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Patrilineal",
+                            "Matrilineal",
+                            "Bilateral",
+                            "Tidak ada sistem"
+                        ],
+                        "en": [
+                            "Patrilineal",
+                            "Matrilineal",
+                            "Bilateral",
+                            "No system"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rumah Gadang berfungsi sebagai tempat tinggal keluarga besar dalam sistem matrilineal Minangkabau.",
+                        "en": "Rumah Gadang functions as a residence for extended families in the Minangkabau matrilineal system."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "KD",
+            "cardName": "King of Diamonds",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Aceh",
+                "en": "Aceh"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Gayo"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Gayo"
+                ]
+            },
+            "image": "/tribes/gayo/media/kd.webp",
+            "quiz": []
+        },
+        {
+            "slug": "KC",
+            "cardName": "King of Clubs",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Aceh",
+                "en": "Aceh"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Gayo"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Gayo"
+                ]
+            },
+            "image": "/tribes/gayo/media/kc.webp",
+            "quiz": []
+        }
+    ]
+}

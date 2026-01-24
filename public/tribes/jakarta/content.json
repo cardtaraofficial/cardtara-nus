@@ -1,0 +1,189 @@
+{
+    "tribe": "jakarta",
+    "tribeName": {
+        "id": "Betawi Jakarta",
+        "en": "Jakarta Betawi"
+    },
+    "cards": [
+        {
+            "slug": "AS",
+            "cardName": "Ace of Spades",
+            "title": {
+                "id": "Tari Andun dari Bengkulu",
+                "en": "Andun Dance from Bengkulu"
+            },
+            "region": {
+                "id": "Bengkulu",
+                "en": "Bengkulu"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tari Andun adalah tarian tradisional dari Bengkulu yang dibawakan secara berkelompok. Tarian ini biasanya dipentaskan pada acara-acara adat dan perayaan penting di masyarakat Bengkulu.",
+                    "Gerakan tari Andun mencerminkan semangat kebersamaan dan kegotong-royongan masyarakat Bengkulu. Para penari bergerak dengan kompak mengikuti irama musik tradisional yang dimainkan dengan alat musik seperti gendang dan serunai.",
+                    "Kostum yang digunakan dalam Tari Andun sangat khas dengan warna-warna cerah yang melambangkan keceriaan. Tarian ini menjadi salah satu warisan budaya Bengkulu yang terus dilestarikan hingga saat ini."
+                ],
+                "en": [
+                    "Andun Dance is a traditional dance from Bengkulu performed in groups. This dance is usually performed at traditional ceremonies and important celebrations in the Bengkulu community.",
+                    "The movements of Andun Dance reflect the spirit of togetherness and mutual cooperation of the Bengkulu people. The dancers move in sync following the rhythm of traditional music played with instruments such as drums and serunai flutes.",
+                    "The costumes used in Andun Dance are very distinctive with bright colors that symbolize cheerfulness. This dance is one of Bengkulu's cultural heritages that continues to be preserved to this day."
+                ]
+            },
+            "image": "/tribes/jakarta/media/as.webp",
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Dari mana asal Tari Andun?",
+                        "en": "Where does Andun Dance originate from?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Jakarta",
+                            "Bengkulu",
+                            "Bali",
+                            "Sumatera Utara"
+                        ],
+                        "en": [
+                            "Jakarta",
+                            "Bengkulu",
+                            "Bali",
+                            "North Sumatra"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Andun berasal dari Bengkulu dan merupakan warisan budaya daerah tersebut.",
+                        "en": "Andun Dance originates from Bengkulu and is a cultural heritage of the region."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang tercermin dalam gerakan Tari Andun?",
+                        "en": "What is reflected in the movements of Andun Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Semangat perang",
+                            "Kebersamaan dan gotong royong",
+                            "Kehidupan laut",
+                            "Perburuan"
+                        ],
+                        "en": [
+                            "Spirit of war",
+                            "Togetherness and cooperation",
+                            "Marine life",
+                            "Hunting"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gerakan Tari Andun mencerminkan semangat kebersamaan dan kegotong-royongan masyarakat.",
+                        "en": "Andun Dance movements reflect the spirit of togetherness and mutual cooperation."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan Tari Andun biasanya dipentaskan?",
+                        "en": "When is Andun Dance usually performed?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Setiap hari",
+                            "Acara adat dan perayaan penting",
+                            "Hanya saat pemakaman",
+                            "Saat musim panen"
+                        ],
+                        "en": [
+                            "Every day",
+                            "Traditional ceremonies and important celebrations",
+                            "Only at funerals",
+                            "During harvest season"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Andun dipentaskan pada acara-acara adat dan perayaan penting di masyarakat Bengkulu.",
+                        "en": "Andun Dance is performed at traditional ceremonies and important celebrations in the Bengkulu community."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "AH",
+            "cardName": "Ace of Hearts",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Jakarta",
+                "en": "Jakarta"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Jakarta Betawi"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Jakarta Betawi"
+                ]
+            },
+            "image": "/tribes/jakarta/media/ah.webp",
+            "quiz": []
+        },
+        {
+            "slug": "AD",
+            "cardName": "Ace of Diamonds",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Jakarta",
+                "en": "Jakarta"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Jakarta Betawi"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Jakarta Betawi"
+                ]
+            },
+            "image": "/tribes/jakarta/media/ad.webp",
+            "quiz": []
+        },
+        {
+            "slug": "AC",
+            "cardName": "Ace of Clubs",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Jakarta",
+                "en": "Jakarta"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Jakarta Betawi"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Jakarta Betawi"
+                ]
+            },
+            "image": "/tribes/jakarta/media/ac.webp",
+            "quiz": []
+        }
+    ]
+}

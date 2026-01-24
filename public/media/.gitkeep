@@ -1,0 +1,46 @@
+# Media Assets untuk CARDTARA
+
+Folder ini harus berisi media files untuk setiap kartu:
+
+## Format Files
+
+### Images (*.webp)
+- **Format**: WebP (untuk optimasi size)
+- **Dimensi**: Minimal 800x600px (landscape)
+- **Quality**: 80-90%
+- **Naming**: `{slug}.webp` (lowercase)
+
+Contoh:
+- `as.webp` - Tari Andun dari Bengkulu
+- `2s.webp` - Batik Mega Mendung
+- `kh.webp` - Rumah Gadang
+
+### Audio (*.mp3)
+- **Format**: MP3 atau M4A
+- **Duration**: 30-60 detik (pendek saja)
+- **Bitrate**: 128kbps (cukup untuk narasi singkat)
+- **Naming**: `{slug}.mp3` (lowercase)
+
+Contoh:
+- `as.mp3` - Narasi Tari Andun
+- `2s.mp3` - Narasi Batik Mega Mendung
+- `kh.mp3` - Narasi Rumah Gadang
+
+## TODO: Tambahkan Media Anda
+
+Untuk MVP sekarang dengan 3 kartu (AS, 2S, KH), Anda perlu:
+
+1. Siapkan 3 gambar budaya Indonesia (format WebP)
+2. Siapkan 3 audio narasi singkat (format MP3)
+3. Copy files ke folder ini dengan naming yang benar
+
+**PENTING**: Aplikasi akan error jika media files tidak ditemukan.
+Untuk testing sementara, gunakan placeholder images atau disable image/audio di component.
+
+## Sumber Media Gratis
+
+- **Gambar**: Unsplash, Pexels, atau koleksi pribadi
+- **Audio**: Rekam sendiri atau gunakan text-to-speech
+- **Tools**: 
+  - Konversi ke WebP: https://squoosh.app/
+  - Edit audio: Audacity (gratis)

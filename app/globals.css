@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 254 243 199;
+    --foreground: 31 41 55;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+}
+
+@layer utilities {
+
+  /* Batik Pattern Background */
+  .bg-batik {
+    background-color: #fef3c7;
+    background-image:
+      repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(217, 119, 6, 0.03) 10px, rgba(217, 119, 6, 0.03) 20px),
+      repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(220, 38, 38, 0.03) 10px, rgba(220, 38, 38, 0.03) 20px);
+  }
+
+  /* Tenun Pattern */
+  .bg-tenun {
+    background:
+      linear-gradient(90deg, rgba(234, 88, 12, 0.05) 1px, transparent 1px),
+      linear-gradient(rgba(234, 88, 12, 0.05) 1px, transparent 1px);
+    background-size: 15px 15px;
+  }
+
+  /* Glassmorphism Effect */
+  .glass {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .glass-dark {
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* Decorative Border dengan motif Nusantara */
+  .border-nusantara {
+    border-image: linear-gradient(135deg, #DC2626, #D97706, #059669, #1E40AF) 1;
+  }
+
+  /* Text Gradient */
+  .text-gradient-nusantara {
+    background: linear-gradient(135deg, #DC2626 0%, #D97706 25%, #059669 50%, #1E40AF 75%, #7C3AED 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Glow Effect */
+  .glow-gold {
+    text-shadow: 0 0 10px rgba(217, 119, 6, 0.5),
+      0 0 20px rgba(217, 119, 6, 0.3),
+      0 0 30px rgba(217, 119, 6, 0.2);
+  }
+
+  /* Dot Pattern Background */
+  .bg-dots {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+
+  /* Decorative Corner */
+  .corner-decor::before,
+  .corner-decor::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 2px solid currentColor;
+  }
+
+  .corner-decor::before {
+    top: 0;
+    left: 0;
+    border-right: none;
+    border-bottom: none;
+  }
+
+  .corner-decor::after {
+    bottom: 0;
+    right: 0;
+    border-left: none;
+    border-top: none;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4f46e5;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ec1325;
+}
+
+/* Batik Overlay Pattern - New Design */
+.batik-overlay {
+  background-image: radial-gradient(rgba(236, 19, 37, 0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+}

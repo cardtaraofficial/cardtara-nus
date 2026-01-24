@@ -1,0 +1,189 @@
+{
+    "tribe": "minang",
+    "tribeName": {
+        "id": "Minangkabau",
+        "en": "Minangkabau"
+    },
+    "cards": [
+        {
+            "slug": "2S",
+            "cardName": "2 of Spades",
+            "title": {
+                "id": "Batik Mega Mendung dari Cirebon",
+                "en": "Mega Mendung Batik from Cirebon"
+            },
+            "region": {
+                "id": "Cirebon, Jawa Barat",
+                "en": "Cirebon, West Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Batik Mega Mendung adalah motif batik khas dari Cirebon, Jawa Barat. Motif ini terkenal dengan pola awan yang melengkung dan gradasi warna yang khas, biasanya biru atau merah.",
+                    "Nama 'Mega Mendung' berasal dari kata 'mega' yang berarti awan dan 'mendung' yang berarti gelap. Motif ini melambangkan sifat tenang dan sabar seperti awan yang bergerak perlahan di langit.",
+                    "Batik Mega Mendung memiliki pengaruh budaya China yang kuat, terlihat dari warna dan bentuk awannya. Motif ini menjadi salah satu identitas budaya Cirebon yang sangat terkenal di Indonesia dan mancanegara."
+                ],
+                "en": [
+                    "Mega Mendung Batik is a distinctive batik pattern from Cirebon, West Java. This pattern is famous for its curved cloud patterns and characteristic color gradations, usually blue or red.",
+                    "The name 'Mega Mendung' comes from the words 'mega' meaning cloud and 'mendung' meaning dark. This motif symbolizes calm and patient nature like clouds moving slowly in the sky.",
+                    "Mega Mendung Batik has strong Chinese cultural influences, seen from the colors and shapes of the clouds. This motif has become one of Cirebon's cultural identities that is very famous in Indonesia and abroad."
+                ]
+            },
+            "image": "/tribes/minang/media/2s.webp",
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Dari mana asal Batik Mega Mendung?",
+                        "en": "Where does Mega Mendung Batik originate from?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Solo",
+                            "Yogyakarta",
+                            "Cirebon",
+                            "Pekalongan"
+                        ],
+                        "en": [
+                            "Solo",
+                            "Yogyakarta",
+                            "Cirebon",
+                            "Pekalongan"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Batik Mega Mendung berasal dari Cirebon, Jawa Barat.",
+                        "en": "Mega Mendung Batik originates from Cirebon, West Java."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa arti dari 'Mega Mendung'?",
+                        "en": "What does 'Mega Mendung' mean?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gunung tinggi",
+                            "Awan gelap",
+                            "Laut dalam",
+                            "Matahari terik"
+                        ],
+                        "en": [
+                            "High mountain",
+                            "Dark cloud",
+                            "Deep sea",
+                            "Scorching sun"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "'Mega' berarti awan dan 'mendung' berarti gelap, jadi Mega Mendung berarti awan gelap.",
+                        "en": "'Mega' means cloud and 'mendung' means dark, so Mega Mendung means dark cloud."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Pengaruh budaya apa yang kuat dalam Batik Mega Mendung?",
+                        "en": "What cultural influence is strong in Mega Mendung Batik?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Arab",
+                            "India",
+                            "China",
+                            "Eropa"
+                        ],
+                        "en": [
+                            "Arabic",
+                            "Indian",
+                            "Chinese",
+                            "European"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Batik Mega Mendung memiliki pengaruh budaya China yang kuat, terlihat dari warna dan bentuk awannya.",
+                        "en": "Mega Mendung Batik has strong Chinese cultural influences, seen from the colors and shapes of the clouds."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "2H",
+            "cardName": "2 of Hearts",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Sumatera Barat",
+                "en": "West Sumatra"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Minangkabau"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Minangkabau"
+                ]
+            },
+            "image": "/tribes/minang/media/2h.webp",
+            "quiz": []
+        },
+        {
+            "slug": "2D",
+            "cardName": "2 of Diamonds",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Sumatera Barat",
+                "en": "West Sumatra"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Minangkabau"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Minangkabau"
+                ]
+            },
+            "image": "/tribes/minang/media/2d.webp",
+            "quiz": []
+        },
+        {
+            "slug": "2C",
+            "cardName": "2 of Clubs",
+            "title": {
+                "id": "[Konten Belum Diisi]",
+                "en": "[Content Not Yet Filled]"
+            },
+            "region": {
+                "id": "Sumatera Barat",
+                "en": "West Sumatra"
+            },
+            "paragraphs": {
+                "id": [
+                    "Konten belum diisi.",
+                    "Silakan edit content.json untuk mengisi.",
+                    "Tribe: Minangkabau"
+                ],
+                "en": [
+                    "Content not yet filled.",
+                    "Please edit content.json to fill in.",
+                    "Tribe: Minangkabau"
+                ]
+            },
+            "image": "/tribes/minang/media/2c.webp",
+            "quiz": []
+        }
+    ]
+}

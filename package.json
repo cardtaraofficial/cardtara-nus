@@ -4,7 +4,8 @@
   "description": "CARDTARA - 52 Kartu Budaya Nusantara dengan QR Code",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "concurrently \"next dev --turbo\" \"wait-on http://localhost:3000 && open-cli http://localhost:3000\"",
+    "dev:no-open": "next dev --turbo",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -21,12 +22,15 @@
     "@types/react": "^19.0.6",
     "@types/react-dom": "^19.0.3",
     "autoprefixer": "^10.4.20",
+    "concurrently": "^9.2.1",
     "eslint": "^9.18.0",
     "eslint-config-next": "^15.1.4",
+    "open-cli": "^8.0.0",
     "postcss": "^8.4.49",
     "qrcode": "^1.5.4",
     "tailwindcss": "^3.4.17",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "wait-on": "^9.0.3"
   }
 }

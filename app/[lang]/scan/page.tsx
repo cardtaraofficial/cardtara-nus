@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import type { Locale } from "@/lib/i18n";
+import jsQR from "jsqr";
 
 type Props = {
     params: Promise<{ lang: string }>;
@@ -13,8 +14,11 @@ export default function ScanPage({ params }: Props) {
     const [locale, setLocale] = useState<Locale>("id");
     const [isScanning, setIsScanning] = useState(false);
     const [facingMode, setFacingMode] = useState<"user" | "environment">("environment"); // user = front, environment = back
+    const [scanStatus, setScanStatus] = useState<string>("");
     const videoRef = useRef<HTMLVideoElement>(null);
+    const canvasRef = useRef<HTMLCanvasElement>(null);
     const streamRef = useRef<MediaStream | null>(null);
+    const scanIntervalRef = useRef<number | null>(null);
     const router = useRouter();
 
     useEffect(() => {
@@ -46,6 +50,50 @@ export default function ScanPage({ params }: Props) {
 
     const t = content[locale];
 
+    const scanQRCode = () => {
+        const video = videoRef.current;
+        const canvas = canvasRef.current;
+
+        if (!video || !canvas || video.readyState !== video.HAVE_ENOUGH_DATA) {
+            return;
+        }
+
+        const context = canvas.getContext("2d");
+        if (!context) return;
+
+        // Set canvas size to match video
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+
+        // Draw current video frame to canvas
+        context.drawImage(video, 0, 0, canvas.width, canvas.height);
+
+        // Get image data
+        const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+
+        // Try to decode QR code
+        const code = jsQR(imageData.data, imageData.width, imageData.height, {
+            inversionAttempts: "dontInvert",
+        });
+
+        if (code && code.data) {
+            setScanStatus(`✅ QR Detected: ${code.data}`);
+
+            // Extract slug from URL (e.g., https://cardtara-nus.vercel.app/id/k/AS -> AS)
+            const urlMatch = code.data.match(/\/k\/([A-Z0-9]+)$/i);
+            if (urlMatch) {
+                const slug = urlMatch[1].toUpperCase();
+                setScanStatus(`🎯 Redirecting to ${slug}...`);
+                stopScanning();
+                router.push(`/${locale}/k/${slug}`);
+            } else {
+                setScanStatus("⚠️ QR tidak valid. Format: .../k/SLUG");
+            }
+        } else {
+            setScanStatus("🔍 Mencari QR code...");
+        }
+    };
+
     const startScanning = async () => {
         try {
             const stream = await navigator.mediaDevices.getUserMedia({
@@ -57,6 +105,12 @@ export default function ScanPage({ params }: Props) {
                 streamRef.current = stream;
                 await videoRef.current.play();
                 setIsScanning(true);
+                setScanStatus("🔍 Mencari QR code...");
+
+                // Start scanning interval (scan every 300ms)
+                scanIntervalRef.current = window.setInterval(() => {
+                    scanQRCode();
+                }, 300);
             }
         } catch (err) {
             console.error("Camera error:", err);
@@ -65,6 +119,12 @@ export default function ScanPage({ params }: Props) {
     };
 
     const stopScanning = () => {
+        // Clear scanning interval
+        if (scanIntervalRef.current) {
+            clearInterval(scanIntervalRef.current);
+            scanIntervalRef.current = null;
+        }
+
         if (streamRef.current) {
             streamRef.current.getTracks().forEach((track) => track.stop());
             streamRef.current = null;
@@ -73,6 +133,7 @@ export default function ScanPage({ params }: Props) {
             videoRef.current.srcObject = null;
         }
         setIsScanning(false);
+        setScanStatus("");
     };
 
     const switchCamera = async () => {
@@ -126,6 +187,9 @@ export default function ScanPage({ params }: Props) {
                     className={isScanning ? "w-full aspect-square object-cover rounded-2xl" : "hidden"}
                 />
 
+                {/* Hidden canvas for QR processing */}
+                <canvas ref={canvasRef} className="hidden" />
+
                 {!isScanning ? (
                     <div className="bg-white rounded-2xl shadow-xl p-12 text-center">
                         <div className="text-8xl mb-6">📸</div>
@@ -147,6 +211,15 @@ export default function ScanPage({ params }: Props) {
                     </div>
                 ) : (
                     <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
+                        {/* Scan Status Display */}
+                        {scanStatus && (
+                            <div className="p-4 bg-indigo-50 border-b border-indigo-100">
+                                <p className="text-center text-indigo-700 font-semibold">
+                                    {scanStatus}
+                                </p>
+                            </div>
+                        )}
+
                         <div className="p-6 bg-gray-50">
                             <p className="text-center text-gray-600 mb-4 font-semibold">
                                 ✅ {t.ready} - {t.instruction}

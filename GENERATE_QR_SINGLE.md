@@ -26,7 +26,7 @@ Contoh:
 ## Custom URL (Production)
 
 ```bash
-NEXT_PUBLIC_BASE_URL=https://cardtara.vercel.app npx tsx scripts/generate-single-qr.ts
+NEXT_PUBLIC_BASE_URL=https://cardtara-nus.vercel.app npx tsx scripts/generate-single-qr.ts
 ```
 
 ## Cara Pakai QR:

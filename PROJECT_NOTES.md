@@ -376,7 +376,7 @@ const rankToTribe = {
 
 ### Environment Variables
 ```bash
-NEXT_PUBLIC_BASE_URL=https://cardtara.vercel.app
+NEXT_PUBLIC_BASE_URL=https://cardtara-nus.vercel.app
 ```
 - Used untuk QR code generation
 - Ganti dengan domain production sebelum generate QR untuk cetak fisik

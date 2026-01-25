@@ -176,7 +176,7 @@ QR codes akan disimpan di `public/qrs/` dalam format PNG (300x300px).
 **Environment Variable:**
 ```bash
 # .env.local
-NEXT_PUBLIC_BASE_URL=https://cardtara.vercel.app
+NEXT_PUBLIC_BASE_URL=https://cardtara-nus.vercel.app
 ```
 
 Ganti dengan domain production Anda sebelum generate QR untuk cetak.
@@ -194,7 +194,7 @@ Ganti dengan domain production Anda sebelum generate QR untuk cetak.
 
 3. **Set Environment Variables** (optional)
    ```
-   NEXT_PUBLIC_BASE_URL=https://your-domain.vercel.app
+   NEXT_PUBLIC_BASE_URL=https://cardtara-nus.vercel.app
    ```
 
 4. **Deploy!**

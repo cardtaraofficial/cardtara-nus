@@ -137,18 +137,37 @@ export default function ScanPage({ params }: Props) {
     };
 
     const switchCamera = async () => {
+        // Stop current scanning first
+        stopScanning();
+
         // Toggle between front and back camera
         const newFacingMode = facingMode === "environment" ? "user" : "environment";
         setFacingMode(newFacingMode);
 
-        // Restart stream with new camera
-        if (isScanning) {
-            stopScanning();
-            // Wait a bit then restart with new camera
-            setTimeout(() => {
-                startScanning();
-            }, 100);
-        }
+        // Wait a bit for state to update, then restart with new camera
+        setTimeout(async () => {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({
+                    video: { facingMode: newFacingMode },
+                });
+
+                if (videoRef.current) {
+                    videoRef.current.srcObject = stream;
+                    streamRef.current = stream;
+                    await videoRef.current.play();
+                    setIsScanning(true);
+                    setScanStatus("🔍 Mencari QR code...");
+
+                    // Start scanning interval (scan every 300ms)
+                    scanIntervalRef.current = window.setInterval(() => {
+                        scanQRCode();
+                    }, 300);
+                }
+            } catch (err) {
+                console.error("Camera switch error:", err);
+                alert("Gagal mengganti kamera.");
+            }
+        }, 100);
     };
 
     const handleManualInput = () => {

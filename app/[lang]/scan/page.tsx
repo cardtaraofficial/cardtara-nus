@@ -118,7 +118,11 @@ export default function ScanPage({ params }: Props) {
                     autoPlay
                     playsInline
                     muted
-                    style={{ transform: "scaleX(-1)" }}
+                    style={{
+                        // Mirror hanya untuk kamera depan agar terlihat natural
+                        // Kamera belakang TIDAK di-mirror agar QR code terbaca
+                        transform: facingMode === "user" ? "scaleX(-1)" : "scaleX(1)"
+                    }}
                     className={isScanning ? "w-full aspect-square object-cover rounded-2xl" : "hidden"}
                 />
 

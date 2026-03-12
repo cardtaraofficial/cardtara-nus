@@ -1,0 +1,441 @@
+{
+    "tribe": "jateng",
+    "tribeName": {
+        "id": "Jawa Tengah",
+        "en": "Central Java"
+    },
+    "cards": [
+        {
+            "slug": "5S",
+            "cardName": "5 of Spades",
+            "title": {
+                "id": "Legenda Roro Jonggrang",
+                "en": "Legend of Roro Jonggrang"
+            },
+            "region": {
+                "id": "Jawa Tengah",
+                "en": "Central Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Roro Jonggrang adalah cerita rakyat terkenal dari Jawa Tengah yang berkaitan dengan Candi Prambanan. Kisah ini menceritakan tentang Bandung Bondowoso, seorang pangeran sakti yang jatuh cinta pada Roro Jonggrang, putri cantik yang merupakan putri Raja Boko. Namun Roro Jonggrang tidak mencintai Bandung Bondowoso karena dialah yang telah membunuh ayahnya dalam peperangan.",
+                    "Untuk menolak lamaran Bandung Bondowoso tanpa mengecewakan, Roro Jonggrang memberikan syarat yang dianggap mustahil, yaitu membangun seribu candi dalam waktu semalam. Dengan bantuan pasukan jin dan kekuatan gaibnya, Bandung Bondowoso hampir menyelesaikan tugas tersebut. Melihat hal ini, Roro Jonggrang dan para dayang menumbuk padi dan menyalakan api sehingga ayam jantan berkokok mengira fajar telah tiba.",
+                    "Jin-jin pun menghentikan pekerjaannya karena mengira matahari sudah terbit. Hanya tersisa satu candi yang belum selesai dari seribu candi yang diminta. Bandung Bondowoso yang murka mengetahui tipu muslihat ini mengutuk Roro Jonggrang menjadi arca untuk melengkapi candi yang keseribu. Arca tersebut hingga kini berdiri megah di Candi Prambanan sebagai simbol cinta yang tragis."
+                ],
+                "en": [
+                    "Roro Jonggrang is a famous folktale from Central Java related to Prambanan Temple. This story tells about Bandung Bondowoso, a powerful prince who fell in love with Roro Jonggrang, a beautiful princess who was the daughter of King Boko. However, Roro Jonggrang did not love Bandung Bondowoso because he had killed her father in war.",
+                    "To refuse Bandung Bondowoso's proposal without disappointing him, Roro Jonggrang gave a condition that was considered impossible, namely to build a thousand temples in one night. With the help of an army of genies and his supernatural powers, Bandung Bondowoso almost completed the task. Seeing this, Roro Jonggrang and the ladies pounded rice and lit fires so that the rooster crowed thinking dawn had arrived.",
+                    "The genies stopped working because they thought the sun had risen. Only one temple remained unfinished from the thousand temples requested. Bandung Bondowoso, who was furious knowing this trick, cursed Roro Jonggrang to become a statue to complete the thousandth temple. The statue stands majestically at Prambanan Temple to this day as a symbol of tragic love."
+                ]
+            },
+            "tags": [
+                "RoroJonggrang",
+                "Prambanan",
+                "JawaTengahLegend",
+                "CentralJavaFolklore",
+                "CandiPrambanan"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Syarat apa yang diberikan Roro Jonggrang kepada Bandung Bondowoso?",
+                        "en": "What condition did Roro Jonggrang give to Bandung Bondowoso?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Membangun istana",
+                            "Membangun seribu candi dalam semalam",
+                            "Mengalahkan raja tetangga",
+                            "Mencari harta karun"
+                        ],
+                        "en": [
+                            "Build a palace",
+                            "Build a thousand temples in one night",
+                            "Defeat neighboring king",
+                            "Find treasure"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Roro Jonggrang memberikan syarat membangun seribu candi dalam waktu semalam.",
+                        "en": "Roro Jonggrang gave the condition to build a thousand temples in one night."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bagaimana Roro Jonggrang menggagalkan usaha Bandung Bondowoso?",
+                        "en": "How did Roro Jonggrang thwart Bandung Bondowoso's efforts?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menghancurkan candi",
+                            "Membuat ayam berkokok sebelum fajar",
+                            "Meminta bantuan raja",
+                            "Melarikan diri"
+                        ],
+                        "en": [
+                            "Destroying temples",
+                            "Making roosters crow before dawn",
+                            "Asking for king's help",
+                            "Running away"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Roro Jonggrang menumbuk padi dan menyalakan api agar ayam berkokok mengira fajar telah tiba.",
+                        "en": "Roro Jonggrang pounded rice and lit fires so that roosters crowed thinking dawn had arrived."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang terjadi pada Roro Jonggrang di akhir cerita?",
+                        "en": "What happened to Roro Jonggrang at the end of the story?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menikah dengan Bandung Bondowoso",
+                            "Dikutuk menjadi arca",
+                            "Menjadi ratu",
+                            "Melarikan diri"
+                        ],
+                        "en": [
+                            "Married Bandung Bondowoso",
+                            "Cursed to become a statue",
+                            "Became queen",
+                            "Ran away"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Roro Jonggrang dikutuk menjadi arca untuk melengkapi candi yang keseribu.",
+                        "en": "Roro Jonggrang was cursed to become a statue to complete the thousandth temple."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "5H",
+            "cardName": "5 of Hearts",
+            "title": {
+                "id": "Candi Borobudur",
+                "en": "Borobudur Temple"
+            },
+            "region": {
+                "id": "Jawa Tengah",
+                "en": "Central Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Candi Borobudur adalah candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah. Dibangun pada abad ke-9 pada masa pemerintahan Wangsa Syailendra, candi ini memiliki arsitektur yang sangat megah dengan struktur berbentuk piramida bertingkat. Borobudur terdiri dari enam teras berbentuk bujur sangkar, tiga teras melingkar, dan sebuah stupa utama di puncaknya.",
+                    "Candi ini dihiasi dengan 2.672 panel relief dan 504 arca Buddha yang menceritakan perjalanan spiritual menuju pencerahan. Setiap tingkat candi melambangkan tahap pencapaian spiritual dalam ajaran Buddha, mulai dari Kamadhatu (dunia nafsu), Rupadhatu (dunia bentuk), hingga Arupadhatu (dunia tanpa bentuk). Borobudur bukan hanya bangunan ibadah, tetapi juga kitab batu yang mengajarkan filosofi kehidupan.",
+                    "Pada tahun 1991, UNESCO menetapkan Borobudur sebagai Situs Warisan Dunia. Setiap tahun, ribuan wisatawan domestik dan mancanegara mengunjungi candi ini untuk menikmati keindahan arsitektur, mempelajari sejarah, dan merasakan kekhusyukan spiritual. Borobudur menjadi simbol kebesaran peradaban Indonesia kuno dan kebanggaan bangsa."
+                ],
+                "en": [
+                    "Borobudur Temple is the largest Buddhist temple in the world located in Magelang, Central Java. Built in the 9th century during the reign of the Syailendra Dynasty, this temple has a very magnificent architecture with a tiered pyramid structure. Borobudur consists of six square terraces, three circular terraces, and a main stupa at the top.",
+                    "The temple is decorated with 2,672 relief panels and 504 Buddha statues that tell the spiritual journey to enlightenment. Each level of the temple symbolizes a stage of spiritual achievement in Buddhist teachings, from Kamadhatu (world of desire), Rupadhatu (world of form), to Arupadhatu (formless world). Borobudur is not only a place of worship, but also a stone book that teaches the philosophy of life.",
+                    "In 1991, UNESCO designated Borobudur as a World Heritage Site. Every year, thousands of domestic and foreign tourists visit this temple to enjoy the architectural beauty, learn history, and feel spiritual solemnity. Borobudur has become a symbol of the greatness of ancient Indonesian civilization and national pride."
+                ]
+            },
+            "tags": [
+                "Borobudur",
+                "CandiBorobudur",
+                "UNESCO",
+                "JawaTengah",
+                "WorldHeritage"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Candi Borobudur dibangun pada abad ke berapa?",
+                        "en": "In which century was Borobudur Temple built?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Abad ke-7",
+                            "Abad ke-9",
+                            "Abad ke-11",
+                            "Abad ke-13"
+                        ],
+                        "en": [
+                            "7th century",
+                            "9th century",
+                            "11th century",
+                            "13th century"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Candi Borobudur dibangun pada abad ke-9 pada masa pemerintahan Wangsa Syailendra.",
+                        "en": "Borobudur Temple was built in the 9th century during the reign of the Syailendra Dynasty."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Berapa jumlah panel relief di Candi Borobudur?",
+                        "en": "How many relief panels are at Borobudur Temple?"
+                    },
+                    "choices": {
+                        "id": [
+                            "1.000",
+                            "2.672",
+                            "5.000",
+                            "10.000"
+                        ],
+                        "en": [
+                            "1,000",
+                            "2,672",
+                            "5,000",
+                            "10,000"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Candi Borobudur dihiasi dengan 2.672 panel relief yang menceritakan perjalanan spiritual.",
+                        "en": "Borobudur Temple is decorated with 2,672 relief panels that tell the spiritual journey."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan UNESCO menetapkan Borobudur sebagai Situs Warisan Dunia?",
+                        "en": "When did UNESCO designate Borobudur as a World Heritage Site?"
+                    },
+                    "choices": {
+                        "id": [
+                            "1975",
+                            "1985",
+                            "1991",
+                            "2000"
+                        ],
+                        "en": [
+                            "1975",
+                            "1985",
+                            "1991",
+                            "2000"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "UNESCO menetapkan Borobudur sebagai Situs Warisan Dunia pada tahun 1991.",
+                        "en": "UNESCO designated Borobudur as a World Heritage Site in 1991."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "5D",
+            "cardName": "5 of Diamonds",
+            "title": {
+                "id": "Gudeg",
+                "en": "Gudeg"
+            },
+            "region": {
+                "id": "Jawa Tengah",
+                "en": "Central Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan dan bumbu rempah-rempah. Proses memasaknya memerlukan waktu berjam-jam dengan api kecil hingga menghasilkan warna cokelat kehitaman dan rasa manis gurih yang khas. Gudeg biasanya disajikan dengan nasi, telur, ayam, krecek (kulit sapi), dan sambal goreng krecek.",
+                    "Ada beberapa jenis gudeg berdasarkan tingkat kemanisan dan kekentalan, seperti gudeg basah yang lebih berkuah dan gudeg kering yang lebih pekat. Gudeg Yogyakarta biasanya lebih manis, sedangkan gudeg Solo cenderung lebih gurih. Makanan ini mencerminkan kesabaran dan ketekunan karena proses memasaknya yang memakan waktu lama.",
+                    "Gudeg telah menjadi identitas kuliner Yogyakarta dan bagian penting dari budaya Jawa. Warung gadang yang menjual gudeg dapat ditemukan di setiap sudut kota, dan banyak yang buka 24 jam. Gudeg tidak hanya sekadar makanan, tetapi juga simbol keramahan dan kehangatan masyarakat Jawa yang diwariskan turun-temurun."
+                ],
+                "en": [
+                    "Gudeg is a typical food of Yogyakarta and Central Java made from young jackfruit cooked with coconut milk and spices. The cooking process takes hours over low heat until it produces a blackish-brown color and a distinctive sweet savory taste. Gudeg is usually served with rice, eggs, chicken, krecek (cow skin), and krecek stir-fried sambal.",
+                    "There are several types of gudeg based on the level of sweetness and consistency, such as wet gudeg which is more soupy and dry gudeg which is more concentrated. Yogyakarta gudeg is usually sweeter, while Solo gudeg tends to be more savory. This food reflects patience and diligence because of its time-consuming cooking process.",
+                    "Gudeg has become the culinary identity of Yogyakarta and an important part of Javanese culture. Warung gadang selling gudeg can be found in every corner of the city, and many are open 24 hours. Gudeg is not just food, but also a symbol of the friendliness and warmth of the Javanese people that has been passed down through generations."
+                ]
+            },
+            "tags": [
+                "Gudeg",
+                "YogyakartaFood",
+                "JawaTengahCuisine",
+                "IndonesianFood",
+                "TraditionalFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Bahan utama gudeg adalah …",
+                        "en": "The main ingredient of gudeg is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Nangka muda",
+                            "Pepaya muda",
+                            "Labu kuning",
+                            "Terong"
+                        ],
+                        "en": [
+                            "Young jackfruit",
+                            "Young papaya",
+                            "Pumpkin",
+                            "Eggplant"
+                        ]
+                    },
+                    "answerIndex": 0,
+                    "explain": {
+                        "id": "Gudeg terbuat dari nangka muda yang dimasak dengan santan dan bumbu rempah.",
+                        "en": "Gudeg is made from young jackfruit cooked with coconut milk and spices."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa memasak gudeg memerlukan waktu lama?",
+                        "en": "Why does cooking gudeg take a long time?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Agar hemat gas",
+                            "Agar warnanya cokelat kehitaman dengan rasa yang meresap",
+                            "Agar lebih cepat matang",
+                            "Agar lebih murah"
+                        ],
+                        "en": [
+                            "To save gas",
+                            "To make the color blackish-brown with absorbed taste",
+                            "To cook faster",
+                            "To be cheaper"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gudeg dimasak dengan api kecil berjam-jam hingga warna cokelat kehitaman dan rasa meresap sempurna.",
+                        "en": "Gudeg is cooked over low heat for hours until the color is blackish-brown and the taste is perfectly absorbed."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Perbedaan gudeg Yogyakarta dan Solo adalah …",
+                        "en": "The difference between Yogyakarta and Solo gudeg is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Yogyakarta lebih manis, Solo lebih gurih",
+                            "Solo lebih pedas",
+                            "Tidak ada perbedaan",
+                            "Yogyakarta lebih asin"
+                        ],
+                        "en": [
+                            "Yogyakarta is sweeter, Solo is more savory",
+                            "Solo is spicier",
+                            "No difference",
+                            "Yogyakarta is saltier"
+                        ]
+                    },
+                    "answerIndex": 0,
+                    "explain": {
+                        "id": "Gudeg Yogyakarta umumnya lebih manis, sedangkan gudeg Solo cenderung lebih gurih.",
+                        "en": "Yogyakarta gudeg is generally sweeter, while Solo gudeg tends to be more savory."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "5C",
+            "cardName": "5 of Clubs",
+            "title": {
+                "id": "Wayang Kulit",
+                "en": "Shadow Puppet"
+            },
+            "region": {
+                "id": "Jawa Tengah",
+                "en": "Central Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Wayang kulit adalah seni pertunjukan tradisional Jawa yang menggunakan boneka kulit yang dimainkan oleh seorang dalang di balik layar putih dengan sorotan lampu. Bayangan wayang yang diproyeksikan pada layar menceritakan kisah epik seperti Ramayana dan Mahabharata. Pertunjukan wayang kulit biasanya berlangsung semalam suntuk dari malam hingga pagi.",
+                    "Seorang dalang harus menguasai berbagai keterampilan sekaligus, yaitu menggerakkan wayang, menirukan suara tokoh yang berbeda-beda, menyanyikan suluk, dan mengarahkan gamelan. Wayang kulit mengandung filosofi mendalam tentang kehidupan, kebaikan versus kejahatan, dan nilai-nilai moral Jawa. Setiap karakter wayang memiliki makna simbolis tertentu.",
+                    "UNESCO mengakui wayang kulit sebagai Karya Agung Warisan Budaya Lisan dan Takbenda Manusia pada tahun 2003. Wayang kulit bukan hanya hiburan, tetapi juga media pendidikan, dakwah, dan pelestarian nilai budaya. Hingga kini, wayang kulit tetap menjadi bagian penting dari upacara adat Jawa dan pertunjukan seni yang dihormati."
+                ],
+                "en": [
+                    "Shadow puppet is a traditional Javanese performing art that uses leather puppets played by a puppeteer behind a white screen with light projection. The shadow of the puppet projected on the screen tells epic stories such as Ramayana and Mahabharata. Shadow puppet performances usually last all night from evening until morning.",
+                    "A puppeteer must master various skills at once, namely moving the puppets, imitating the voices of different characters, singing suluk, and directing the gamelan. Shadow puppet contains deep philosophy about life, good versus evil, and Javanese moral values. Each puppet character has a certain symbolic meaning.",
+                    "UNESCO recognized shadow puppet as a Masterpiece of Oral and Intangible Heritage of Humanity in 2003. Shadow puppet is not only entertainment, but also a medium of education, preaching, and preservation of cultural values. Until now, shadow puppet remains an important part of Javanese traditional ceremonies and respected art performances."
+                ]
+            },
+            "tags": [
+                "WayangKulit",
+                "ShadowPuppet",
+                "UNESCO",
+                "JawaneseCulture",
+                "TraditionalArts"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Wayang kulit dimainkan oleh …",
+                        "en": "Shadow puppet is played by …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Penari",
+                            "Dalang",
+                            "Penyanyi",
+                            "Musisi"
+                        ],
+                        "en": [
+                            "Dancer",
+                            "Puppeteer",
+                            "Singer",
+                            "Musician"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Wayang kulit dimainkan oleh seorang dalang yang menguasai berbagai keterampilan.",
+                        "en": "Shadow puppet is played by a puppeteer who masters various skills."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kisah apa yang sering diceritakan dalam pertunjukan wayang kulit?",
+                        "en": "What stories are often told in shadow puppet performances?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kisah modern",
+                            "Ramayana dan Mahabharata",
+                            "Cerita detektif",
+                            "Dongeng anak"
+                        ],
+                        "en": [
+                            "Modern stories",
+                            "Ramayana and Mahabharata",
+                            "Detective stories",
+                            "Children's fairy tales"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Wayang kulit sering menceritakan kisah epik seperti Ramayana dan Mahabharata.",
+                        "en": "Shadow puppet often tells epic stories such as Ramayana and Mahabharata."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan UNESCO mengakui wayang kulit?",
+                        "en": "When did UNESCO recognize shadow puppet?"
+                    },
+                    "choices": {
+                        "id": [
+                            "1999",
+                            "2003",
+                            "2010",
+                            "2015"
+                        ],
+                        "en": [
+                            "1999",
+                            "2003",
+                            "2010",
+                            "2015"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "UNESCO mengakui wayang kulit sebagai Warisan Budaya Takbenda pada tahun 2003.",
+                        "en": "UNESCO recognized shadow puppet as Intangible Cultural Heritage in 2003."
+                    }
+                }
+            ]
+        }
+    ]
+}

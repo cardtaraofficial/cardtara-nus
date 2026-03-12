@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { FaInstagram, FaShoppingBag } from "react-icons/fa";
+import { SiShopee } from "react-icons/si";
 
 export default function Footer() {
     const pathname = usePathname();
@@ -47,14 +49,14 @@ export default function Footer() {
 
                     {/* Social Media Icons */}
                     <div className="flex gap-1.5 mb-3">
-                        <a href="#" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="Website">
-                            <span className="text-sm">🌐</span>
+                        <a href="https://instagram.com/cardtara" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="Instagram">
+                            <FaInstagram className="text-base text-white" />
                         </a>
-                        <a href="#" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="YouTube">
-                            <span className="text-sm">📺</span>
+                        <a href="https://shopee.co.id/cardtara" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="Shopee">
+                            <SiShopee className="text-base text-white" />
                         </a>
-                        <a href="#" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="Social">
-                            <span className="text-sm">📱</span>
+                        <a href="https://tokopedia.com/cardtara" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center hover:bg-primary transition-colors" aria-label="Tokopedia">
+                            <FaShoppingBag className="text-base text-white" />
                         </a>
                     </div>
                 </div>
@@ -63,9 +65,9 @@ export default function Footer() {
                 <div className="pt-3 border-t border-white/5 flex flex-col items-center gap-1.5 text-gray-500 text-xs">
                     <p>{t.copyright}</p>
                     <div className="flex gap-3">
-                        <Link href="#" className="hover:text-white transition-colors">{t.privacy}</Link>
+                        <span className="cursor-default">{t.privacy}</span>
                         <span>•</span>
-                        <Link href="#" className="hover:text-white transition-colors">{t.terms}</Link>
+                        <span className="cursor-default">{t.terms}</span>
                     </div>
                 </div>
             </div>

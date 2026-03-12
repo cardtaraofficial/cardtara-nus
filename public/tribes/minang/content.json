@@ -9,100 +9,106 @@
             "slug": "2S",
             "cardName": "2 of Spades",
             "title": {
-                "id": "Batik Mega Mendung dari Cirebon",
-                "en": "Mega Mendung Batik from Cirebon"
+                "id": "Legenda Malin Kundang",
+                "en": "Legend of Malin Kundang"
             },
             "region": {
-                "id": "Cirebon, Jawa Barat",
-                "en": "Cirebon, West Java"
+                "id": "Sumatera Barat",
+                "en": "West Sumatra"
             },
             "paragraphs": {
                 "id": [
-                    "Batik Mega Mendung adalah motif batik khas dari Cirebon, Jawa Barat. Motif ini terkenal dengan pola awan yang melengkung dan gradasi warna yang khas, biasanya biru atau merah.",
-                    "Nama 'Mega Mendung' berasal dari kata 'mega' yang berarti awan dan 'mendung' yang berarti gelap. Motif ini melambangkan sifat tenang dan sabar seperti awan yang bergerak perlahan di langit.",
-                    "Batik Mega Mendung memiliki pengaruh budaya China yang kuat, terlihat dari warna dan bentuk awannya. Motif ini menjadi salah satu identitas budaya Cirebon yang sangat terkenal di Indonesia dan mancanegara."
+                    "Malin Kundang adalah salah satu cerita rakyat paling terkenal dari Sumatera Barat yang mengandung pesan moral tentang bakti kepada orang tua. Cerita ini mengisahkan seorang anak miskin bernama Malin Kundang yang merantau untuk mengubah nasib. Setelah menjadi kaya raya dan menikah dengan putri saudagar, ia kembali ke kampung halamannya dengan kapal megah.",
+                    "Ketika ibunya yang sudah tua dan lusuh berlari memeluknya di pelabuhan, Malin Kundang justru mengingkarinya karena malu. Ia mengatakan bahwa ibunya bukanlah ibu kandungnya dan menolak mengakuinya. Hati sang ibu sangat terluka oleh penolakan anak yang telah ia besarkan dengan susah payah.",
+                    "Dalam kesedihan dan kemarahannya, sang ibu mengutuk Malin Kundang menjadi batu. Tidak lama kemudian, badai besar menerjang kapal Malin Kundang dan ia pun berubah menjadi batu di pesisir pantai Padang. Kisah ini menjadi pengingat akan pentingnya berbakti kepada orang tua dalam budaya Minangkabau."
                 ],
                 "en": [
-                    "Mega Mendung Batik is a distinctive batik pattern from Cirebon, West Java. This pattern is famous for its curved cloud patterns and characteristic color gradations, usually blue or red.",
-                    "The name 'Mega Mendung' comes from the words 'mega' meaning cloud and 'mendung' meaning dark. This motif symbolizes calm and patient nature like clouds moving slowly in the sky.",
-                    "Mega Mendung Batik has strong Chinese cultural influences, seen from the colors and shapes of the clouds. This motif has become one of Cirebon's cultural identities that is very famous in Indonesia and abroad."
+                    "Malin Kundang is one of the most famous folktales from West Sumatra that contains a moral message about filial piety to parents. This story tells of a poor boy named Malin Kundang who went abroad to change his fate. After becoming wealthy and marrying a merchant's daughter, he returned to his hometown with a magnificent ship.",
+                    "When his old and shabby mother ran to hug him at the harbor, Malin Kundang denied her because he was ashamed. He said that the woman was not his biological mother and refused to acknowledge her. The mother's heart was deeply hurt by the rejection of the child she had raised with great difficulty.",
+                    "In her sadness and anger, the mother cursed Malin Kundang to turn into stone. Shortly after, a great storm struck Malin Kundang's ship and he turned into stone on the coast of Padang. This story serves as a reminder of the importance of being devoted to parents in Minangkabau culture."
                 ]
             },
-            "image": "/tribes/minang/media/2s.webp",
+            "tags": [
+                "MalinKundang",
+                "CeritaRakyat",
+                "Minangkabau",
+                "BaktiOrangTua",
+                "SumateraLegend"
+            ],
             "quiz": [
                 {
                     "q": {
-                        "id": "Dari mana asal Batik Mega Mendung?",
-                        "en": "Where does Mega Mendung Batik originate from?"
+                        "id": "Mengapa Malin Kundang mengingkari ibunya?",
+                        "en": "Why did Malin Kundang deny his mother?"
                     },
                     "choices": {
                         "id": [
-                            "Solo",
-                            "Yogyakarta",
-                            "Cirebon",
-                            "Pekalongan"
+                            "Karena ia lupa wajah ibunya",
+                            "Karena malu dengan penampilan ibunya yang lusuh",
+                            "Karena ibunya tidak mengenalinya",
+                            "Karena ia tidak pernah memiliki ibu"
                         ],
                         "en": [
-                            "Solo",
-                            "Yogyakarta",
-                            "Cirebon",
-                            "Pekalongan"
-                        ]
-                    },
-                    "answerIndex": 2,
-                    "explain": {
-                        "id": "Batik Mega Mendung berasal dari Cirebon, Jawa Barat.",
-                        "en": "Mega Mendung Batik originates from Cirebon, West Java."
-                    }
-                },
-                {
-                    "q": {
-                        "id": "Apa arti dari 'Mega Mendung'?",
-                        "en": "What does 'Mega Mendung' mean?"
-                    },
-                    "choices": {
-                        "id": [
-                            "Gunung tinggi",
-                            "Awan gelap",
-                            "Laut dalam",
-                            "Matahari terik"
-                        ],
-                        "en": [
-                            "High mountain",
-                            "Dark cloud",
-                            "Deep sea",
-                            "Scorching sun"
+                            "Because he forgot his mother's face",
+                            "Because he was ashamed of his mother's shabby appearance",
+                            "Because his mother didn't recognize him",
+                            "Because he never had a mother"
                         ]
                     },
                     "answerIndex": 1,
                     "explain": {
-                        "id": "'Mega' berarti awan dan 'mendung' berarti gelap, jadi Mega Mendung berarti awan gelap.",
-                        "en": "'Mega' means cloud and 'mendung' means dark, so Mega Mendung means dark cloud."
+                        "id": "Malin Kundang mengingkari ibunya karena malu dengan penampilan ibunya yang sudah tua dan lusuh.",
+                        "en": "Malin Kundang denied his mother because he was ashamed of his mother's old and shabby appearance."
                     }
                 },
                 {
                     "q": {
-                        "id": "Pengaruh budaya apa yang kuat dalam Batik Mega Mendung?",
-                        "en": "What cultural influence is strong in Mega Mendung Batik?"
+                        "id": "Apa yang terjadi pada Malin Kundang setelah dikutuk ibunya?",
+                        "en": "What happened to Malin Kundang after being cursed by his mother?"
                     },
                     "choices": {
                         "id": [
-                            "Arab",
-                            "India",
-                            "China",
-                            "Eropa"
+                            "Ia menjadi miskin kembali",
+                            "Ia berubah menjadi batu",
+                            "Ia kehilangan istrinya",
+                            "Ia diasingkan dari kampung"
                         ],
                         "en": [
-                            "Arabic",
-                            "Indian",
-                            "Chinese",
-                            "European"
+                            "He became poor again",
+                            "He turned into stone",
+                            "He lost his wife",
+                            "He was exiled from the village"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Setelah dikutuk ibunya, Malin Kundang berubah menjadi batu ketika badai menerjang kapalnya.",
+                        "en": "After being cursed by his mother, Malin Kundang turned into stone when a storm struck his ship."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nilai moral utama yang terkandung dalam cerita Malin Kundang adalah …",
+                        "en": "The main moral value contained in the story of Malin Kundang is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Pentingnya kekayaan",
+                            "Bahaya merantau jauh",
+                            "Bakti kepada orang tua",
+                            "Keberanian menghadapi badai"
+                        ],
+                        "en": [
+                            "The importance of wealth",
+                            "The danger of traveling far",
+                            "Devotion to parents",
+                            "The courage to face storms"
                         ]
                     },
                     "answerIndex": 2,
                     "explain": {
-                        "id": "Batik Mega Mendung memiliki pengaruh budaya China yang kuat, terlihat dari warna dan bentuk awannya.",
-                        "en": "Mega Mendung Batik has strong Chinese cultural influences, seen from the colors and shapes of the clouds."
+                        "id": "Cerita Malin Kundang mengajarkan pentingnya bakti kepada orang tua, tidak boleh mengingkari mereka meskipun sudah kaya.",
+                        "en": "The story of Malin Kundang teaches the importance of devotion to parents, not to deny them even when wealthy."
                     }
                 }
             ]
@@ -111,8 +117,8 @@
             "slug": "2H",
             "cardName": "2 of Hearts",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Jam Gadang",
+                "en": "Jam Gadang"
             },
             "region": {
                 "id": "Sumatera Barat",
@@ -120,25 +126,107 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Minangkabau"
+                    "Jam Gadang adalah menara jam ikonik yang menjadi landmark Kota Bukittinggi, Sumatera Barat. Menara ini dibangun pada tahun 1926 oleh pemerintah Hindia Belanda dengan tinggi mencapai 26 meter. Nama 'Jam Gadang' berasal dari bahasa Minangkabau yang berarti 'jam besar', mengacu pada ukuran jam yang terpasang di keempat sisi menara.",
+                    "Keunikan Jam Gadang terletak pada angka Romawi yang digunakan untuk penunjuk waktu. Pada angka 4, Jam Gadang menggunakan 'IIII' bukan 'IV' seperti angka Romawi pada umumnya. Hal ini menjadi ciri khas yang membedakan Jam Gadang dengan menara jam lain di dunia. Atap menara berbentuk gonjong khas rumah gadang Minangkabau yang menyerupai tanduk kerbau.",
+                    "Jam Gadang tidak hanya berfungsi sebagai penunjuk waktu, tetapi juga menjadi saksi bisu sejarah Bukittinggi dan simbol kebanggaan masyarakat Minangkabau. Di sekitar Jam Gadang terdapat Taman Jam Gadang dan Pasar Ateh (pasar atas) yang ramai dikunjungi wisatawan. Menara ini menjadi spot foto favorit dan pusat aktivitas masyarakat Bukittinggi."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Minangkabau"
+                    "Jam Gadang is an iconic clock tower that is a landmark of Bukittinggi City, West Sumatra. This tower was built in 1926 by the Dutch East Indies government with a height of 26 meters. The name 'Jam Gadang' comes from the Minangkabau language which means 'big clock', referring to the size of the clock mounted on all four sides of the tower.",
+                    "The uniqueness of Jam Gadang lies in the Roman numerals used for the time indicators. At the number 4, Jam Gadang uses 'IIII' not 'IV' like Roman numerals in general. This is a characteristic that distinguishes Jam Gadang from other clock towers in the world. The tower roof is shaped like a typical Minangkabau rumah gadang gonjong resembling buffalo horns.",
+                    "Jam Gadang not only functions as a time indicator, but also serves as a silent witness to Bukittinggi's history and a symbol of pride for the Minangkabau people. Around Jam Gadang there is Jam Gadang Park and Pasar Ateh (upper market) which are crowded with tourists. This tower is a favorite photo spot and the center of activities for the people of Bukittinggi."
                 ]
             },
-            "image": "/tribes/minang/media/2h.webp",
-            "quiz": []
+            "tags": [
+                "JamGadang",
+                "Bukittinggi",
+                "SumateraWisata",
+                "MinangkabauHeritage",
+                "ClockTower"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Jam Gadang dibangun pada tahun …",
+                        "en": "Jam Gadang was built in the year …"
+                    },
+                    "choices": {
+                        "id": [
+                            "1900",
+                            "1926",
+                            "1945",
+                            "1960"
+                        ],
+                        "en": [
+                            "1900",
+                            "1926",
+                            "1945",
+                            "1960"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Jam Gadang dibangun pada tahun 1926 oleh pemerintah Hindia Belanda.",
+                        "en": "Jam Gadang was built in 1926 by the Dutch East Indies government."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa keunikan angka Romawi pada Jam Gadang?",
+                        "en": "What is unique about the Roman numerals on Jam Gadang?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menggunakan angka Arab",
+                            "Angka 4 ditulis IIII bukan IV",
+                            "Tidak ada angka sama sekali",
+                            "Menggunakan angka Cina"
+                        ],
+                        "en": [
+                            "Uses Arabic numerals",
+                            "Number 4 is written IIII not IV",
+                            "No numbers at all",
+                            "Uses Chinese numerals"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Keunikan Jam Gadang adalah pada angka 4 menggunakan 'IIII' bukan 'IV' seperti angka Romawi biasanya.",
+                        "en": "The uniqueness of Jam Gadang is that the number 4 uses 'IIII' not 'IV' like Roman numerals usually do."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bentuk atap Jam Gadang menyerupai …",
+                        "en": "The shape of Jam Gadang's roof resembles …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Piramida",
+                            "Tanduk kerbau",
+                            "Bulan sabit",
+                            "Bintang"
+                        ],
+                        "en": [
+                            "Pyramid",
+                            "Buffalo horns",
+                            "Crescent moon",
+                            "Star"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Atap Jam Gadang berbentuk gonjong khas rumah gadang Minangkabau yang menyerupai tanduk kerbau.",
+                        "en": "The roof of Jam Gadang is shaped like a typical Minangkabau rumah gadang gonjong resembling buffalo horns."
+                    }
+                }
+            ]
         },
         {
             "slug": "2D",
             "cardName": "2 of Diamonds",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Rendang",
+                "en": "Rendang"
             },
             "region": {
                 "id": "Sumatera Barat",
@@ -146,25 +234,107 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Minangkabau"
+                    "Rendang adalah masakan daging yang berasal dari Sumatera Barat dan telah diakui sebagai salah satu masakan terenak di dunia. Makanan ini terbuat dari daging sapi yang dimasak dalam waktu lama dengan santan dan bumbu rempah khas Minangkabau seperti cabai, bawang, jahe, kunyit, lengkuas, dan serai.",
+                    "Proses memasak rendang memerlukan kesabaran dan ketelitian karena daging harus dimasak dengan api kecil hingga bumbu meresap sempurna dan santan mengering. Hasilnya adalah daging yang empuk dengan rasa gurih, pedas, dan sedikit manis yang khas. Rendang dapat bertahan lama tanpa pendingin karena bumbu yang kaya akan pengawet alami.",
+                    "Dalam budaya Minangkabau, rendang bukan hanya makanan sehari-hari tetapi juga hidangan istimewa dalam acara adat seperti pernikahan, upacara adat, dan perayaan Lebaran. Rendang melambangkan kesabaran, kearifan, dan kehormatan dalam filosofi hidup masyarakat Minangkabau."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Minangkabau"
+                    "Rendang is a meat dish originating from West Sumatra and has been recognized as one of the most delicious dishes in the world. This food is made from beef cooked for a long time with coconut milk and typical Minangkabau spices such as chili, onion, ginger, turmeric, galangal, and lemongrass.",
+                    "The process of cooking rendang requires patience and precision because the meat must be cooked over low heat until the spices are perfectly absorbed and the coconut milk dries up. The result is tender meat with a distinctive savory, spicy, and slightly sweet taste. Rendang can last a long time without refrigeration because the spices are rich in natural preservatives.",
+                    "In Minangkabau culture, rendang is not only everyday food but also a special dish at traditional events such as weddings, traditional ceremonies, and Eid celebrations. Rendang symbolizes patience, wisdom, and honor in the philosophy of life of the Minangkabau people."
                 ]
             },
-            "image": "/tribes/minang/media/2d.webp",
-            "quiz": []
+            "tags": [
+                "Rendang",
+                "MinangkabauFood",
+                "IndonesianCuisine",
+                "BestFoodWorld",
+                "SumateraKuliner"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Bahan utama dalam pembuatan rendang adalah …",
+                        "en": "The main ingredient in making rendang is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ayam",
+                            "Daging sapi",
+                            "Ikan",
+                            "Kambing"
+                        ],
+                        "en": [
+                            "Chicken",
+                            "Beef",
+                            "Fish",
+                            "Goat"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rendang terbuat dari daging sapi yang dimasak dengan santan dan bumbu rempah khas Minangkabau.",
+                        "en": "Rendang is made from beef cooked with coconut milk and typical Minangkabau spices."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa rendang dapat bertahan lama tanpa pendingin?",
+                        "en": "Why can rendang last a long time without refrigeration?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Karena digoreng dengan minyak banyak",
+                            "Karena bumbu kaya akan pengawet alami",
+                            "Karena ditambah bahan kimia",
+                            "Karena dikemas vakum"
+                        ],
+                        "en": [
+                            "Because it is fried with a lot of oil",
+                            "Because the spices are rich in natural preservatives",
+                            "Because chemical additives are added",
+                            "Because it is vacuum packed"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rendang dapat bertahan lama karena bumbu rempahnya yang kaya akan pengawet alami seperti kunyit, lengkuas, dan cabai.",
+                        "en": "Rendang can last a long time because its spices are rich in natural preservatives such as turmeric, galangal, and chili."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Dalam budaya Minangkabau, rendang melambangkan …",
+                        "en": "In Minangkabau culture, rendang symbolizes …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kecepatan dan efisiensi",
+                            "Kesabaran dan kearifan",
+                            "Kekayaan dan kekuasaan",
+                            "Keberuntungan dan kemakmuran"
+                        ],
+                        "en": [
+                            "Speed and efficiency",
+                            "Patience and wisdom",
+                            "Wealth and power",
+                            "Luck and prosperity"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rendang melambangkan kesabaran, kearifan, dan kehormatan karena proses memasaknya yang lama dan teliti.",
+                        "en": "Rendang symbolizes patience, wisdom, and honor because of its long and careful cooking process."
+                    }
+                }
+            ]
         },
         {
             "slug": "2C",
             "cardName": "2 of Clubs",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Tari Piring",
+                "en": "Plate Dance"
             },
             "region": {
                 "id": "Sumatera Barat",
@@ -172,18 +342,100 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Minangkabau"
+                    "Tari Piring adalah tarian tradisional Minangkabau yang sangat terkenal dan menjadi salah satu ikon budaya Sumatera Barat. Dalam tarian ini, para penari memegang piring di kedua tangan sambil melakukan berbagai gerakan dinamis mengikuti irama musik talempong dan saluang. Tarian ini menggambarkan kegembiraan masyarakat petani saat panen raya.",
+                    "Keunikan Tari Piring terletak pada gerakan cepat dan lincah penari yang mengayunkan piring-piring tanpa menjatuhkannya. Di bagian akhir pertunjukan yang paling menegangkan, penari akan memecahkan piring-piring dan menari di atas pecahannya dengan kaki telanjang tanpa terluka berkat latihan dan konsentrasi tinggi.",
+                    "Tari Piring melambangkan rasa syukur kepada Sang Pencipta atas hasil panen yang melimpah. Tarian ini juga mengajarkan nilai ketelitian, kesabaran, dan ketangkasan yang sangat dihormati dalam budaya Minangkabau. Hingga kini, Tari Piring masih sering ditampilkan dalam acara adat, penyambutan tamu, dan promosi pariwisata Sumatera Barat."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Minangkabau"
+                    "Plate Dance is a very famous traditional Minangkabau dance and is one of the cultural icons of West Sumatra. In this dance, the dancers hold plates in both hands while performing various dynamic movements following the rhythm of talempong and saluang music. This dance depicts the joy of farming communities during the harvest season.",
+                    "The uniqueness of Plate Dance lies in the fast and agile movements of the dancers who swing the plates without dropping them. At the end of the most thrilling performance, the dancers will break the plates and dance on the shards with bare feet without getting hurt thanks to practice and high concentration.",
+                    "Plate Dance symbolizes gratitude to the Creator for the abundant harvest. This dance also teaches the values of precision, patience, and agility that are highly respected in Minangkabau culture. Until now, Plate Dance is still often performed at traditional events, welcoming guests, and promoting tourism in West Sumatra."
                 ]
             },
-            "image": "/tribes/minang/media/2c.webp",
-            "quiz": []
+            "tags": [
+                "TariPiring",
+                "MinangkabauCulture",
+                "TraditionalDance",
+                "PlateDance",
+                "SumateraArts"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Properti utama yang digunakan dalam Tari Piring adalah …",
+                        "en": "The main property used in Plate Dance is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Selendang",
+                            "Piring",
+                            "Kipas",
+                            "Payung"
+                        ],
+                        "en": [
+                            "Shawl",
+                            "Plates",
+                            "Fan",
+                            "Umbrella"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Piring menggunakan piring sebagai properti utama yang dipegang penari di kedua tangan.",
+                        "en": "Plate Dance uses plates as the main property held by dancers in both hands."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tari Piring melambangkan rasa syukur atas …",
+                        "en": "Plate Dance symbolizes gratitude for …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kemenangan perang",
+                            "Hasil panen yang melimpah",
+                            "Pernikahan yang bahagia",
+                            "Kelahiran anak"
+                        ],
+                        "en": [
+                            "Victory in war",
+                            "Abundant harvest",
+                            "Happy marriage",
+                            "Birth of a child"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Piring melambangkan rasa syukur kepada Sang Pencipta atas hasil panen yang melimpah.",
+                        "en": "Plate Dance symbolizes gratitude to the Creator for the abundant harvest."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang menjadi bagian paling menegangkan dalam Tari Piring?",
+                        "en": "What is the most thrilling part of Plate Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Saat penari bernyanyi",
+                            "Saat penari memecahkan piring dan menari di atas pecahannya",
+                            "Saat penari duduk",
+                            "Saat musik berhenti"
+                        ],
+                        "en": [
+                            "When the dancers sing",
+                            "When the dancers break the plates and dance on the shards",
+                            "When the dancers sit",
+                            "When the music stops"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bagian paling menegangkan adalah saat penari memecahkan piring dan menari di atas pecahannya dengan kaki telanjang tanpa terluka.",
+                        "en": "The most thrilling part is when the dancers break the plates and dance on the shards with bare feet without getting hurt."
+                    }
+                }
+            ]
         }
     ]
 }

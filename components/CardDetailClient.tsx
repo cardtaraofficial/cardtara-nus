@@ -28,8 +28,6 @@ export default function CardDetailClient({ card, locale }: Props) {
             quizTitle: "Siap menguji pengetahuan Anda?",
             quizDesc: "Lihat seberapa banyak yang telah Anda pelajari dan dapatkan Lencana Warisan Anda!",
             startQuiz: "Mulai Quiz",
-            estimatedTime: "Estimasi waktu: 5 menit • 10 Pertanyaan",
-            exploreMore: "Jelajahi Lebih Banyak Cerita Warisan",
             shareDiscovery: "Bagikan Penemuan",
         },
         en: {
@@ -43,8 +41,6 @@ export default function CardDetailClient({ card, locale }: Props) {
             quizTitle: "Ready to test your knowledge?",
             quizDesc: "See how much you've learned and earn your Heritage Badge!",
             startQuiz: "Start Quiz",
-            estimatedTime: "Estimated time: 5 minutes • 10 Questions",
-            exploreMore: "Explore More Heritage Stories",
             shareDiscovery: "Share Discovery",
         },
     };
@@ -74,6 +70,14 @@ export default function CardDetailClient({ card, locale }: Props) {
                         {t.home}
                     </Link>
                     <span className="text-gray-500 text-sm md:text-base font-medium py-2">/</span>
+                    {tribe && (
+                        <>
+                            <span className="text-gray-600 dark:text-gray-400 text-sm md:text-base font-medium py-2 capitalize">
+                                {tribe.name[locale]}
+                            </span>
+                            <span className="text-gray-500 text-sm md:text-base font-medium py-2">/</span>
+                        </>
+                    )}
                     <span className="text-primary text-sm md:text-base font-semibold py-2">{card.title[locale]}</span>
                 </nav>
 
@@ -132,32 +136,77 @@ export default function CardDetailClient({ card, locale }: Props) {
                             </p>
                         ))}
 
-                        {/* Image Placeholders */}
+                        {/* Image Gallery - Auto-adjusted to 4:3 ratio */}
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 py-4">
-                            <div className="rounded-lg overflow-hidden border border-primary/10 group">
-                                <div className="h-48 bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center group-hover:scale-105 transition-transform">
-                                    <span className="text-6xl opacity-30">🖼️</span>
+                            {card.images && card.images[0] ? (
+                                <div className="rounded-lg overflow-hidden border border-primary/10 shadow-md group">
+                                    <div className="relative aspect-[4/3] bg-gray-100 dark:bg-gray-800">
+                                        <img
+                                            src={card.images[0]}
+                                            alt={card.imagesCaptions?.[locale]?.[0] || `${card.title[locale]} - Image 1`}
+                                            className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                                        />
+                                    </div>
+                                    <div className="p-3 bg-background-light dark:bg-background-dark/30">
+                                        <p className="text-xs font-semibold text-gray-700 dark:text-gray-300 leading-relaxed">
+                                            {card.imagesCaptions?.[locale]?.[0] || "Cultural Image"}
+                                        </p>
+                                    </div>
                                 </div>
-                                <div className="p-3 bg-background-light dark:bg-background-dark/30">
-                                    <p className="text-xs font-bold text-gray-600">Fig 1. Cultural Image</p>
+                            ) : (
+                                <div className="rounded-lg overflow-hidden border border-primary/10 group">
+                                    <div className="aspect-[4/3] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+                                        <span className="text-6xl opacity-30">🖼️</span>
+                                    </div>
+                                    <div className="p-3 bg-background-light dark:bg-background-dark/30">
+                                        <p className="text-xs font-bold text-gray-600 dark:text-gray-400">Fig 1. Cultural Image</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div className="rounded-lg overflow-hidden border border-primary/10 group">
-                                <div className="h-48 bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center group-hover:scale-105 transition-transform">
-                                    <span className="text-6xl opacity-30">📸</span>
+                            )}
+
+                            {card.images && card.images[1] ? (
+                                <div className="rounded-lg overflow-hidden border border-primary/10 shadow-md group">
+                                    <div className="relative aspect-[4/3] bg-gray-100 dark:bg-gray-800">
+                                        <img
+                                            src={card.images[1]}
+                                            alt={card.imagesCaptions?.[locale]?.[1] || `${card.title[locale]} - Image 2`}
+                                            className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                                        />
+                                    </div>
+                                    <div className="p-3 bg-background-light dark:bg-background-dark/30">
+                                        <p className="text-xs font-semibold text-gray-700 dark:text-gray-300 leading-relaxed">
+                                            {card.imagesCaptions?.[locale]?.[1] || "Heritage Photo"}
+                                        </p>
+                                    </div>
                                 </div>
-                                <div className="p-3 bg-background-light dark:bg-background-dark/30">
-                                    <p className="text-xs font-bold text-gray-600">Fig 2. Heritage Photo</p>
+                            ) : (
+                                <div className="rounded-lg overflow-hidden border border-primary/10 group">
+                                    <div className="aspect-[4/3] bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
+                                        <span className="text-6xl opacity-30">📸</span>
+                                    </div>
+                                    <div className="p-3 bg-background-light dark:bg-background-dark/30">
+                                        <p className="text-xs font-bold text-gray-600 dark:text-gray-400">Fig 2. Heritage Photo</p>
+                                    </div>
                                 </div>
-                            </div>
+                            )}
                         </div>
                     </div>
 
                     {/* Tags */}
                     <div className="mt-12 pt-8 border-t border-primary/10 flex flex-wrap gap-4">
-                        <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#WayangKulit</span>
-                        <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#JavaneseCulture</span>
-                        <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#IndonesianHeritage</span>
+                        {card.tags && card.tags.length > 0 ? (
+                            card.tags.map((tag, index) => (
+                                <span key={index} className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">
+                                    #{tag}
+                                </span>
+                            ))
+                        ) : (
+                            <>
+                                <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#IndonesianHeritage</span>
+                                <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#Culture</span>
+                                <span className="px-4 py-2 bg-primary/10 text-primary text-sm font-bold rounded-lg">#Nusantara</span>
+                            </>
+                        )}
                     </div>
                 </article>
 
@@ -183,19 +232,7 @@ export default function CardDetailClient({ card, locale }: Props) {
                             <span className="group-hover:translate-x-1 transition-transform">→</span>
                         </button>
                     </div>
-                    <p className="text-white/75 text-sm font-medium">{t.estimatedTime}</p>
                 </section>
-
-                {/* Explore More Footer */}
-                <footer className="mb-12 flex justify-center border-t border-primary/5 pt-8">
-                    <Link
-                        href={`/${locale}`}
-                        className="group flex items-center gap-3 text-gray-600 dark:text-gray-400 px-8 py-4 rounded-xl font-bold hover:text-primary transition-all"
-                    >
-                        <span className="group-hover:rotate-12 transition-transform">📚</span>
-                        {t.exploreMore}
-                    </Link>
-                </footer>
             </div>
         </main>
     );

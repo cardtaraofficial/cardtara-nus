@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState, useEffect } from "react";
+import { Play, Pause, SkipBack, SkipForward } from "lucide-react";
 
 type AudioPlayerProps = {
     audioPath: string;
@@ -94,24 +95,24 @@ export default function AudioPlayer({ audioPath, title, subtitle }: AudioPlayerP
                 <div className="flex items-center gap-2 md:gap-3 flex-shrink-0">
                     <button
                         onClick={() => handleSkip(-10)}
-                        className="flex items-center justify-center rounded-full w-12 h-12 text-gray-600 hover:bg-primary/10 hover:text-primary transition-all"
+                        className="flex items-center justify-center rounded-full w-10 h-10 md:w-12 md:h-12 text-gray-600 hover:bg-primary/10 hover:text-primary transition-all"
                         aria-label="Skip backward 10 seconds"
                     >
-                        <span className="text-3xl">⏮️</span>
+                        <SkipBack className="w-5 h-5 md:w-6 md:h-6" />
                     </button>
                     <button
                         onClick={togglePlay}
-                        className="flex shrink-0 items-center justify-center rounded-full w-16 h-16 bg-primary text-white shadow-xl shadow-primary/30 hover:scale-105 transition-transform"
+                        className="flex shrink-0 items-center justify-center rounded-full w-14 h-14 md:w-16 md:h-16 bg-primary text-white shadow-xl shadow-primary/30 hover:scale-105 transition-transform"
                         aria-label={isPlaying ? "Pause" : "Play"}
                     >
-                        <span className="text-4xl">{isPlaying ? "⏸️" : "▶️"}</span>
+                        {isPlaying ? <Pause className="w-7 h-7 md:w-8 md:h-8" fill="white" /> : <Play className="w-7 h-7 md:w-8 md:h-8" fill="white" />}
                     </button>
                     <button
                         onClick={() => handleSkip(10)}
                         className="flex items-center justify-center rounded-full w-10 h-10 md:w-12 md:h-12 text-gray-600 hover:bg-primary/10 hover:text-primary transition-all active:scale-95"
                         aria-label="Skip forward 10 seconds"
                     >
-                        <span className="text-2xl md:text-3xl">⏭️</span>
+                        <SkipForward className="w-5 h-5 md:w-6 md:h-6" />
                     </button>
                 </div>
             </div>

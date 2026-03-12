@@ -9,8 +9,8 @@
             "slug": "KS",
             "cardName": "King of Spades",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Legenda Danau Lut Tawar",
+                "en": "Legend of Lut Tawar Lake"
             },
             "region": {
                 "id": "Aceh",
@@ -18,117 +18,205 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Gayo"
+                    "Danau Lut Tawar menurut legenda masyarakat Gayo terbentuk dari sebuah desa yang tenggelam akibat kutukan. Konon di suatu desa tinggal seorang anak yatim piatu bernama Junto yang sangat miskin dan sering diperlakukan buruk oleh penduduk desa. Suatu hari, seorang kakek tua misterius datang ke desa meminta pertolongan, namun seluruh penduduk menolaknya kecuali Junto yang dengan tulus memberikan makanan yang dia miliki.",
+                    "Kakek tua itu sebenarnya adalah makhluk gaib yang datang menguji kebaikan hati penduduk desa. Karena hanya Junto yang memiliki hati yang baik, kakek itu memberikan tongkat ajaib dan memerintahkan Junto untuk menancapkan tongkat di tanah lalu lari tanpa menoleh ke belakang. Ketika Junto menancapkan tongkat tersebut, air mulai memancar deras dan menenggelamkan seluruh desa. Junto berlari mengikuti perintah kakek dan selamat.",
+                    "Desa yang tenggelam berubah menjadi danau yang luas dan airnya terasa tawar meskipun sangat luas, tidak seperti danau pada umumnya. Oleh karena itu dinamakan Lut Tawar yang berarti 'laut tawar'. Danau ini kini menjadi destinasi wisata terkenal di Aceh Tengah dengan pemandangan indah dikelilingi pegunungan. Legenda ini mengajarkan pentingnya kebaikan hati dan ketulusan terhadap sesama."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Gayo"
+                    "Lake Lut Tawar according to Gayo people's legend was formed from a village that sank due to a curse. Reportedly in a village lived an orphan named Junto who was very poor and often treated badly by villagers. One day, a mysterious old man came to the village asking for help, but all residents refused except Junto who sincerely gave the food he had.",
+                    "The old man was actually a supernatural being who came to test the kindness of the villagers. Because only Junto had a good heart, the old man gave him a magic stick and ordered Junto to stick the stick in the ground and then run without looking back. When Junto stuck the stick, water began to gush heavily and submerged the entire village. Junto ran following the old man's orders and was saved.",
+                    "The submerged village turned into a vast lake and the water tasted fresh despite being very wide, unlike ordinary lakes. Therefore it was named Lut Tawar which means 'fresh sea'. This lake is now a famous tourist destination in Central Aceh with beautiful views surrounded by mountains. This legend teaches the importance of kindness and sincerity towards others."
                 ]
             },
-            "image": "/tribes/gayo/media/ks.webp",
-            "quiz": []
+            "tags": [
+                "DanauLutTawar",
+                "LutTawarLake",
+                "GayoCulture",
+                "AcehLegend",
+                "Aceh"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Dalam legenda, Danau Lut Tawar terbentuk dari …",
+                        "en": "In legend, Lake Lut Tawar was formed from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gunung meletus",
+                            "Desa yang tenggelam",
+                            "Meteor jatuh",
+                            "Gempa bumi"
+                        ],
+                        "en": [
+                            "Volcanic eruption",
+                            "Sunken village",
+                            "Meteor falling",
+                            "Earthquake"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Danau Lut Tawar terbentuk dari sebuah desa yang tenggelam akibat kutukan.",
+                        "en": "Lake Lut Tawar was formed from a village that sank due to a curse."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Siapa satu-satunya penduduk desa yang membantu kakek tua misterius?",
+                        "en": "Who was the only villager who helped the mysterious old man?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kepala desa",
+                            "Junto",
+                            "Pedagang kaya",
+                            "Tidak ada yang membantu"
+                        ],
+                        "en": [
+                            "Village head",
+                            "Junto",
+                            "Rich merchant",
+                            "No one helped"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Junto, seorang anak yatim piatu yang miskin, adalah satu-satunya yang membantu kakek tua.",
+                        "en": "Junto, a poor orphan, was the only one who helped the old man."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa arti 'Lut Tawar'?",
+                        "en": "What does 'Lut Tawar' mean?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Laut dalam",
+                            "Laut tawar",
+                            "Air suci",
+                            "Danau biru"
+                        ],
+                        "en": [
+                            "Deep sea",
+                            "Fresh sea",
+                            "Holy water",
+                            "Blue lake"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Lut Tawar berarti 'laut tawar' karena air danau terasa tawar meskipun sangat luas.",
+                        "en": "Lut Tawar means 'fresh sea' because the lake water tastes fresh despite being very wide."
+                    }
+                }
+            ]
         },
         {
             "slug": "KH",
             "cardName": "King of Hearts",
             "title": {
-                "id": "Rumah Gadang dari Minangkabau",
-                "en": "Rumah Gadang from Minangkabau"
+                "id": "Masjid Raya Baiturrahman",
+                "en": "Baiturrahman Grand Mosque"
             },
             "region": {
-                "id": "Sumatera Barat",
-                "en": "West Sumatra"
+                "id": "Aceh",
+                "en": "Aceh"
             },
             "paragraphs": {
                 "id": [
-                    "Rumah Gadang adalah rumah adat tradisional masyarakat Minangkabau di Sumatera Barat. Rumah ini memiliki ciri khas berupa atap yang melengkung menyerupai tanduk kerbau, yang melambangkan kemenangan dalam legenda Minangkabau.",
-                    "Struktur Rumah Gadang dibangun dengan sistem rumah panggung yang tinggi dan menggunakan kayu sebagai bahan utama. Rumah ini tidak menggunakan paku, melainkan teknik pasak dan sambungan kayu yang sangat kuat.",
-                    "Rumah Gadang berfungsi sebagai tempat tinggal keluarga besar dalam sistem matrilineal Minangkabau. Setiap ukiran dan ornamen pada rumah memiliki makna filosofis yang mendalam tentang nilai-nilai kehidupan masyarakat Minangkabau."
+                    "Masjid Raya Baiturrahman adalah masjid megah yang menjadi simbol kebesaran Islam di Aceh. Masjid ini pertama kali dibangun pada tahun 1612 oleh Sultan Iskandar Muda dan telah mengalami beberapa kali renovasi dan perluasan. Bangunan masjid menampilkan perpaduan arsitektur Aceh, Mughal India, dan modern yang sangat indah dengan kubah hitam yang menjadi ciri khasnya.",
+                    "Masjid ini memiliki 7 kubah hitam yang melambangkan 7 tingkat langit dalam Islam, dengan kubah utama berdiameter 16 meter yang menjulang tinggi. Menara-menara tinggi di setiap sudut masjid menambah keagungan bangunan. Interior masjid dihiasi dengan kaligrafi Arab yang indah, lampu kristal mewah, dan ornamen-ornamen yang memukau. Masjid ini dapat menampung hingga 30.000 jamaah.",
+                    "Masjid Raya Baiturrahman tidak hanya menjadi tempat ibadah, tetapi juga menjadi saksi sejarah perjuangan rakyat Aceh. Masjid ini pernah menjadi pusat perlawanan rakyat Aceh pada masa penjajahan Belanda. Hingga kini, masjid ini tetap menjadi kebanggaan masyarakat Aceh dan menjadi destinasi wisata religi yang menarik wisatawan dari berbagai penjuru dunia."
                 ],
                 "en": [
-                    "Rumah Gadang is a traditional house of the Minangkabau people in West Sumatra. This house has a distinctive curved roof resembling buffalo horns, which symbolizes victory in Minangkabau legend.",
-                    "The structure of Rumah Gadang is built with a high stilt house system and uses wood as the main material. This house does not use nails, but rather uses pegs and wooden joints that are very strong.",
-                    "Rumah Gadang functions as a residence for extended families in the Minangkabau matrilineal system. Each carving and ornament on the house has deep philosophical meaning about the values of Minangkabau society."
+                    "Baiturrahman Grand Mosque is a magnificent mosque that is a symbol of the greatness of Islam in Aceh. This mosque was first built in 1612 by Sultan Iskandar Muda and has undergone several renovations and expansions. The mosque building displays a very beautiful blend of Aceh, Mughal India, and modern architecture with black domes that are its characteristic.",
+                    "This mosque has 7 black domes symbolizing the 7 levels of heaven in Islam, with the main dome having a diameter of 16 meters that towers high. Tall towers at each corner of the mosque add to the majesty of the building. The interior of the mosque is decorated with beautiful Arabic calligraphy, luxurious crystal lamps, and stunning ornaments. This mosque can accommodate up to 30,000 worshippers.",
+                    "Baiturrahman Grand Mosque is not only a place of worship, but also a witness to the history of the Acehnese people's struggle. This mosque was once the center of Acehnese people's resistance during the Dutch colonial period. Until now, this mosque remains the pride of the Acehnese people and is a religious tourism destination that attracts tourists from all over the world."
                 ]
             },
-            "image": "/tribes/gayo/media/kh.webp",
+            "tags": [
+                "Baiturrahman",
+                "AcehMosque",
+                "IslamicArchitecture",
+                "AcehTourism",
+                "GrandMosque"
+            ],
             "quiz": [
                 {
                     "q": {
-                        "id": "Apa ciri khas atap Rumah Gadang?",
-                        "en": "What is the distinctive feature of Rumah Gadang's roof?"
+                        "id": "Masjid Raya Baiturrahman pertama kali dibangun oleh …",
+                        "en": "Baiturrahman Grand Mosque was first built by …"
                     },
                     "choices": {
                         "id": [
-                            "Datar",
-                            "Melengkung seperti tanduk kerbau",
-                            "Kerucut",
-                            "Piramida"
+                            "Sultan Ageng Tirtayasa",
+                            "Sultan Iskandar Muda",
+                            "Sultan Hasanuddin",
+                            "Sultan Baabullah"
                         ],
                         "en": [
-                            "Flat",
-                            "Curved like buffalo horns",
-                            "Cone-shaped",
-                            "Pyramid"
+                            "Sultan Ageng Tirtayasa",
+                            "Sultan Iskandar Muda",
+                            "Sultan Hasanuddin",
+                            "Sultan Baabullah"
                         ]
                     },
                     "answerIndex": 1,
                     "explain": {
-                        "id": "Atap Rumah Gadang melengkung menyerupai tanduk kerbau, melambangkan kemenangan dalam legenda Minangkabau.",
-                        "en": "Rumah Gadang's roof curves like buffalo horns, symbolizing victory in Minangkabau legend."
+                        "id": "Masjid ini pertama kali dibangun pada tahun 1612 oleh Sultan Iskandar Muda.",
+                        "en": "This mosque was first built in 1612 by Sultan Iskandar Muda."
                     }
                 },
                 {
                     "q": {
-                        "id": "Apa yang digunakan untuk menyambung kayu di Rumah Gadang?",
-                        "en": "What is used to join wood in Rumah Gadang?"
+                        "id": "Berapa jumlah kubah Masjid Raya Baiturrahman?",
+                        "en": "How many domes does Baiturrahman Grand Mosque have?"
                     },
                     "choices": {
                         "id": [
-                            "Paku besi",
-                            "Pasak dan sambungan kayu",
-                            "Lem",
-                            "Kawat"
+                            "3",
+                            "5",
+                            "7",
+                            "9"
                         ],
                         "en": [
-                            "Iron nails",
-                            "Pegs and wooden joints",
-                            "Glue",
-                            "Wire"
+                            "3",
+                            "5",
+                            "7",
+                            "9"
                         ]
                     },
-                    "answerIndex": 1,
+                    "answerIndex": 2,
                     "explain": {
-                        "id": "Rumah Gadang tidak menggunakan paku, melainkan teknik pasak dan sambungan kayu yang sangat kuat.",
-                        "en": "Rumah Gadang does not use nails, but rather uses pegs and wooden joints that are very strong."
+                        "id": "Masjid Raya Baiturrahman memiliki 7 kubah hitam yang melambangkan 7 tingkat langit dalam Islam.",
+                        "en": "Baiturrahman Grand Mosque has 7 black domes symbolizing the 7 levels of heaven in Islam."
                     }
                 },
                 {
                     "q": {
-                        "id": "Sistem kekerabatan apa yang berlaku dalam Rumah Gadang?",
-                        "en": "What kinship system applies in Rumah Gadang?"
+                        "id": "Berapa kapasitas jamaah Masjid Raya Baiturrahman?",
+                        "en": "What is the capacity of Baiturrahman Grand Mosque?"
                     },
                     "choices": {
                         "id": [
-                            "Patrilineal",
-                            "Matrilineal",
-                            "Bilateral",
-                            "Tidak ada sistem"
+                            "10.000 jamaah",
+                            "20.000 jamaah",
+                            "30.000 jamaah",
+                            "50.000 jamaah"
                         ],
                         "en": [
-                            "Patrilineal",
-                            "Matrilineal",
-                            "Bilateral",
-                            "No system"
+                            "10,000 worshippers",
+                            "20,000 worshippers",
+                            "30,000 worshippers",
+                            "50,000 worshippers"
                         ]
                     },
-                    "answerIndex": 1,
+                    "answerIndex": 2,
                     "explain": {
-                        "id": "Rumah Gadang berfungsi sebagai tempat tinggal keluarga besar dalam sistem matrilineal Minangkabau.",
-                        "en": "Rumah Gadang functions as a residence for extended families in the Minangkabau matrilineal system."
+                        "id": "Masjid Raya Baiturrahman dapat menampung hingga 30.000 jamaah.",
+                        "en": "Baiturrahman Grand Mosque can accommodate up to 30,000 worshippers."
                     }
                 }
             ]
@@ -137,8 +225,8 @@
             "slug": "KD",
             "cardName": "King of Diamonds",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Kopi Gayo",
+                "en": "Gayo Coffee"
             },
             "region": {
                 "id": "Aceh",
@@ -146,25 +234,107 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Gayo"
+                    "Kopi Gayo adalah kopi arabika premium yang berasal dari dataran tinggi Gayo di Aceh Tengah pada ketinggian 1.200-1.700 meter di atas permukaan laut. Kopi Gayo terkenal di seluruh dunia karena kualitasnya yang sangat tinggi dengan cita rasa yang khas, body yang medium, aroma harum yang kuat, dan tingkat keasaman yang rendah. Kopi ini telah mendapatkan sertifikasi Fair Trade dan Organic.",
+                    "Keunikan Kopi Gayo terletak pada proses penanamannya yang dilakukan secara tradisional tanpa penggunaan pestisida kimia berlebihan dan ditanam di bawah naungan pohon-pohon tinggi yang menjaga ekosistem alami. Proses pasca panen menggunakan metode wet process dan dry process yang dilakukan dengan sangat hati-hati untuk mempertahankan kualitas. Biji kopi dikeringkan secara alami di bawah sinar matahari.",
+                    "Kopi Gayo telah diekspor ke berbagai negara seperti Amerika Serikat, Eropa, Jepang, dan Korea Selatan. Kopi ini menjadi salah satu komoditas andalan Aceh yang memberikan penghidupan bagi ribuan petani kopi Gayo. Menikmati secangkir kopi Gayo bukan hanya tentang rasa, tetapi juga tentang menghargai kerja keras petani dan kearifan lokal dalam menjaga kualitas kopi kelas dunia."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Gayo"
+                    "Gayo Coffee is a premium arabica coffee originating from the Gayo highlands in Central Aceh at an altitude of 1,200-1,700 meters above sea level. Gayo Coffee is famous throughout the world for its very high quality with a distinctive taste, medium body, strong fragrant aroma, and low acidity level. This coffee has obtained Fair Trade and Organic certification.",
+                    "The uniqueness of Gayo Coffee lies in its traditional planting process without excessive use of chemical pesticides and planted under the shade of tall trees that maintain the natural ecosystem. Post-harvest processes use wet process and dry process methods that are carried out very carefully to maintain quality. Coffee beans are dried naturally under sunlight.",
+                    "Gayo Coffee has been exported to various countries such as the United States, Europe, Japan, and South Korea. This coffee is one of Aceh's leading commodities that provides livelihoods for thousands of Gayo coffee farmers. Enjoying a cup of Gayo coffee is not only about taste, but also about appreciating the hard work of farmers and local wisdom in maintaining world-class coffee quality."
                 ]
             },
-            "image": "/tribes/gayo/media/kd.webp",
-            "quiz": []
+            "tags": [
+                "KopiGayo",
+                "GayoCoffee",
+                "ArabicaCoffee",
+                "Aceh",
+                "SpecialtyCoffee"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Kopi Gayo ditanam di ketinggian …",
+                        "en": "Gayo Coffee is grown at an altitude of …"
+                    },
+                    "choices": {
+                        "id": [
+                            "100-500 mdpl",
+                            "500-1.000 mdpl",
+                            "1.200-1.700 mdpl",
+                            "2.000-3.000 mdpl"
+                        ],
+                        "en": [
+                            "100-500 masl",
+                            "500-1,000 masl",
+                            "1,200-1,700 masl",
+                            "2,000-3,000 masl"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Kopi Gayo ditanam di dataran tinggi Gayo pada ketinggian 1.200-1.700 mdpl.",
+                        "en": "Gayo Coffee is grown in the Gayo highlands at an altitude of 1,200-1,700 masl."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kopi Gayo terkenal karena memiliki …",
+                        "en": "Gayo Coffee is famous for having …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Rasa pahit yang kuat",
+                            "Kualitas tinggi dengan keasaman rendah",
+                            "Harga murah",
+                            "Warna hitam pekat"
+                        ],
+                        "en": [
+                            "Strong bitter taste",
+                            "High quality with low acidity",
+                            "Cheap price",
+                            "Deep black color"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kopi Gayo terkenal karena kualitas tinggi dengan cita rasa khas, body medium, dan keasaman rendah.",
+                        "en": "Gayo Coffee is famous for high quality with distinctive taste, medium body, and low acidity."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Sertifikasi apa yang telah didapatkan Kopi Gayo?",
+                        "en": "What certifications has Gayo Coffee obtained?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Halal dan ISO",
+                            "Fair Trade dan Organic",
+                            "SNI dan BPOM",
+                            "UNESCO"
+                        ],
+                        "en": [
+                            "Halal and ISO",
+                            "Fair Trade and Organic",
+                            "SNI and BPOM",
+                            "UNESCO"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kopi Gayo telah mendapatkan sertifikasi Fair Trade dan Organic.",
+                        "en": "Gayo Coffee has obtained Fair Trade and Organic certification."
+                    }
+                }
+            ]
         },
         {
             "slug": "KC",
             "cardName": "King of Clubs",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Tari Saman",
+                "en": "Saman Dance"
             },
             "region": {
                 "id": "Aceh",
@@ -172,18 +342,100 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Gayo"
+                    "Tari Saman adalah tarian tradisional suku Gayo dari Aceh yang telah diakui UNESCO sebagai Warisan Budaya Tak Benda Dunia pada tahun 2011. Tarian ini diciptakan oleh Syekh Saman pada abad ke-14 sebagai media dakwah Islam dan hiburan. Tari Saman dipentaskan oleh sejumlah penari laki-laki yang duduk berlutut berbaris rapi dan melakukan gerakan yang sangat kompak dan cepat.",
+                    "Keunikan Tari Saman terletak pada kekompakan luar biasa para penari dalam mengikuti gerakan yang sangat cepat dan rumit seperti tepuk tangan, pukulan dada, gerakan kepala, dan teriakan syair yang semuanya dilakukan secara sinkron tanpa menggunakan alat musik. Kecepatan gerakan dapat mencapai tempo yang sangat tinggi namun tetap teratur. Satu kesalahan kecil dari seorang penari akan merusak keseluruhan pertunjukan.",
+                    "Syair yang dilantunkan dalam Tari Saman berisi petuah, nasihat, dan nilai-nilai keislaman yang disampaikan dalam bahasa Gayo. Tarian ini mengajarkan tentang kebersamaan, kedisiplinan, kerendahan hati, dan pentingnya menjaga keharmonisan. Tari Saman tidak hanya menjadi kebanggaan Aceh, tetapi juga Indonesia karena telah mendunia dan menjadi simbol persatuan dan kekompakan."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Gayo"
+                    "Saman Dance is a traditional dance of the Gayo tribe from Aceh that was recognized by UNESCO as Intangible Cultural Heritage of Humanity in 2011. This dance was created by Syekh Saman in the 14th century as a medium of Islamic preaching and entertainment. Saman Dance is performed by a number of male dancers who sit kneeling in neat rows and perform very compact and fast movements.",
+                    "The uniqueness of Saman Dance lies in the extraordinary compactness of the dancers in following very fast and intricate movements such as clapping, chest pounding, head movements, and shouting verses all done synchronously without using musical instruments. The speed of movement can reach very high tempo but remains regular. One small mistake from a dancer will ruin the entire performance.",
+                    "The verses recited in Saman Dance contain wisdom, advice, and Islamic values conveyed in Gayo language. This dance teaches about togetherness, discipline, humility, and the importance of maintaining harmony. Saman Dance is not only the pride of Aceh, but also Indonesia because it has gone international and become a symbol of unity and compactness."
                 ]
             },
-            "image": "/tribes/gayo/media/kc.webp",
-            "quiz": []
+            "tags": [
+                "TariSaman",
+                "SamanDance",
+                "GayoCulture",
+                "UNESCO",
+                "Aceh"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tari Saman diakui UNESCO sebagai Warisan Budaya Tak Benda pada tahun …",
+                        "en": "Saman Dance was recognized by UNESCO as Intangible Cultural Heritage in …"
+                    },
+                    "choices": {
+                        "id": [
+                            "2005",
+                            "2011",
+                            "2015",
+                            "2020"
+                        ],
+                        "en": [
+                            "2005",
+                            "2011",
+                            "2015",
+                            "2020"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Saman diakui UNESCO sebagai Warisan Budaya Tak Benda Dunia pada tahun 2011.",
+                        "en": "Saman Dance was recognized by UNESCO as Intangible Cultural Heritage of Humanity in 2011."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Siapa pencipta Tari Saman?",
+                        "en": "Who created Saman Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Sultan Iskandar Muda",
+                            "Syekh Saman",
+                            "Cut Nyak Dien",
+                            "Teuku Umar"
+                        ],
+                        "en": [
+                            "Sultan Iskandar Muda",
+                            "Syekh Saman",
+                            "Cut Nyak Dien",
+                            "Teuku Umar"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Saman diciptakan oleh Syekh Saman pada abad ke-14 sebagai media dakwah Islam.",
+                        "en": "Saman Dance was created by Syekh Saman in the 14th century as a medium of Islamic preaching."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang menjadi keunikan Tari Saman?",
+                        "en": "What is the uniqueness of Saman Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menggunakan banyak alat musik",
+                            "Gerakan sangat cepat dan kompak tanpa alat musik",
+                            "Gerakan lambat dan tenang",
+                            "Hanya dimainkan perempuan"
+                        ],
+                        "en": [
+                            "Uses many musical instruments",
+                            "Very fast and compact movements without musical instruments",
+                            "Slow and calm movements",
+                            "Only played by women"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Keunikan Tari Saman adalah gerakan sangat cepat dan kompak yang dilakukan sinkron tanpa alat musik.",
+                        "en": "The uniqueness of Saman Dance is very fast and compact movements performed synchronously without musical instruments."
+                    }
+                }
+            ]
         }
     ]
 }

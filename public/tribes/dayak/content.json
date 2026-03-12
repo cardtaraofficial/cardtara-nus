@@ -1,0 +1,441 @@
+{
+    "tribe": "dayak",
+    "tribeName": {
+        "id": "Dayak",
+        "en": "Dayak"
+    },
+    "cards": [
+        {
+            "slug": "8S",
+            "cardName": "8 of Spades",
+            "title": {
+                "id": "Legenda Burung Enggang",
+                "en": "Legend of Hornbill"
+            },
+            "region": {
+                "id": "Kalimantan Barat",
+                "en": "West Kalimantan"
+            },
+            "paragraphs": {
+                "id": [
+                    "Burung Enggang (Rangkong) dalam kepercayaan suku Dayak melambangkan dunia atas dan merupakan burung suci yang sangat dihormati. Menurut legenda, Burung Enggang adalah utusan roh leluhur yang menjembatani dunia manusia dengan dunia spiritual. Burung ini dipercaya membawa jiwa orang yang meninggal ke alam baka.",
+                    "Dalam mitologi Dayak, Burung Enggang digambarkan sebagai pasangan dari Naga atau Ular yang melambangkan dunia bawah. Kedua simbol ini mencerminkan keseimbangan alam semesta dalam kosmologi Dayak. Motif burung enggang banyak dijumpai dalam ukiran kayu, kain tenun, dan arsitektur rumah panjang Dayak sebagai simbol kehormatan dan spiritualitas.",
+                    "Burung Enggang juga menjadi simbol dalam upacara adat seperti Tiwah (upacara kematian) dan berbagai ritual penting lainnya. Bulu burung enggang hanya boleh digunakan oleh kepala suku atau orang yang dihormati dalam masyarakat Dayak. Hingga kini, burung ini tetap menjadi ikon spiritual dan budaya yang dilindungi oleh masyarakat Dayak."
+                ],
+                "en": [
+                    "The Hornbill (Rangkong) in Dayak tribe beliefs symbolizes the upper world and is a sacred bird that is highly respected. According to legend, the Hornbill is a messenger of ancestral spirits that bridges the human world with the spiritual world. This bird is believed to carry the souls of the deceased to the afterlife.",
+                    "In Dayak mythology, the Hornbill is depicted as a pair of the Dragon or Snake which symbolizes the lower world. These two symbols reflect the balance of the universe in Dayak cosmology. Hornbill motifs are found in wood carvings, woven fabrics, and Dayak longhouse architecture as a symbol of honor and spirituality.",
+                    "The Hornbill has also become a symbol in traditional ceremonies such as Tiwah (death ceremony) and various other important rituals. Hornbill feathers may only be used by tribal chiefs or respected people in Dayak society. Until now, this bird remains a spiritual and cultural icon protected by the Dayak people."
+                ]
+            },
+            "tags": [
+                "BurungEnggang",
+                "Hornbill",
+                "DayakCulture",
+                "KalimantanLegend",
+                "SacredBird"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Dalam kepercayaan Dayak, Burung Enggang melambangkan …",
+                        "en": "In Dayak beliefs, the Hornbill symbolizes …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kekayaan",
+                            "Dunia atas dan utusan roh leluhur",
+                            "Perang",
+                            "Panen"
+                        ],
+                        "en": [
+                            "Wealth",
+                            "Upper world and messenger of ancestral spirits",
+                            "War",
+                            "Harvest"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Burung Enggang melambangkan dunia atas dan merupakan utusan roh leluhur dalam kepercayaan Dayak.",
+                        "en": "The Hornbill symbolizes the upper world and is a messenger of ancestral spirits in Dayak beliefs."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Pasangan Burung Enggang dalam mitologi Dayak adalah …",
+                        "en": "The pair of the Hornbill in Dayak mythology is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Harimau",
+                            "Naga atau Ular",
+                            "Gajah",
+                            "Burung Cenderawasih"
+                        ],
+                        "en": [
+                            "Tiger",
+                            "Dragon or Snake",
+                            "Elephant",
+                            "Bird of Paradise"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Burung Enggang berpasangan dengan Naga/Ular yang melambangkan dunia bawah dalam kosmologi Dayak.",
+                        "en": "The Hornbill is paired with the Dragon/Snake which symbolizes the lower world in Dayak cosmology."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Siapa yang boleh menggunakan bulu Burung Enggang dalam masyarakat Dayak?",
+                        "en": "Who may use Hornbill feathers in Dayak society?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Semua orang",
+                            "Hanya kepala suku atau orang yang dihormati",
+                            "Wisatawan",
+                            "Pedagang"
+                        ],
+                        "en": [
+                            "Everyone",
+                            "Only tribal chiefs or respected people",
+                            "Tourists",
+                            "Traders"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bulu burung enggang hanya boleh digunakan oleh kepala suku atau orang yang dihormati.",
+                        "en": "Hornbill feathers may only be used by tribal chiefs or respected people."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "8H",
+            "cardName": "8 of Hearts",
+            "title": {
+                "id": "Danau Sentarum",
+                "en": "Sentarum Lake"
+            },
+            "region": {
+                "id": "Kalimantan Barat",
+                "en": "West Kalimantan"
+            },
+            "paragraphs": {
+                "id": [
+                    "Danau Sentarum adalah danau musiman yang unik terletak di Kabupaten Kapuas Hulu, Kalimantan Barat. Danau ini memiliki fenomena alam yang menarik dimana volume airnya sangat berfluktuasi tergantung musim. Saat musim hujan, danau meluas hingga mencapai luas 132.000 hektar, namun saat musim kemarau, sebagian besar area danau mengering dan menjadi daratan.",
+                    "Taman Nasional Danau Sentarum memiliki keanekaragaman hayati yang luar biasa dengan lebih dari 200 spesies ikan, berbagai jenis burung, dan mamalia langka seperti bekantan. Hutan rawa gambut di sekitar danau menjadi habitat penting bagi flora dan fauna endemik Kalimantan. Danau ini juga menjadi sumber penghidupan bagi masyarakat lokal yang mengandalkan perikanan.",
+                    "Keunikan ekosistem Danau Sentarum menjadikannya sebagai laboratorium alam yang penting untuk penelitian ekologi. Pemerintah dan masyarakat adat Dayak bekerja sama menjaga kelestarian danau melalui pengelolaan berbasis kearifan lokal. Danau Sentarum tidak hanya penting secara ekologis, tetapi juga memiliki nilai budaya bagi masyarakat Dayak."
+                ],
+                "en": [
+                    "Sentarum Lake is a unique seasonal lake located in Kapuas Hulu Regency, West Kalimantan. This lake has an interesting natural phenomenon where the water volume fluctuates greatly depending on the season. During the rainy season, the lake expands to an area of 132,000 hectares, but during the dry season, most of the lake area dries up and becomes land.",
+                    "Sentarum Lake National Park has extraordinary biodiversity with more than 200 fish species, various types of birds, and rare mammals such as proboscis monkeys. The peat swamp forest around the lake is an important habitat for endemic Kalimantan flora and fauna. The lake is also a source of livelihood for local communities who rely on fishing.",
+                    "The uniqueness of the Sentarum Lake ecosystem makes it an important natural laboratory for ecological research. The government and Dayak indigenous communities work together to preserve the lake through management based on local wisdom. Sentarum Lake is not only ecologically important, but also has cultural value for the Dayak people."
+                ]
+            },
+            "tags": [
+                "DanauSentarum",
+                "SentarumLake",
+                "KalimantanBarat",
+                "NationalPark",
+                "Biodiversity"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa keunikan Danau Sentarum?",
+                        "en": "What is unique about Sentarum Lake?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Airnya asin",
+                            "Volume airnya berfluktuasi tergantung musim",
+                            "Berbentuk hati",
+                            "Memiliki pulau terapung"
+                        ],
+                        "en": [
+                            "Salty water",
+                            "Water volume fluctuates depending on season",
+                            "Heart-shaped",
+                            "Has floating islands"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Danau Sentarum unik karena volume airnya sangat berfluktuasi antara musim hujan dan kemarau.",
+                        "en": "Sentarum Lake is unique because its water volume fluctuates greatly between rainy and dry seasons."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Berapa luas Danau Sentarum saat musim hujan?",
+                        "en": "How large is Sentarum Lake during the rainy season?"
+                    },
+                    "choices": {
+                        "id": [
+                            "50.000 hektar",
+                            "132.000 hektar",
+                            "200.000 hektar",
+                            "500.000 hektar"
+                        ],
+                        "en": [
+                            "50,000 hectares",
+                            "132,000 hectares",
+                            "200,000 hectares",
+                            "500,000 hectares"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Saat musim hujan, Danau Sentarum meluas hingga mencapai luas 132.000 hektar.",
+                        "en": "During the rainy season, Sentarum Lake expands to an area of 132,000 hectares."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Hewan langka apa yang dapat ditemukan di Danau Sentarum?",
+                        "en": "What rare animals can be found at Sentarum Lake?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Komodo",
+                            "Bekantan",
+                            "Badak Jawa",
+                            "Harimau Sumatra"
+                        ],
+                        "en": [
+                            "Komodo dragon",
+                            "Proboscis monkey",
+                            "Javan rhino",
+                            "Sumatran tiger"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bekantan (proboscis monkey) adalah salah satu mamalia langka yang dapat ditemukan di Danau Sentarum.",
+                        "en": "Proboscis monkey is one of the rare mammals that can be found at Sentarum Lake."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "8D",
+            "cardName": "8 of Diamonds",
+            "title": {
+                "id": "Bubur Pedas",
+                "en": "Bubur Pedas"
+            },
+            "region": {
+                "id": "Kalimantan Barat",
+                "en": "West Kalimantan"
+            },
+            "paragraphs": {
+                "id": [
+                    "Bubur Pedas adalah makanan khas Sambas dan Pontianak, Kalimantan Barat, yang memiliki cita rasa unik memadukan gurih, pedas, dan sedikit asam. Berbeda dengan bubur pada umumnya, bubur pedas memiliki tekstur yang lebih kental dengan warna kuning kehijauan akibat penggunaan rempah-rempah segar. Makanan ini biasanya disajikan saat bulan Ramadan untuk berbuka puasa atau acara-acara keagamaan.",
+                    "Bahan utama bubur pedas adalah beras yang dimasak dengan santan kental dan aneka sayuran seperti kacang panjang, labu siam, daun kemangi, dan pakis. Bumbu rempahnya sangat kaya meliputi bawang merah, bawang putih, lengkuas, kunyit, serai, dan cabai. Semua bahan dimasak hingga mengental dengan api kecil sehingga bumbu meresap sempurna.",
+                    "Bubur pedas biasanya disajikan dengan lauk pelengkap seperti ikan tongkol goreng, telur rebus, dan kerupuk. Hidangan ini mencerminkan perpaduan budaya Melayu dan Tionghoa di Kalimantan Barat. Bubur pedas tidak hanya sekadar makanan, tetapi juga menjadi bagian dari tradisi kuliner yang diwariskan turun-temurun dan menciptakan kebersamaan saat disantap bersama keluarga."
+                ],
+                "en": [
+                    "Bubur Pedas is a typical food of Sambas and Pontianak, West Kalimantan, which has a unique taste combining savory, spicy, and slightly sour. Unlike ordinary porridge, bubur pedas has a thicker texture with a yellowish-green color due to the use of fresh spices. This food is usually served during Ramadan for breaking fast or religious events.",
+                    "The main ingredients of bubur pedas are rice cooked with thick coconut milk and various vegetables such as long beans, chayote, basil leaves, and ferns. The spice seasoning is very rich including shallots, garlic, galangal, turmeric, lemongrass, and chili. All ingredients are cooked until thick over low heat so that the spices are perfectly absorbed.",
+                    "Bubur pedas is usually served with side dishes such as fried mackerel, boiled eggs, and crackers. This dish reflects the blend of Malay and Chinese cultures in West Kalimantan. Bubur pedas is not just food, but also part of a culinary tradition that has been passed down through generations and creates togetherness when eaten with family."
+                ]
+            },
+            "tags": [
+                "BuburPedas",
+                "KalimantanBarat",
+                "IndonesianCuisine",
+                "MalayFood",
+                "RamadanFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Bubur Pedas memiliki warna …",
+                        "en": "Bubur Pedas has a … color"
+                    },
+                    "choices": {
+                        "id": [
+                            "Merah",
+                            "Kuning kehijauan",
+                            "Cokelat",
+                            "Hitam"
+                        ],
+                        "en": [
+                            "Red",
+                            "Yellowish-green",
+                            "Brown",
+                            "Black"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bubur Pedas berwarna kuning kehijauan akibat penggunaan rempah-rempah segar.",
+                        "en": "Bubur Pedas is yellowish-green in color due to the use of fresh spices."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan Bubur Pedas biasanya disajikan?",
+                        "en": "When is Bubur Pedas usually served?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Saat panen",
+                            "Bulan Ramadan untuk berbuka puasa",
+                            "Tahun baru",
+                            "Hari kemerdekaan"
+                        ],
+                        "en": [
+                            "During harvest",
+                            "Ramadan for breaking fast",
+                            "New year",
+                            "Independence day"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bubur Pedas biasanya disajikan saat bulan Ramadan untuk berbuka puasa atau acara keagamaan.",
+                        "en": "Bubur Pedas is usually served during Ramadan for breaking fast or religious events."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bubur Pedas mencerminkan perpaduan budaya …",
+                        "en": "Bubur Pedas reflects the blend of … cultures"
+                    },
+                    "choices": {
+                        "id": [
+                            "Jawa dan Sunda",
+                            "Melayu dan Tionghoa",
+                            "Batak dan Minang",
+                            "Bugis dan Makassar"
+                        ],
+                        "en": [
+                            "Javanese and Sundanese",
+                            "Malay and Chinese",
+                            "Batak and Minang",
+                            "Bugis and Makassar"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bubur Pedas mencerminkan perpaduan budaya Melayu dan Tionghoa di Kalimantan Barat.",
+                        "en": "Bubur Pedas reflects the blend of Malay and Chinese cultures in West Kalimantan."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "8C",
+            "cardName": "8 of Clubs",
+            "title": {
+                "id": "Tari Mandau",
+                "en": "Mandau Dance"
+            },
+            "region": {
+                "id": "Kalimantan Barat",
+                "en": "West Kalimantan"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tari Mandau adalah tarian tradisional suku Dayak yang menggambarkan kegagahan pejuang Dayak dalam melindungi wilayah dan sukunya. Mandau adalah senjata tradisional Dayak berupa pedang dengan mata pisau melengkung yang menjadi simbol keberanian dan kehormatan. Dalam tarian ini, penari mengenakan pakaian adat lengkap dengan hiasan bulu burung enggang dan aksesoris dari manik-manik.",
+                    "Gerakan tari mandau sangat dinamis dan energik, menggambarkan aksi perang seperti menyerang, bertahan, dan mengayunkan mandau. Tarian ini diiringi musik tradisional Dayak menggunakan alat musik seperti gong, gendang, dan sape (alat musik petik khas Dayak). Ritme musik yang cepat dan kuat menambah kesan gagah dan penuh semangat dalam tarian.",
+                    "Tari Mandau biasanya ditampilkan dalam upacara adat,  penyambutan tamu penting, dan perayaan-perayaan besar suku Dayak. Tarian ini tidak hanya berfungsi sebagai hiburan, tetapi juga sebagai media untuk melestarikan nilai-nilai keberanian, kesetiaan, dan kehormatan dalam budaya Dayak. Hingga kini, tari mandau tetap menjadi simbol identitas dan kebanggaan masyarakat Dayak."
+                ],
+                "en": [
+                    "Mandau Dance is a traditional Dayak tribe dance that depicts the bravery of Dayak warriors in protecting their territory and tribe. Mandau is a traditional Dayak weapon in the form of a sword with a curved blade which is a symbol of courage and honor. In this dance, dancers wear complete traditional clothing with hornbill feather decorations and bead accessories.",
+                    "The movements of mandau dance are very dynamic and energetic, depicting war actions such as attacking, defending, and swinging the mandau. This dance is accompanied by traditional Dayak music using musical instruments such as gongs, drums, and sape (a typical Dayak stringed instrument). The fast and strong music rhythm adds a brave and spirited impression to the dance.",
+                    "Mandau Dance is usually performed at traditional ceremonies, welcoming important guests, and major celebrations of the Dayak tribe. This dance not only functions as entertainment, but also as a medium to preserve the values of courage, loyalty, and honor in Dayak culture. Until now, mandau dance remains a symbol of identity and pride of the Dayak people."
+                ]
+            },
+            "tags": [
+                "TariMandau",
+                "MandauDance",
+                "DayakCulture",
+                "TraditionalDance",
+                "KalimantanArts"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa yang dimaksud dengan Mandau?",
+                        "en": "What is meant by Mandau?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tarian Dayak",
+                            "Senjata tradisional Dayak berupa pedang",
+                            "Rumah adat",
+                            "Alat musik"
+                        ],
+                        "en": [
+                            "Dayak dance",
+                            "Traditional Dayak weapon in the form of a sword",
+                            "Traditional house",
+                            "Musical instrument"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Mandau adalah senjata tradisional Dayak berupa pedang dengan mata pisau melengkung.",
+                        "en": "Mandau is a traditional Dayak weapon in the form of a sword with a curved blade."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Alat musik apa yang mengiringi Tari Mandau?",
+                        "en": "What musical instrument accompanies Mandau Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Angklung",
+                            "Gong dan sape",
+                            "Gamelan",
+                            "Sasando"
+                        ],
+                        "en": [
+                            "Angklung",
+                            "Gong and sape",
+                            "Gamelan",
+                            "Sasando"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Mandau diiringi musik menggunakan gong, gendang, dan sape (alat musik petik khas Dayak).",
+                        "en": "Mandau Dance is accompanied by music using gongs, drums, and sape (a typical Dayak stringed instrument)."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nilai apa yang dilestarikan melalui Tari Mandau?",
+                        "en": "What values are preserved through Mandau Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kesedihan dan penyesalan",
+                            "Keberanian, kesetiaan, dan kehormatan",
+                            "Kekayaan dan kemewahan",
+                            "Ketenangan dan kedamaian"
+                        ],
+                        "en": [
+                            "Sadness and regret",
+                            "Courage, loyalty, and honor",
+                            "Wealth and luxury",
+                            "Calmness and peace"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Mandau melestarikan nilai keberanian, kesetiaan, dan kehormatan dalam budaya Dayak.",
+                        "en": "Mandau Dance preserves the values of courage, loyalty, and honor in Dayak culture."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -31,7 +31,7 @@ async function generateQRCodes() {
                 width: 300,
                 margin: 2,
                 color: {
-                    dark: "#4F46E5", // nusantara-indigo
+                    dark: "#000000", // hitam
                     light: "#FFFFFF",
                 },
             });

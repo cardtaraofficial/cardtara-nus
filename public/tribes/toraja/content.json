@@ -1,0 +1,441 @@
+{
+    "tribe": "toraja",
+    "tribeName": {
+        "id": "Toraja",
+        "en": "Torajan"
+    },
+    "cards": [
+        {
+            "slug": "10S",
+            "cardName": "10 of Spades",
+            "title": {
+                "id": "Legenda Awal Toraja",
+                "en": "Legend of Toraja Origins"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Menurut kepercayaan masyarakat Toraja, nenek moyang mereka turun dari langit menggunakan tangga dari bambu pada zaman Umbul Dilikan. Tokoh pertama yang turun adalah Tamboro Langi yang kemudian menjadi cikal bakal suku Toraja. Mereka menetap di dataran tinggi Tana Toraja yang memiliki pemandangan indah dengan pegunungan dan lembah-lembah hijau.",
+                    "Suku Toraja memiliki sistem kepercayaan animisme yang disebut Aluk Todolo sebelum kedatangan agama Kristen. Aluk adalah aturan hidup yang terlah diturunkan oleh leluhur mengenai bagaimana cara berhubungan dengan alam, sesama manusia, dan roh-roh kasar. Kepercayaan ini sangat mempengaruhi ritual adat Toraja terutama upacara kematian yang sangat rumit dan megah.",
+                    "Suku Toraja dianggap sebagai salah satu masyarakat dengan tradisi pemakaman paling unik di dunia. Mereka meyakini bahwa kematian bukanlah akhir, tetapi awal perjalanan menuju Puya (alam roh). Oleh karena itu, upacara kematian menjadi acara sangat besar yang melibatkan seluruh keluarga dan berlangsung berhari-hari bahkan berminggu-minggu dengan mengorbankan hewan-hewan sebagai bekal perjalanan roh."
+                ],
+                "en": [
+                    "According to Toraja people's beliefs, their ancestors descended from the sky using a bamboo ladder in the time of Umbul Dilikan. The first figure to descend was Tamboro Langi who later became the ancestor of the Toraja tribe. They settled in the highlands of Tana Toraja which has beautiful views with mountains and green valleys.",
+                    "The Toraja tribe had an animist belief system called Aluk Todolo before the arrival of Christianity. Aluk is a way of life passed down by ancestors regarding how to relate to nature, fellow humans, and spirits. This belief greatly influences Toraja traditional rituals, especially death ceremonies which are very complex and grand.",
+                    "The Toraja tribe is considered one of the societies with the most unique funeral traditions in the world. They believe that death is not the end, but the beginning of a journey to Puya (the spirit realm). Therefore, death ceremonies are very large events involving the entire family and lasting days or even weeks, sacrificing animals as provisions for the spirit's journey."
+                ]
+            },
+            "tags": [
+                "TorajaCulture",
+                "TorajaLegend",
+                "AlukTodolo",
+                "SulawesiSelatan",
+                "IndigenousBelief"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Menurut legenda, nenek moyang Toraja turun dari langit menggunakan …",
+                        "en": "According to legend, Toraja ancestors descended from the sky using …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tangga besi",
+                            "Tangga bambu",
+                            "Sayap burung",
+                            "Tangga batu"
+                        ],
+                        "en": [
+                            "Iron ladder",
+                            "Bamboo ladder",
+                            "Bird wings",
+                            "Stone ladder"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Nenek moyang Toraja turun dari langit menggunakan tangga dari bambu menurut kepercayaan mereka.",
+                        "en": "Toraja ancestors descended from the sky using a bamboo ladder according to their beliefs."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa nama sistem kepercayaan tradisional suku Toraja?",
+                        "en": "What is the name of the traditional belief system of the Toraja tribe?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kejawen",
+                            "Aluk Todolo",
+                            "Sunda Wiwitan",
+                            "Kaharingan"
+                        ],
+                        "en": [
+                            "Kejawen",
+                            "Aluk Todolo",
+                            "Sunda Wiwitan",
+                            "Kaharingan"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Aluk Todolo adalah sistem kepercayaan animisme tradisional suku Toraja.",
+                        "en": "Aluk Todolo is the traditional animist belief system of the Toraja tribe."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Dalam kepercayaan Toraja, alam roh disebut …",
+                        "en": "In Toraja beliefs, the spirit realm is called …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Nirwana",
+                            "Puya",
+                            "Surga",
+                            "Kahyangan"
+                        ],
+                        "en": [
+                            "Nirvana",
+                            "Puya",
+                            "Heaven",
+                            "Kahyangan"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Puya adalah alam roh dalam kepercayaan Toraja yang dituju setelah kematian.",
+                        "en": "Puya is the spirit realm in Toraja beliefs that is reached after death."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "10H",
+            "cardName": "10 of Hearts",
+            "title": {
+                "id": "Londa",
+                "en": "Londa"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Londa adalah kompleks pemakaman batu khas Toraja yang terletak di tebing-tebing tinggi dan gua-gua alami. Situs ini menjadi salah satu destinasi wisata paling menarik di Tana Toraja karena keunikan sistem pemakamannya. Di Londa, para jenazah tidak dikubur di dalam tanah, tetapi ditempatkan di dalam gua atau diukir langsung ke dalam tebing batu.",
+                    "Pada tebing terdapat deretan patung kayu bernama Tau-tau yang mewakili orang yang sudah meninggal. Tau-tau dibuat dengan sangat detail menyerupai wajah almarhum dan mengenakan pakaian yang bagus. Patung-patung ini berdiri menghadap keluar dari tebing seolah-olah menjaga dan mengawasi keturunannya. Inside gua terdapat tengkorak dan tulang belulang yang berusia ratusan tahun.",
+                    "Londa menjadi bukti kearifan lokal masyarakat Toraja dalam menghormati leluhur mereka. Tempatempatkan jenazah di tebing tinggi dipercaya agar roh lebih dekat dengan Puya (alam arwah). Meskipun terkesan menyeramkan, Londa memiliki nilai budaya dan sejarah yang sangat penting bagi identitas suku Toraja dan menarik minat wisatawan dari seluruh dunia."
+                ],
+                "en": [
+                    "Londa is a typical Toraja stone burial complex located on high cliffs and natural caves. This site is one of the most interesting tourist destinations in Tana Toraja due to its unique burial system. In Londa, corpses are not buried in the ground, but placed in caves or carved directly into stone cliffs.",
+                    "On the cliffs there are rows of wooden statues called Tau-tau representing people who have died. Tau-tau are made in great detail resembling the face of the deceased and wearing nice clothes. These statues stand facing out from the cliff as if guarding and watching over their descendants. Inside the cave there are skulls and bones that are hundreds of years old.",
+                    "Londa is evidence of the local wisdom of the Toraja people in honoring their ancestors. Placing corpses on high cliffs is believed so that spirits are closer to Puya (the spiritual realm). Although it seems scary, Londa has very important cultural and historical value for the identity of the Toraja tribe and attracts tourists from all over the world."
+                ]
+            },
+            "tags": [
+                "Londa",
+                "TorajaBurial",
+                "TauTau",
+                "TanaToraja",
+                "CulturalHeritage"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Londa adalah kompleks pemakaman yang terletak di …",
+                        "en": "Londa is a burial complex located on …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Di bawah tanah",
+                            "Tebing dan gua alami",
+                            "Di laut",
+                            "Di hutan"
+                        ],
+                        "en": [
+                            "Underground",
+                            "Cliffs and natural caves",
+                            "At sea",
+                            "In the forest"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Londa adalah kompleks pemakaman batu di tebing tinggi dan gua alami khas Toraja.",
+                        "en": "Londa is a stone burial complex on high cliffs and natural caves typical of Toraja."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dimaksud dengan Tau-tau?",
+                        "en": "What is meant by Tau-tau?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Rumah adat",
+                            "Patung kayu yang mewakili orang yang sudah meninggal",
+                            "Alat musik",
+                            "Tarian"
+                        ],
+                        "en": [
+                            "Traditional house",
+                            "Wooden statue representing the deceased",
+                            "Musical instrument",
+                            "Dance"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tau-tau adalah patung kayu yang dibuat menyerupai wajah almarhum dan ditempatkan di tebing.",
+                        "en": "Tau-tau is a wooden statue made to resemble the face of the deceased and placed on cliffs."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa jenazah ditempatkan di tebing tinggi menurut kepercayaan Toraja?",
+                        "en": "Why are corpses placed on high cliffs according to Toraja beliefs?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Agar terlindung dari banjir",
+                            "Agar roh lebih dekat dengan Puya (alam arwah)",
+                            "Agar tidak dimakan binatang",
+                            "Agar mudah ditemukan"
+                        ],
+                        "en": [
+                            "To be protected from floods",
+                            "So that spirits are closer to Puya (the spiritual realm)",
+                            "So as not to be eaten by animals",
+                            "To be easily found"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Jenazah ditempatkan di tebing tinggi agar roh lebih dekat dengan Puya (alam arwah).",
+                        "en": "Corpses are placed on high cliffs so that spirits are closer to Puya (the spiritual realm)."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "10D",
+            "cardName": "10 of Diamonds",
+            "title": {
+                "id": "Pa'piong",
+                "en": "Pa'piong"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Pa'piong adalah makanan tradisional Toraja yang dimasak di dalam bambu menggunakan metode pemanggangan. Bahan utamanya bisa berupa ayam, ikan, atau daging yang diberi bumbu rempah khas Toraja seperti bawang merah, bawang putih, cabai, jahe, dan daun kemangi. Semua bahan dimasukkan ke dalam ruas bambu yang masih hijau, ditutup rapat dengan daun pisang, lalu dipanggang di atas bara api.",
+                    "Proses memasak pa'piong menghasilkan cita rasa yang unik karena aroma bambu meresap ke dalam daging sehingga memberikan rasa yang khas dan segar. Bambu yang digunakan harus masih muda agar tidak memberikan rasa pahit. Cara masak ini sangat praktis dan ramah lingkungan karena bambu dapat digunakan sekaligus sebagai wadah dan alat masak yang kemudian dibakar habis.",
+                    "Pa'piong biasanya disajikan dalam acara-acara adat Toraja seperti upacara Rambu Solo (upacara kematian) atau Rambu Tuka (upacara syukuran). Hidangan ini mencerminkan kearifan lokal Toraja dalam memanfaatkan sumber daya alam yang ada di sekitar mereka. Pa'piong kini menjadi kuliner khas yang wajib dicoba wisatawan yang berkunjung ke Tana Toraja."
+                ],
+                "en": [
+                    "Pa'piong is a traditional Toraja food cooked in bamboo using a roasting method. The main ingredients can be chicken, fish, or meat seasoned with typical Toraja spices such as shallots, garlic, chili, ginger, and basil leaves. All ingredients are put into green bamboo joints, closed tightly with banana leaves, then roasted over embers.",
+                    "The process of cooking pa'piong produces a unique taste because the aroma of bamboo is absorbed into the meat, giving it a distinctive and fresh taste. The bamboo used must still be young so as not to give a bitter taste. This cooking method is very practical and environmentally friendly because bamboo can be used as both a container and a cooking utensil that is then burned out.",
+                    "Pa'piong is usually served at Toraja traditional events such as Rambu Solo (death ceremony) or Rambu Tuka (thanksgiving ceremony). This dish reflects Toraja's local wisdom in utilizing natural resources around them. Pa'piong has now become a typical culinary that must be tried by tourists visiting Tana Toraja."
+                ]
+            },
+            "tags": [
+                "Papiong",
+                "TorajaFood",
+                "BambooCooking",
+                "TraditionalCuisine",
+                "TanaToraja"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Pa'piong dimasak di dalam …",
+                        "en": "Pa'piong is cooked in …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Panci",
+                            "Bambu",
+                            "Daun pisang",
+                            "Tanah liat"
+                        ],
+                        "en": [
+                            "Pan",
+                            "Bamboo",
+                            "Banana leaves",
+                            "Clay"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pa'piong dimasak di dalam ruas bambu yang masih hijau dengan metode pemanggangan.",
+                        "en": "Pa'piong is cooked in green bamboo joints using a roasting method."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa bambu yang digunakan harus masih muda?",
+                        "en": "Why must the bamboo used be young?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Agar lebih kuat",
+                            "Agar tidak memberikan rasa pahit",
+                            "Agar lebih mudah dipatahkan",
+                            "Agar lebih panjang"
+                        ],
+                        "en": [
+                            "To be stronger",
+                            "So as not to give a bitter taste",
+                            "To be easier to break",
+                            "To be longer"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Bambu yang digunakan harus masih muda agar tidak memberikan rasa pahit pada masakan.",
+                        "en": "The bamboo used must be young so as not to give a bitter taste to the food."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Pa'piong biasanya disajikan dalam acara …",
+                        "en": "Pa'piong is usually served at … events"
+                    },
+                    "choices": {
+                        "id": [
+                            "Konser musik",
+                            "Upacara adat Toraja seperti Rambu Solo",
+                            "Pertandingan olahraga",
+                            "Pameran seni"
+                        ],
+                        "en": [
+                            "Music concerts",
+                            "Toraja traditional ceremonies such as Rambu Solo",
+                            "Sports competitions",
+                            "Art exhibitions"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pa'piong disajikan dalam acara adat Toraja seperti Rambu Solo (upacara kematian) atau Rambu Tuka.",
+                        "en": "Pa'piong is served at Toraja traditional events such as Rambu Solo (death ceremony) or Rambu Tuka."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "10C",
+            "cardName": "10 of Clubs",
+            "title": {
+                "id": "Rumah Tongkonan",
+                "en": "Tongkonan House"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tongkonan adalah rumah adat khas Toraja yang memiliki arsitektur unik berbentuk seperti perahu dengan atap melengkung menyerupai tanduk kerbau. Nama tongkonan berasal dari kata 'tongkon' yang berarti duduk, menandakan bahwa rumah ini adalah tempat berkumpul keluarga besar. Rumah ini dibangun dengan konstruksi kayu tanpa menggunakan paku, hanya menggunakan sistem pasak dan lubang.",
+                    "Atap tongkonan terbuat dari bambu yang disusun bertingkat dan dihiasi dengan tanduk kerbau di bagian depan sebagai simbol status sosial pemiliknya. Semakin banyak tanduk kerbau yang terpasang, semakin tinggi kedudukan keluarga tersebut. Dinding tongkonan dihiasi dengan ukiran dan lukisan bermotif geometris dengan warna merah, hitam, kuning, dan putih yang masing-masing memiliki makna filosofis.",
+                    "Tongkonan bukan sekadar tempat tinggal, tetapi juga simbol kebanggaan, identitas, dan pusat kegiatan sosial-budaya masyarakat Toraja. Rumah ini menjadi tempat melaksanakan upacara adat penting, musyawarah keluarga, dan penyimpanan pusaka. Hingga kini, tongkonan tetap dijaga dan diwariskan turun-temurun sebagai warisan budaya yang sangat berharga bagi suku Toraja."
+                ],
+                "en": [
+                    "Tongkonan is a typical Toraja traditional house that has a unique architecture shaped like a boat with a curved roof resembling buffalo horns. The name tongkonan comes from the word 'tongkon' which means to sit, indicating that this house is a gathering place for extended families. This house is built with wood construction without using nails, only using a peg and hole system.",
+                    "The roof of the tongkonan is made of bamboo arranged in tiers and decorated with buffalo horns at the front as a symbol of the owner's social status. The more buffalo horns attached, the higher the position of the family. The walls of the tongkonan are decorated with carvings and paintings with geometric motifs in red, black, yellow, and white, each of which has a philosophical meaning.",
+                    "Tongkonan is not just a place to live, but also a symbol of pride, identity, and center of socio-cultural activities of the Toraja people. This house is a place to carry out important traditional ceremonies, family deliberations, and storage of heirlooms. Until now, tongkonan is still maintained and passed down through generations as a very valuable cultural heritage for the Toraja tribe."
+                ]
+            },
+            "tags": [
+                "Tongkonan",
+                "TorajanHouse",
+                "TraditionalArchitecture",
+                "TanaToraja",
+                "CulturalHeritage"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tongkonan adalah rumah adat yang berbentuk seperti …",
+                        "en": "Tongkonan is a traditional house shaped like …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Piramida",
+                            "Perahu dengan atap menyerupai tanduk kerbau",
+                            "Kubus",
+                            "Bulat"
+                        ],
+                        "en": [
+                            "Pyramid",
+                            "Boat with roof resembling buffalo horns",
+                            "Cube",
+                            "Round"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tongkonan berbentuk seperti perahu dengan atap melengkung menyerupai tanduk kerbau.",
+                        "en": "Tongkonan is shaped like a boat with a curved roof resembling buffalo horns."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tanduk kerbau di tongkonan melambangkan …",
+                        "en": "Buffalo horns on tongkonan symbolize …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Hobi berburu",
+                            "Status sosial pemiliknya",
+                            "Umur rumah",
+                            "Jumlah penghuni"
+                        ],
+                        "en": [
+                            "Hunting hobby",
+                            "Owner's social status",
+                            "Age of the house",
+                            "Number of occupants"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tanduk kerbau adalah simbol status sosial - semakin banyak tanduk, semakin tinggi kedudukan keluarga.",
+                        "en": "Buffalo horns are a symbol of social status - the more horns, the higher the family's position."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bagaimana cara membangun tongkonan?",
+                        "en": "How is tongkonan built?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menggunakan semen",
+                            "Menggunakan paku besi",
+                            "Menggunakan sistem pasak dan lubang tanpa paku",
+                            "Menggunakan lem"
+                        ],
+                        "en": [
+                            "Using cement",
+                            "Using iron nails",
+                            "Using peg and hole system without nails",
+                            "Using glue"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Tongkonan dibangun dengan konstruksi kayu menggunakan sistem pasak dan lubang tanpa paku.",
+                        "en": "Tongkonan is built with wood construction using a peg and hole system without nails."
+                    }
+                }
+            ]
+        }
+    ]
+}

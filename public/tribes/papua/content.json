@@ -1,0 +1,441 @@
+{
+    "tribe": "papua",
+    "tribeName": {
+        "id": "Papua",
+        "en": "Papua"
+    },
+    "cards": [
+        {
+            "slug": "3S",
+            "cardName": "3 of Spades",
+            "title": {
+                "id": "Legenda Burung Cenderawasih",
+                "en": "Legend of the Bird of Paradise"
+            },
+            "region": {
+                "id": "Papua",
+                "en": "Papua"
+            },
+            "paragraphs": {
+                "id": [
+                    "Burung Cenderawasih dianggap sebagai burung surga oleh masyarakat Papua dan memiliki banyak cerita mistis yang menyertainya. Dalam legenda lokal, burung ini dipercaya sebagai titisan bidadari dari langit yang turun ke bumi. Keindahan bulunya yang memukau dan gerakan tariannya yang anggun membuat burung ini menjadi simbol keindahan dan keagungan Papua.",
+                    "Konon, di masa lalu ada seorang pemuda Papua yang jatuh cinta pada bidadari penguasa langit. Bidadari tersebut berubah menjadi burung cenderawasih agar bisa hidup di bumi bersama sang kekasih. Namun karena tidak dapat melepaskan sifat surgawinya, burung ini tidak pernah menyentuh tanah dan hanya hinggap di pucuk pohon tertinggi.",
+                    "Hingga kini, burung cenderawasih menjadi ikon Papua dan dilindungi oleh adat istiadat setempat. Masyarakat Papua sangat menghormati burung ini dan percaya bahwa menyakiti cenderawasih akan membawa kutukan. Bulunya yang indah hanya boleh digunakan dalam upacara adat tertentu sebagai simbol kehormatan dan spiritualitas."
+                ],
+                "en": [
+                    "The Bird of Paradise is considered a bird of heaven by the Papuan people and has many mystical stories associated with it. In local legend, this bird is believed to be the incarnation of an angel from the sky who descended to earth. The stunning beauty of its feathers and its graceful dance movements make this bird a symbol of the beauty and majesty of Papua.",
+                    "Reportedly, in the past there was a young Papuan man who fell in love with an angel who ruled the sky. The angel turned into a bird of paradise so that she could live on earth with her lover. However, because she could not let go of her heavenly nature, this bird never touches the ground and only perches on the highest treetops.",
+                    "Until now, the bird of paradise has become an icon of Papua and is protected by local customs. The Papuan people greatly respect this bird and believe that harming a bird of paradise will bring a curse. Its beautiful feathers may only be used in certain traditional ceremonies as a symbol of honor and spirituality."
+                ]
+            },
+            "tags": [
+                "Cenderawasih",
+                "BirdOfParadise",
+                "PapuaLegend",
+                "BurungSurga",
+                "PapuaCulture"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Dalam legenda Papua, burung cenderawasih dipercaya sebagai …",
+                        "en": "In Papuan legend, the bird of paradise is believed to be …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Jelmaan harimau",
+                            "Titisan bidadari dari langit",
+                            "Roh nenek moyang",
+                            "Penjaga hutan"
+                        ],
+                        "en": [
+                            "Incarnation of a tiger",
+                            "Incarnation of an angel from heaven",
+                            "Spirit of ancestors",
+                            "Guardian of the forest"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Burung cenderawasih dipercaya sebagai titisan bidadari dari langit yang turun ke bumi.",
+                        "en": "The bird of paradise is believed to be the incarnation of an angel from heaven who descended to earth."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa burung cenderawasih tidak pernah menyentuh tanah menurut legenda?",
+                        "en": "Why does the bird of paradise never touch the ground according to legend?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Karena kakinya terlalu lemah",
+                            "Karena tidak dapat melepaskan sifat surgawinya",
+                            "Karena takut predator",
+                            "Karena mencari makan di udara"
+                        ],
+                        "en": [
+                            "Because its legs are too weak",
+                            "Because it cannot let go of its heavenly nature",
+                            "Because it fears predators",
+                            "Because it searches for food in the air"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Burung cenderawasih tidak menyentuh tanah karena tidak dapat melepaskan sifat surgawinya sebagai bidadari.",
+                        "en": "The bird of paradise does not touch the ground because it cannot let go of its heavenly nature as an angel."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bagaimana sikap masyarakat Papua terhadap burung cenderawasih?",
+                        "en": "What is the attitude of Papuan people towards the bird of paradise?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Memburu untuk dijual",
+                            "Menghormati dan melindungi sesuai adat",
+                            "Menganggap sebagai hama",
+                            "Mengabaikannya"
+                        ],
+                        "en": [
+                            "Hunt to sell",
+                            "Respect and protect according to custom",
+                            "Consider it a pest",
+                            "Ignore it"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Masyarakat Papua sangat menghormati dan melindungi burung cenderawasih sesuai adat istiadat.",
+                        "en": "The Papuan people greatly respect and protect the bird of paradise according to customs."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "3H",
+            "cardName": "3 of Hearts",
+            "title": {
+                "id": "Raja Ampat",
+                "en": "Raja Ampat"
+            },
+            "region": {
+                "id": "Papua",
+                "en": "Papua"
+            },
+            "paragraphs": {
+                "id": [
+                    "Raja Ampat adalah kepulauan yang terletak di ujung barat laut Papua, terdiri dari lebih dari 1.500 pulau kecil, gua, dan karang. Nama Raja Ampat berasal dari legenda lokal tentang empat raja yang memerintah wilayah ini. Kepulauan ini terkenal sebagai surga bawah laut dengan keanekaragaman hayati laut tertinggi di dunia.",
+                    "Perairan Raja Ampat menjadi rumah bagi 75% spesies karang dunia dan lebih dari 1.300 jenis ikan karang. Keindahan terumbu karangnya yang masih sangat alami menjadikan tempat ini destinasi favorit bagi penyelam dari seluruh dunia. Selain bawah laut, pemandangan karst hijau yang menjulang dari laut biru menciptakan panorama yang menakjubkan.",
+                    "Selain keindahan alam, Raja Ampat juga memiliki kekayaan budaya dari masyarakat lokal yang masih menjaga tradisi dan kearifan lokal dalam melestarikan lingkungan. Pemerintah dan masyarakat setempat bekerja sama menjaga kelestarian ekosistem laut melalui berbagai program konservasi yang menjadikan Raja Ampat sebagai model ekowisata berkelanjutan."
+                ],
+                "en": [
+                    "Raja Ampat is an archipelago located at the northwestern tip of Papua, consisting of more than 1,500 small islands, caves, and reefs. The name Raja Ampat comes from a local legend about four kings who ruled this region. This archipelago is famous as an underwater paradise with the highest marine biodiversity in the world.",
+                    "Raja Ampat waters are home to 75% of the world's coral species and more than 1,300 species of reef fish. The beauty of its still very natural coral reefs makes this place a favorite destination for divers from all over the world. In addition to the underwater beauty, the view of green karst towering from the blue sea creates an amazing panorama.",
+                    "In addition to natural beauty, Raja Ampat also has cultural wealth from local communities who still maintain traditions and local wisdom in preserving the environment. The government and local communities work together to preserve marine ecosystems through various conservation programs that make Raja Ampat a model of sustainable ecotourism."
+                ]
+            },
+            "tags": [
+                "RajaAmpat",
+                "PapuaTourism",
+                "UnderwaterParadise",
+                "CoralReef",
+                "Ekowisata"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Raja Ampat terkenal sebagai …",
+                        "en": "Raja Ampat is famous as …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Pusat industri",
+                            "Surga bawah laut",
+                            "Kawasan pertambangan",
+                            "Kota metropolitan"
+                        ],
+                        "en": [
+                            "Industrial center",
+                            "Underwater paradise",
+                            "Mining area",
+                            "Metropolitan city"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Raja Ampat terkenal sebagai surga bawah laut dengan keanekaragaman hayati laut tertinggi di dunia.",
+                        "en": "Raja Ampat is famous as an underwater paradise with the highest marine biodiversity in the world."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Berapa persen spesies karang dunia yang ada di perairan Raja Ampat?",
+                        "en": "What percentage of the world's coral species are in Raja Ampat waters?"
+                    },
+                    "choices": {
+                        "id": [
+                            "25%",
+                            "50%",
+                            "75%",
+                            "100%"
+                        ],
+                        "en": [
+                            "25%",
+                            "50%",
+                            "75%",
+                            "100%"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Perairan Raja Ampat menjadi rumah bagi 75% spesies karang dunia.",
+                        "en": "Raja Ampat waters are home to 75% of the world's coral species."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dilakukan masyarakat dan pemerintah untuk menjaga Raja Ampat?",
+                        "en": "What do the community and government do to preserve Raja Ampat?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Membangun hotel mewah",
+                            "Menerapkan program konservasi ekosistem",
+                            "Membuka industri perikanan besar-besaran",
+                            "Menutup akses wisatawan"
+                        ],
+                        "en": [
+                            "Building luxury hotels",
+                            "Implementing ecosystem conservation programs",
+                            "Opening large-scale fishing industries",
+                            "Closing tourist access"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Masyarakat dan pemerintah bekerja sama menjaga kelestarian melalui program konservasi sebagai model ekowisata.",
+                        "en": "The community and government work together to preserve through conservation programs as an ecotourism model."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "3D",
+            "cardName": "3 of Diamonds",
+            "title": {
+                "id": "Papeda",
+                "en": "Papeda"
+            },
+            "region": {
+                "id": "Papua",
+                "en": "Papua"
+            },
+            "paragraphs": {
+                "id": [
+                    "Papeda adalah makanan pokok masyarakat Papua yang terbuat dari sagu. Makanan ini memiliki tekstur yang lengket dan kental seperti lem dengan warna putih kekuningan. Papeda kaya akan karbohidrat dan menjadi sumber energi utama bagi masyarakat Papua, terutama di daerah pesisir dan dataran rendah.",
+                    "Cara membuat papeda cukup sederhana namun memerlukan teknik khusus. Tepung sagu dituang ke air mendidih sambil terus diaduk dengan cepat hingga mengental dan berubah menjadi seperti bubur kental yang lengket. Papeda biasanya disajikan dengan kuah kuning yang terbuat dari ikan tongkol atau ikan tuna yang dibumbui dengan kunyit dan kemangi.",
+                    "Dalam budaya Papua, papeda bukan sekadar makanan tetapi juga bagian dari identitas dan tradisi. Makan papeda dilakukan dengan cara yang unik, yaitu tidak dikunyah melainkan langsung ditelan setelah digulung dengan garpu atau alat khusus. Papeda kini mulai dikenal luas sebagai kuliner khas Papua yang eksotis dan menggugah selera."
+                ],
+                "en": [
+                    "Papeda is a staple food of the Papuan people made from sago. This food has a sticky and thick texture like glue with a yellowish white color. Papeda is rich in carbohydrates and is the main energy source for the Papuan people, especially in coastal and lowland areas.",
+                    "The way to make papeda is quite simple but requires special techniques. Sago flour is poured into boiling water while being stirred quickly until it thickens and turns into a sticky thick porridge. Papeda is usually served with yellow soup made from skipjack tuna or tuna seasoned with turmeric and basil.",
+                    "In Papuan culture, papeda is not just food but also part of identity and tradition. Eating papeda is done in a unique way, namely not chewed but swallowed directly after being rolled with a fork or special tool. Papeda is now widely known as an exotic and appetizing Papuan culinary specialty."
+                ]
+            },
+            "tags": [
+                "Papeda",
+                "PapuaFood",
+                "SaguFood",
+                "IndonesianCuisine",
+                "TraditionalFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Papeda terbuat dari bahan …",
+                        "en": "Papeda is made from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Beras",
+                            "Jagung",
+                            "Sagu",
+                            "Tapioka"
+                        ],
+                        "en": [
+                            "Rice",
+                            "Corn",
+                            "Sago",
+                            "Tapioca"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Papeda terbuat dari tepung sagu yang merupakan makanan pokok masyarakat Papua.",
+                        "en": "Papeda is made from sago flour which is a staple food of the Papuan people."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Papeda biasanya disajikan dengan …",
+                        "en": "Papeda is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Sambal terasi",
+                            "Kuah kuning ikan",
+                            "Rendang",
+                            "Sayur asem"
+                        ],
+                        "en": [
+                            "Shrimp paste chili sauce",
+                            "Yellow fish soup",
+                            "Rendang",
+                            "Sour vegetable soup"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Papeda disajikan dengan kuah kuning ikan tongkol atau tuna yang dibumbui kunyit dan kemangi.",
+                        "en": "Papeda is served with yellow skipjack or tuna soup seasoned with turmeric and basil."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Cara unik makan papeda adalah …",
+                        "en": "The unique way to eat papeda is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Dikunyah perlahan",
+                            "Dimakan dengan nasi",
+                            "Digulung dan langsung ditelan tanpa dikunyah",
+                            "Digoreng terlebih dahulu"
+                        ],
+                        "en": [
+                            "Chewed slowly",
+                            "Eaten with rice",
+                            "Rolled and swallowed directly without chewing",
+                            "Fried first"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Papeda dimakan dengan cara digulung dengan garpu lalu langsung ditelan tanpa dikunyah.",
+                        "en": "Papeda is eaten by rolling it with a fork and then swallowing it directly without chewing."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "3C",
+            "cardName": "3 of Clubs",
+            "title": {
+                "id": "Tari Perang Papua",
+                "en": "Papuan War Dance"
+            },
+            "region": {
+                "id": "Papua",
+                "en": "Papua"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tari Perang adalah tarian tradisional Papua yang menggambarkan semangat dan keberanian prajurit Papua dalam melindungi suku dan wilayahnya. Tarian ini dibawakan oleh para penari laki-laki dengan gerakan yang dinamis, energik, dan penuh kekuatan. Para penari mengenakan koteka, hiasan bulu cenderawasih, dan memegang senjata tradisional seperti tombak dan panah.",
+                    "Gerakan tari perang meniru aksi tempur seperti melompat, menghentak, berteriak, dan mengayunkan senjata. Iringan musiknya menggunakan alat musik tradisional seperti tifa (gendang) yang dimainkan dengan ritme cepat dan kuat menciptakan suasana penuh semangat. Tarian ini biasanya ditampilkan dalam upacara adat, penyambutan tamu penting, atau perayaan besar.",
+                    "Lebih dari sekadar hiburan, tari perang mengandung makna filosofis tentang keberanian, persatuan, dan kesiapan menghadapi tantangan. Tarian ini mengajarkan nilai-nilai kejantanan, tanggung jawab melindungi keluarga, serta rasa hormat terhadap leluhur. Hingga kini, tari perang tetap menjadi simbol identitas dan kebanggaan masyarakat Papua."
+                ],
+                "en": [
+                    "The War Dance is a traditional Papua dance that depicts the spirit and courage of Papuan warriors in protecting their tribe and territory. This dance is performed by male dancers with dynamic, energetic, and powerful movements. The dancers wear koteka, bird of paradise feather decorations, and carry traditional weapons such as spears and arrows.",
+                    "War dance movements imitate combat actions such as jumping, stomping, shouting, and swinging weapons. The musical accompaniment uses traditional instruments such as tifa (drums) played with a fast and strong rhythm creating an atmosphere full of spirit. This dance is usually performed at traditional ceremonies, welcoming important guests, or major celebrations.",
+                    "More than just entertainment, war dance contains philosophical meanings about courage, unity, and readiness to face challenges. This dance teaches values of masculinity, responsibility to protect family, and respect for ancestors. Until now, war dance remains a symbol of identity and pride of the Papuan people."
+                ]
+            },
+            "tags": [
+                "TariPerang",
+                "PapuaDance",
+                "WarDance",
+                "TraditionalDance",
+                "PapuaCulture"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tari Perang Papua menggambarkan …",
+                        "en": "Papuan War Dance depicts …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kehidupan petani",
+                            "Semangat dan keberanian prajurit",
+                            "Upacara pernikahan",
+                            "Keindahan alam"
+                        ],
+                        "en": [
+                            "Farmer's life",
+                            "Spirit and courage of warriors",
+                            "Wedding ceremony",
+                            "Natural beauty"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Perang menggambarkan semangat dan keberanian prajurit Papua dalam melindungi suku dan wilayahnya.",
+                        "en": "War Dance depicts the spirit and courage of Papuan warriors in protecting their tribe and territory."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Alat musik yang mengiringi Tari Perang Papua adalah …",
+                        "en": "The musical instrument that accompanies Papuan War Dance is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gamelan",
+                            "Angklung",
+                            "Tifa",
+                            "Sasando"
+                        ],
+                        "en": [
+                            "Gamelan",
+                            "Angklung",
+                            "Tifa",
+                            "Sasando"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Tifa adalah alat musik gendang tradisional Papua yang digunakan mengiringi Tari Perang.",
+                        "en": "Tifa is a traditional Papuan drum instrument used to accompany War Dance."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nilai filosofis yang terkandung dalam Tari Perang adalah …",
+                        "en": "The philosophical values contained in War Dance are …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kelembutan dan kasih sayang",
+                            "Keberanian, persatuan, dan kesiapan menghadapi tantangan",
+                            "Kecantikan dan keanggunan",
+                            "Kesedihan dan penyesalan"
+                        ],
+                        "en": [
+                            "Gentleness and affection",
+                            "Courage, unity, and readiness to face challenges",
+                            "Beauty and grace",
+                            "Sadness and regret"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Perang mengandung nilai keberanian, persatuan, dan kesiapan menghadapi tantangan.",
+                        "en": "War Dance contains values of courage, unity, and readiness to face challenges."
+                    }
+                }
+            ]
+        }
+    ]
+}

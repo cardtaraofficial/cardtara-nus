@@ -155,11 +155,12 @@ export default async function LandingPage({ params }: Props) {
                             {/* Hero Image Placeholder - Mobile only, shows BEFORE buttons */}
                             <div className="relative lg:hidden mb-8">
                                 <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl bg-white/10 backdrop-blur-sm border-4 border-white/30">
-                                    <div className="aspect-[4/3] flex items-center justify-center p-8">
-                                        <div className="text-center">
-                                            <div className="text-6xl mb-4">🎴</div>
-                                            <p className="text-white font-semibold drop-shadow-lg">Card Image Placeholder</p>
-                                        </div>
+                                    <div className="aspect-[4/3]">
+                                        <img
+                                            src="/hero-card.jpeg"
+                                            alt="Cardtara Playing Card"
+                                            className="w-full h-full object-cover"
+                                        />
                                     </div>
                                 </div>
                             </div>
@@ -189,11 +190,12 @@ export default async function LandingPage({ params }: Props) {
                         {/* Right - Hero Image Placeholder - Desktop only */}
                         <div className="relative hidden lg:block">
                             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl transform hover:rotate-0 transition-transform duration-500 bg-white/10 backdrop-blur-sm border-4 border-white/30">
-                                <div className="aspect-[4/3] flex items-center justify-center p-8">
-                                    <div className="text-center">
-                                        <div className="text-6xl mb-4">🎴</div>
-                                        <p className="text-white font-semibold drop-shadow-lg">Card Image Placeholder</p>
-                                    </div>
+                                <div className="aspect-[4/3]">
+                                    <img
+                                        src="/hero-card.jpeg"
+                                        alt="Cardtara Playing Card"
+                                        className="w-full h-full object-cover"
+                                    />
                                 </div>
                             </div>
                         </div>
@@ -265,9 +267,11 @@ export default async function LandingPage({ params }: Props) {
                                             className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
                                         />
                                     ) : (
-                                        <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 flex items-center justify-center">
-                                            <span className="text-4xl opacity-30">📱</span>
-                                        </div>
+                                        <img
+                                            src="/feature-folklore.jpg"
+                                            alt="Digital Folklore"
+                                            className="w-full h-full object-cover hover:scale-110 transition-transform duration-300"
+                                        />
                                     )}
                                 </div>
                             </div>
@@ -350,7 +354,7 @@ export default async function LandingPage({ params }: Props) {
             </section>
 
             {/* CTA Section */}
-            <section className="py-16 md:py-20 bg-primary overflow-hidden relative">
+            <section id="cta" className="py-16 md:py-20 bg-primary overflow-hidden relative">
                 <div className="absolute inset-0 opacity-10 batik-overlay"></div>
                 <div className="max-w-4xl mx-auto px-4 text-center relative z-10">
                     <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white mb-4 md:mb-6 font-display">
@@ -360,18 +364,14 @@ export default async function LandingPage({ params }: Props) {
                         {t.cta.description}
                     </p>
                     <div className="flex flex-col sm:flex-row flex-wrap justify-center gap-4">
-                        <Link
-                            href={`/${locale}/k/AS`}
+                        <a
+                            href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20order%20CARDTARA!"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="bg-white text-primary px-8 md:px-10 py-3 md:py-4 rounded-xl font-extrabold text-base md:text-lg hover:bg-gray-100 transition-colors shadow-xl"
                         >
                             {t.cta.button1}
-                        </Link>
-                        <Link
-                            href={`/${locale}`}
-                            className="bg-transparent text-white border-2 border-white/30 px-8 md:px-10 py-3 md:py-4 rounded-xl font-extrabold text-base md:text-lg hover:bg-white/10 transition-colors"
-                        >
-                            {t.cta.button2}
-                        </Link>
+                        </a>
                     </div>
                 </div>
             </section>

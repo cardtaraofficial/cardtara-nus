@@ -1,0 +1,441 @@
+{
+    "tribe": "jatim",
+    "tribeName": {
+        "id": "Jawa Timur",
+        "en": "East Java"
+    },
+    "cards": [
+        {
+            "slug": "6S",
+            "cardName": "6 of Spades",
+            "title": {
+                "id": "Legenda Reog Ponorogo",
+                "en": "Legend of Reog Ponorogo"
+            },
+            "region": {
+                "id": "Jawa Timur",
+                "en": "East Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Reog Ponorogo memiliki cerita legenda tentang Kerajaan Bantarangin yang dipimpin oleh seorang raja sakti bernama Prabu Klono Sewandono. Suatu hari, sang raja jatuh cinta pada Dewi Ragil Kuning, putri Raja Kediri. Untuk mempersunting sang putri, ia harus menunjukkan kekuatan dan keberanian melalui pertunjukan kesenian yang megah dan menakjubkan.",
+                    "Prabu Klono Sewandono kemudian menciptakan pertunjukan spektakuler dengan menampilkan Singa Barong, makhluk mitologi berkepala singa dengan mahkota bulu merak yang sangat berat, serta Bujang Ganong dan Warok yang gagah berani. Namun dalam perjalanan menuju Kediri, ia mengetahui bahwa Dewi Ragil Kuning ternyata akan menikah dengan pangeran dari kerajaan lain.",
+                    "Kisah ini melambangkan keberanian, kegagahan, dan semangat pantang menyerah masyarakat Ponorogo. Hingga kini, Reog Ponorogo menjadi kesenian khas Jawa Timur yang sangat terkenal dengan atraksi pemain yang menggigit topeng singa barong seberat puluhan kilogram menggunakan gigi mereka sebagai simbol kekuatan supernatural."
+                ],
+                "en": [
+                    "Reog Ponorogo has a legendary story about the Bantarangin Kingdom led by a powerful king named Prabu Klono Sewandono. One day, the king fell in love with Dewi Ragil Kuning, daughter of the King of Kediri. To marry the princess, he had to show strength and courage through a magnificent and amazing artistic performance.",
+                    "Prabu Klono Sewandono then created a spectacular performance by presenting Singa Barong, a mythological creature with a lion's head with a very heavy peacock feather crown, as well as the brave Bujang Ganong and Warok. However, on his way to Kediri, he learned that Dewi Ragil Kuning was actually going to marry a prince from another kingdom.",
+                    "This story symbolizes the courage, bravery, and never-give-up spirit of the Ponorogo people. Until now, Reog Ponorogo has become a famous East Java art with the attraction of players biting the lion barong mask weighing tens of kilograms using their teeth as a symbol of supernatural power."
+                ]
+            },
+            "tags": [
+                "ReogPonorogo",
+                "JawaTimur",
+                "TraditionalArts",
+                "PonorgLegend",
+                "SingaBarong"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Siapa tokoh utama dalam legenda Reog Ponorogo?",
+                        "en": "Who is the main character in the legend of Reog Ponorogo?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Prabu Airlangga",
+                            "Prabu Klon Sewandono",
+                            "Dewi Sri",
+                            "Ki Ageng Kutu"
+                        ],
+                        "en": [
+                            "Prabu Airlangga",
+                            "Prabu Klono Sewandono",
+                            "Dewi Sri",
+                            "Ki Ageng Kutu"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Prabu Klono Sewandono adalah raja sakti yang menciptakan pertunjukan Reog.",
+                        "en": "Prabu Klono Sewandono was the powerful king who created the Reog performance."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang menjadi ciri khas utama Reog Ponorogo?",
+                        "en": "What is the main characteristic of Reog Ponorogo?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tarian lembut",
+                            "Topeng Singa Barong yang sangat berat",
+                            "Musik modern",
+                            "Kostum sederhana"
+                        ],
+                        "en": [
+                            "Gentle dance",
+                            "Very heavy Singa Barong mask",
+                            "Modern music",
+                            "Simple costume"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Ciri khas Reog adalah topeng Singa Barong yang sangat berat dengan mahkota bulu merak.",
+                        "en": "The characteristic of Reog is the very heavy Singa Barong mask with a peacock feather crown."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nilai apa yang dilambangkan dalam Reog Ponorogo?",
+                        "en": "What values are symbolized in Reog Ponorogo?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kesedihan",
+                            "Keberanian dan semangat pantang menyerah",
+                            "Kekayaan",
+                            "Ketenangan"
+                        ],
+                        "en": [
+                            "Sadness",
+                            "Courage and never-give-up spirit",
+                            "Wealth",
+                            "Calmness"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Reog melambangkan keberanian, kegagahan, dan semangat pantang menyerah.",
+                        "en": "Reog symbolizes courage, bravery, and never-give-up spirit."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "6H",
+            "cardName": "6 of Hearts",
+            "title": {
+                "id": "Gunung Bromo",
+                "en": "Mount Bromo"
+            },
+            "region": {
+                "id": "Jawa Timur",
+                "en": "East Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Gunung Bromo adalah salah satu gunung berapi paling ikonik di Indonesia yang terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur. Dengan ketinggian 2.329 meter di atas permukaan laut, Bromo terkenal dengan pemandangan matahari terbit yang spektakuler dan lautan pasir seluas 10 kilometer persegi yang mengelilinginya.",
+                    "Keunikan Bromo terletak pada kaldera raksasa yang berisi beberapa gunung termasuk Gunung Batok dan Gunung Semeru di kejauhan. Kawah Bromo yang masih aktif terus mengeluarkan asap putih yang menambah kesan mistis. Wisatawan dapat mendaki ke bibir kawah atau menikmati panorama dari Bukit Penanjakan yang menawarkan pemandangan sunrise terbaik.",
+                    "Bagi masyarakat Tengger, Bromo memiliki nilai sakral dan menjadi tempat pelaksanaan upacara Yadnya Kasada setiap tahun. Dalam upacara ini, masyarakat Tengger melemparkan sesajen ke kawah Bromo sebagai persembahan kepada Sang Hyang Widhi. Bromo bukan hanya destinasi wisata alam, tetapi juga simbol spiritualitas dan harmoni antara manusia dengan alam."
+                ],
+                "en": [
+                    "Mount Bromo is one of the most iconic volcanoes in Indonesia located in Bromo Tengger Semeru National Park, East Java. At 2,329 meters above sea level, Bromo is famous for its spectacular sunrise views and a 10 square kilometer sea of sand surrounding it.",
+                    "The uniqueness of Bromo lies in the giant caldera containing several mountains including Mount Batok and Mount Semeru in the distance. The still-active Bromo crater continues to emit white smoke that adds a mystical impression. Tourists can climb to the crater rim or enjoy the panorama from Penanjakan Hill which offers the best sunrise views.",
+                    "For the Tengger people, Bromo has sacred value and is the place for the annual Yadnya Kasada ceremony. In this ceremony, the Tengger people throw offerings into the Bromo crater as an offering to Sang Hyang Widhi. Bromo is not only a natural tourist destination, but also a symbol of spirituality and harmony between humans and nature."
+                ]
+            },
+            "tags": [
+                "Bromo",
+                "MountBromo",
+                "JawaTimur",
+                "Volcano",
+                "TenggerPeople"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Berapa ketinggian Gunung Bromo?",
+                        "en": "What is the height of Mount Bromo?"
+                    },
+                    "choices": {
+                        "id": [
+                            "1.500 mdpl",
+                            "2.329 mdpl",
+                            "3.000 mdpl",
+                            "4.000 mdpl"
+                        ],
+                        "en": [
+                            "1,500 masl",
+                            "2,329 masl",
+                            "3,000 masl",
+                            "4,000 masl"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gunung Bromo memiliki ketinggian 2.329 meter di atas permukaan laut.",
+                        "en": "Mount Bromo has a height of 2,329 meters above sea level."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa nama upacara adat yang dilakukan masyarakat Tengger di Bromo?",
+                        "en": "What is the name of the traditional ceremony performed by Tengger people at Bromo?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Upacara Kasada",
+                            "Upacara Ngaben",
+                            "Upacara Tabuik",
+                            "Upacara Sekaten"
+                        ],
+                        "en": [
+                            "Kasada Ceremony",
+                            "Ngaben Ceremony",
+                            "Tabuik Ceremony",
+                            "Sekaten Ceremony"
+                        ]
+                    },
+                    "answerIndex": 0,
+                    "explain": {
+                        "id": "Upacara Yadnya Kasada adalah upacara sakral masyarakat Tengger di Gunung Bromo.",
+                        "en": "Yadnya Kasada ceremony is a sacred ceremony of Tengger people at Mount Bromo."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Gunung Bromo terletak di taman nasional …",
+                        "en": "Mount Bromo is located in … national park"
+                    },
+                    "choices": {
+                        "id": [
+                            "Taman Nasional Meru Betiri",
+                            "Taman Nasional Bromo Tengger Semeru",
+                            "Taman Nasional Baluran",
+                            "Taman Nasional Alas Purwo"
+                        ],
+                        "en": [
+                            "Meru Betiri National Park",
+                            "Bromo Tengger Semeru National Park",
+                            "Baluran National Park",
+                            "Alas Purwo National Park"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gunung Bromo terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur.",
+                        "en": "Mount Bromo is located in Bromo Tengger Semeru National Park, East Java."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "6D",
+            "cardName": "6 of Diamonds",
+            "title": {
+                "id": "Rawon",
+                "en": "Rawon"
+            },
+            "region": {
+                "id": "Jawa Timur",
+                "en": "East Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Rawon adalah makanan khas Jawa Timur berupa sup daging sapi dengan kuah berwarna hitam pekat yang berasal dari kluwek (buah kepayang). Warna hitam khas ini membuat rawon mudah dikenali dan menjadi daya tarik tersendiri. Rawon memiliki rasa gurih, pedas, dan aroma rempah yang kuat.",
+                    "Bumbu rawon terdiri dari bawang merah, bawang putih, kemiri, ketumbar, jahe, lengkuas, serai, dan yang paling penting adalah kluwek yang memberikan warna hitam dan rasa khas. Daging sapi direbus lama hingga empuk bersama bumbu rempah. Rawon biasanya disajikan dengan nasi putih, tauge, telur asin, sambal, dan kerupuk udang.",
+                    "Rawon mencerminkan kekayaan rempah Nusantara dan keahlian meracik bumbu masyarakat Jawa Timur. Makanan ini populer di berbagai kalangan, mulai dari warung sederhana hingga restoran mewah. Rawon juga sering disajikan dalam acara hajatan dan perayaan sebagai hidangan istimewa yang menggugah selera."
+                ],
+                "en": [
+                    "Rawon is a typical East Java food in the form of beef soup with a thick black broth originating from kluwek (kepayang fruit). This typical black color makes rawon easily recognizable and becomes its own attraction. Rawon has a savory, spicy taste and a strong aroma of spices.",
+                    "Rawon spices consist of shallots, garlic, candlenuts, coriander, ginger, galangal, lemongrass, and most importantly kluwek which gives the black color and distinctive taste. Beef is boiled a long time until tender with spices. Rawon is usually served with white rice, bean sprouts, salted eggs, sambal, and shrimp crackers.",
+                    "Rawon reflects the richness of Indonesian spices and the skill of mixing spices of East Java people. This food is popular among various circles, from simple stalls to luxury restaurants. Rawon is also often served at celebrations and celebrations as a special dish that whets the appetite."
+                ]
+            },
+            "tags": [
+                "Rawon",
+                "JawaTimurFood",
+                "IndonesianCuisine",
+                "BlackSoup",
+                "TraditionalFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa yang membuat kuah rawon berwarna hitam?",
+                        "en": "What makes rawon broth black?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kecap manis",
+                            "Kluwek",
+                            "Arang",
+                            "Tinta cumi"
+                        ],
+                        "en": [
+                            "Sweet soy sauce",
+                            "Kluwek",
+                            "Charcoal",
+                            "Squid ink"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Warna hitam rawon berasal dari kluwek (buah kepayang) yang menjadi bumbu khas.",
+                        "en": "The black color of rawon comes from kluwek (kepayang fruit) which is a typical spice."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Rawon biasanya disajikan dengan …",
+                        "en": "Rawon is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Roti",
+                            "Nasi putih dan tauge",
+                            "Pasta",
+                            "Mie"
+                        ],
+                        "en": [
+                            "Bread",
+                            "White rice and bean sprouts",
+                            "Pasta",
+                            "Noodles"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Rawon disajikan dengan nasi putih, tauge, telur asin, sambal, dan kerupuk udang.",
+                        "en": "Rawon is served with white rice, bean sprouts, salted eggs, sambal, and shrimp crackers."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bahan daging utama dalam rawon adalah …",
+                        "en": "The main meat ingredient in rawon is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ayam",
+                            "Ikan",
+                            "Daging sapi",
+                            "Kambing"
+                        ],
+                        "en": [
+                            "Chicken",
+                            "Fish",
+                            "Beef",
+                            "Goat"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Rawon menggunakan daging sapi yang direbus lama hingga empuk.",
+                        "en": "Rawon uses beef that is boiled a long time until tender."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "6C",
+            "cardName": "6 of Clubs",
+            "title": {
+                "id": "Ludruk",
+                "en": "Ludruk"
+            },
+            "region": {
+                "id": "Jawa Timur",
+                "en": "East Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Ludruk adalah seni pertunjukan teater tradisional khas Jawa Timur yang menampilkan dialog, tarian, dan nyanyian dengan menggunakan bahasa Jawa dialek Surabayan. Keunikan ludruk terletak pada semua perannya dimainkan oleh laki-laki, termasuk peran perempuan yang dibawakan dengan sangat ekspresif dan menghibur.",
+                    "Pertunjukan ludruk biasanya dibuka dengan tari Remo yang energik, dilanjutkan dengan lawakan dan cerita yang mengangkat kehidupan sehari-hari masyarakat Jawa Timur. Dialog ludruk sarat dengan humor, sindiran sosial, dan pesan moral yang disampaikan dengan cara yang ringan dan menghibur. Musik pengiring menggunakan gamelan Jawa Timuran yang ritmis.",
+                    "Ludruk memiliki fungsi sebagai media hiburan sekaligus kritik sosial yang halus terhadap kondisi masyarakat. Melalui ludruk, berbagai isu sosial dapat disampaikan dengan cara yang tidak menggurui namun tetap mengena. Saat ini, ludruk masih bertahan dan terus beradaptasi dengan perkembangan zaman sambil mempertahankan nilai-nilai tradisionalnya."
+                ],
+                "en": [
+                    "Ludruk is a traditional theater performance typical of East Java that features dialogue, dance, and singing using Javanese language in Surabayan dialect. The uniqueness of ludruk lies in all roles being played by men, including female roles which are performed very expressively and entertainingly.",
+                    "Ludruk performances are usually opened with an energetic Remo dance, followed by comedy and stories that highlight the daily life of East Java people. Ludruk dialogue is laden with humor, social satire, and moral messages conveyed in a light and entertaining way. The accompanying music uses rhythmic East Javanese gamelan.",
+                    "Ludruk functions as a medium of entertainment as well as subtle social criticism of community conditions. Through ludruk, various social issues can be conveyed in a way that is not patronizing but still hits the mark. Currently, ludruk still survives and continues to adapt to the times while maintaining its traditional values."
+                ]
+            },
+            "tags": [
+                "Ludruk",
+                "JawaTimurCulture",
+                "TraditionalTheater",
+                "SurabayaArts",
+                "JavaneseArts"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Siapa yang memerankan semua tokoh dalam pertunjukan ludruk?",
+                        "en": "Who plays all the characters in ludruk performances?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Laki-laki saja",
+                            "Perempuan saja",
+                            "Campuran",
+                            "Anak-anak"
+                        ],
+                        "en": [
+                            "Men only",
+                            "Women only",
+                            "Mixed",
+                            "Children"
+                        ]
+                    },
+                    "answerIndex": 0,
+                    "explain": {
+                        "id": "Semua peran dalam ludruk dimainkan oleh laki-laki, termasuk peran perempuan.",
+                        "en": "All roles in ludruk are played by men, including female roles."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tarian pembuka dalam pertunjukan ludruk adalah …",
+                        "en": "The opening dance in ludruk performances is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tari Saman",
+                            "Tari Remo",
+                            "Tari Kecak",
+                            "Tari Pendet"
+                        ],
+                        "en": [
+                            "Saman Dance",
+                            "Remo Dance",
+                            "Kecak Dance",
+                            "Pendet Dance"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pertunjukan ludruk dibuka dengan tari Remo yang energik.",
+                        "en": "Ludruk performances are opened with an energetic Remo dance."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Fungsi sosial ludruk dalam masyarakat adalah …",
+                        "en": "The social function of ludruk in society is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Hanya hiburan",
+                            "Hiburan dan kritik sosial yang halus",
+                            "Upacara keagamaan",
+                            "Pendidikan formal"
+                        ],
+                        "en": [
+                            "Only entertainment",
+                            "Entertainment and subtle social criticism",
+                            "Religious ceremony",
+                            "Formal education"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Ludruk berfungsi sebagai media hiburan sekaligus kritik sosial yang halus.",
+                        "en": "Ludruk functions as a medium of entertainment as well as subtle social criticism."
+                    }
+                }
+            ]
+        }
+    ]
+}

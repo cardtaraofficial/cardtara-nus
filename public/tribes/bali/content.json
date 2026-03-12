@@ -1,0 +1,441 @@
+{
+    "tribe": "bali",
+    "tribeName": {
+        "id": "Bali",
+        "en": "Balinese"
+    },
+    "cards": [
+        {
+            "slug": "JS",
+            "cardName": "Jack of Spades",
+            "title": {
+                "id": "Legenda Barong dan Rangda",
+                "en": "Legend of Barong and Rangda"
+            },
+            "region": {
+                "id": "Bali",
+                "en": "Bali"
+            },
+            "paragraphs": {
+                "id": [
+                    "Barong dan Rangda adalah dua tokoh mitologi Bali yang melambangkan pertarungan abadi antara kebaikan dan kejahatan. Barong digambarkan sebagai makhluk pelindung berbentuk singa suci yang mewakili kebaikan, sedangkan Rangda adalah ratu leak yang mengerikan dengan taring tajam dan lidah panjang menjulur yang melambangkan kejahatan. Pertempuran keduanya menjadi simbol keseimbangan alam semesta dalam filosofi Bali.",
+                    "Kisah ini sering dipentaskan dalam tari Barong yang merupakan pertunjukan sakral sekaligus seni. Dalam cerita, Rangda mencoba menghancurkan kerajaan dengan ilmu hitamnya dan mengirim pasukan penyihir. Barong datang melindungi rakyat dengan kekuatan magisnya. Para pengikut Barong yang disebut Kris Dancer menusukkan keris ke tubuh dengan kondisi kesurupan namun tidak terluka berkat perlindungan Barong.",
+                    "Pertempuran Barong dan Rangda tidak pernah ada yang menang mutlak karena dalam filosofi Bali, kebaikan dan kejahatan harus seimbang. Pertunjukan ini mengajarkan tentang konsep Rwa Bhineda (dualitas) yang merupakan inti dari keyakinan Hindu Bali. Hingga kini, tarian ini tetap menjadi warisan budaya yang sakral dan menarik wisatawan dari seluruh dunia."
+                ],
+                "en": [
+                    "Barong and Rangda are two Balinese mythological figures symbolizing the eternal battle between good and evil. Barong is depicted as a protective creature in the form of a sacred lion representing goodness, while Rangda is a terrifying queen of leak with sharp fangs and a long protruding tongue symbolizing evil. Their battle is a symbol of the balance of the universe in Balinese philosophy.",
+                    "This story is often staged in Barong dance which is both a sacred performance and art. In the story, Rangda tries to destroy the kingdom with her black magic and sends an army of witches. Barong comes to protect the people with its magical powers. Barong's followers called Kris Dancers stab their bodies with keris in a trance state but are not injured thanks to Barong's protection.",
+                    "The battle between Barong and Rangda never has an absolute winner because in Balinese philosophy, good and evil must be balanced. This performance teaches about the concept of Rwa Bhineda (duality) which is the core of Balinese Hindu beliefs. Until now, this dance remains a sacred cultural heritage and attracts tourists from all over the world."
+                ]
+            },
+            "tags": [
+                "Barong",
+                "Rangda",
+                "BaliCulture",
+                "HinduBali",
+                "TraditionalDance"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Barong melambangkan …",
+                        "en": "Barong symbolizes …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kejahatan",
+                            "Kebaikan",
+                            "Kekayaan",
+                            "Kesedihan"
+                        ],
+                        "en": [
+                            "Evil",
+                            "Goodness",
+                            "Wealth",
+                            "Sadness"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Barong adalah makhluk pelindung berbentuk singa suci yang melambangkan kebaikan.",
+                        "en": "Barong is a protective creature in the form of a sacred lion symbolizing goodness."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Mengapa pertempuran Barong dan Rangda tidak pernah ada yang menang mutlak?",
+                        "en": "Why does the battle between Barong and Rangda never have an absolute winner?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Karena keduanya sama kuat",
+                            "Karena dalam filosofi Bali, kebaikan dan kejahatan harus seimbang",
+                            "Karena pertempuran belum selesai",
+                            "Karena ada pihak ketiga"
+                        ],
+                        "en": [
+                            "Because both are equally strong",
+                            "Because in Balinese philosophy, good and evil must be balanced",
+                            "Because the battle is not finished",
+                            "Because there is a third party"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Dalam filosofi Bali, kebaikan dan kejahatan harus seimbang sesuai konsep Rwa Bhineda.",
+                        "en": "In Balinese philosophy, good and evil must be balanced according to the concept of Rwa Bhineda."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dilakukan Kris Dancer dalam pertunjukan Barong?",
+                        "en": "What do Kris Dancers do in Barong performance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menyanyi",
+                            "Menusukkan keris ke tubuh dalam kondisi kesurupan",
+                            "Menari biasa",
+                            "Bermain musik"
+                        ],
+                        "en": [
+                            "Singing",
+                            "Stabbing keris into body in a trance state",
+                            "Dancing normally",
+                            "Playing music"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kris Dancer menusukkan keris ke tubuh dalam kondisi kesurupan namun tidak terluka berkat perlindungan Barong.",
+                        "en": "Kris Dancers stab keris into their bodies in a trance state but are not injured thanks to Barong's protection."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "JH",
+            "cardName": "Jack of Hearts",
+            "title": {
+                "id": "Pura Tanah Lot",
+                "en": "Tanah Lot Temple"
+            },
+            "region": {
+                "id": "Bali",
+                "en": "Bali"
+            },
+            "paragraphs": {
+                "id": [
+                    "Pura Tanah Lot adalah salah satu pura paling ikonik di Bali yang terletak di atas batu karang besar di tengah laut lepas pantai Tabanan. Nama Tanah Lot berarti 'tanah di tengah laut' dalam bahasa Bali. Pura ini dibangun pada abad ke-16 oleh Dang Hyang Nirartha, seorang pedanda Hindu dari Jawa yang sangat dihormati di Bali.",
+                    "Keunikan Tanah Lot adalah lokasinya yang hanya bisa diakses saat air laut surut, sedangkan saat pasang pura ini terlihat seperti mengapung di tengah laut. Di bawah pura terdapat gua dengan mata air suci yang dijaga oleh ular-ular laut yang dipercaya sebagai penjaga pura. Pengunjung diperbolehkan meminum air suci dan menerima berkah dari pemangku pura.",
+                    "Sunset di Tanah Lot menjadi  pemandangan yang sangat terkenal dengan siluet pura yang menakjubkan di tengah semburat langit jingga. Setiap hari ribuan wisatawan datang untuk menyaksikan momen ini. Tanah Lot bukan hanya tempat ibadah umat Hindu, tetapi juga simbol keindahan dan spiritualitas Bali yang mendunia."
+                ],
+                "en": [
+                    "Tanah Lot Temple is one of the most iconic temples in Bali located on a large rock in the middle of the sea off the coast of Tabanan. The name Tanah Lot means 'land in the middle of the sea' in Balinese. This temple was built in the 16th century by Dang Hyang Nirartha, a highly respected Hindu priest from Java in Bali.",
+                    "The uniqueness of Tanah Lot is its location which can only be accessed when the sea water recedes, while at high tide this temple looks like it is floating in the middle of the sea. Under the temple there is a cave with a sacred spring guarded by sea snakes believed to be temple guardians. Visitors are allowed to drink the holy water and receive blessings from temple priests.",
+                    "Sunset at Tanah Lot is a very famous sight with the amazing silhouette of the temple in the middle of the orange sky. Thousands of tourists come every day to witness this moment. Tanah Lot is not only a place of worship for Hindus, but also a symbol of Bali's beauty and spirituality that is worldwide."
+                ]
+            },
+            "tags": [
+                "TanahLot",
+                "BaliTemple",
+                "HinduTemple",
+                "BaliTourism",
+                "SunsetView"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tanah Lot berarti…",
+                        "en": "Tanah Lot means …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tanah yang subur",
+                            "Tanah di tengah laut",
+                            "Tanah suci",
+                            "Tanah Para Dewa"
+                        ],
+                        "en": [
+                            "Fertile land",
+                            "Land in the middle of the sea",
+                            "Holy land",
+                            "Land of the Gods"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tanah Lot berarti 'tanah di tengah laut' dalam bahasa Bali.",
+                        "en": "Tanah Lot means 'land in the middle of the sea' in Balinese."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan Pura Tanah Lot bisa diakses pengunjung?",
+                        "en": "When can visitors access Tanah Lot Temple?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Saat air laut surut",
+                            "Saat air laut pasang",
+                            "Hanya saat upacara",
+                            "Tidak bisa diakses"
+                        ],
+                        "en": [
+                            "When the sea recedes",
+                            "When the tide is high",
+                            "Only during ceremonies",
+                            "Cannot be accessed"
+                        ]
+                    },
+                    "answerIndex": 0,
+                    "explain": {
+                        "id": "Tanah Lot hanya bisa diakses saat air laut surut, sedangkan saat pasang pura terlihat mengapung.",
+                        "en": "Tanah Lot can only be accessed when the sea recedes, while at high tide the temple looks floating."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dijaga oleh ular laut di Tanah Lot?",
+                        "en": "What do sea snakes guard at Tanah Lot?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Harta karun",
+                            "Gua dengan mata air suci",
+                            "Pintu masuk pura",
+                            "Patung dewa"
+                        ],
+                        "en": [
+                            "Treasure",
+                            "Cave with sacred spring",
+                            "Temple entrance",
+                            "God statue"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Ular laut dipercaya menjaga gua di bawah pura yang terdapat mata air suci.",
+                        "en": "Sea snakes are believed to guard the cave under the temple which has a sacred spring."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "JD",
+            "cardName": "Jack of Diamonds",
+            "title": {
+                "id": "Babi Guling",
+                "en": "Babi Guling"
+            },
+            "region": {
+                "id": "Bali",
+                "en": "Bali"
+            },
+            "paragraphs": {
+                "id": [
+                    "Babi Guling adalah hidangan khas Bali berupa babi utuh yang dibumbui dengan rempah-rempah tradisional, diisi dengan bumbu base genep, lalu dipanggang berputar di atas bara api hingga kulitnya garing dan berwarna keemasan. Babi guling biasanya disajikan dalam upacara adat, odalan (hari raya pura), dan perayaan besar di Bali sebagai simbol kemakmuran dan rasa syukur.",
+                    "Bumbu base genep yang digunakan sangat kompleks terdiri dari puluhan bahan seperti kunyit, jahe, lengkuas, bawang merah, bawang putih, kemiri, ketumbar, cabai, kencur, terasi, dan bumbu rahasia lainnya. Proses membumbui dan memanggang babi guling memerlukan keahlian khusus agar bumbu meresap sempurna dan kulit menjadi renyah. Aroma harum bumbu yang memenuhi udara menjadi daya tarik tersendiri.",
+                    "Saat disajikan, babi guling dipotong-potong dan dihidangkan dengan nasi putih, lawar (sayuran campur), sate lilit, dan sambal matah. Setiap bagian memiliki cita rasa yang berbeda, dari kulit yang renyah hingga daging yang empuk dan juicy. Babi guling kini menjadi ikon kuliner Bali yang terkenal di seluruh dunia dan menjadi daya tarik wisata kuliner yang wajib dicoba."
+                ],
+                "en": [
+                    "Babi Guling is a typical Balinese dish in the form of a whole pig seasoned with traditional spices, filled with base genep spices, then roasted rotating over embers until the skin is crispy and golden in color. Babi guling is usually served at traditional ceremonies, odalan (temple anniversary), and major celebrations in Bali as a symbol of prosperity and gratitude.",
+                    "The base genep spices used are very complex consisting of dozens of ingredients such as turmeric, ginger, galangal, shallots, garlic, candlenuts, coriander, chili, kencur, shrimp paste, and other secret spices. The process of seasoning and roasting babi guling requires special skills so that the spices are perfectly absorbed and the skin becomes crispy. The fragrant aroma of spices filling the air is its own attraction.",
+                    "When served, babi guling is cut into pieces and served with white rice, lawar (mixed vegetables), sate lilit, and sambal matah. Each part has a different taste, from crispy skin to tender and juicy meat. Babi guling has now become an icon of Balinese cuisine famous throughout the world and has become a culinary tourism attraction that must be tried."
+                ]
+            },
+            "tags": [
+                "BabiGuling",
+                "BaliFood",
+                "IndonesianCuisine",
+                "RoastedPig",
+                "TraditionalCuisine"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Babi Guling adalah makanan yang terbuat dari …",
+                        "en": "Babi Guling is a food made from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ayam utuh",
+                            "Babi utuh yang dipanggang",
+                            "Ikan kakap",
+                            "Sapi"
+                        ],
+                        "en": [
+                            "Whole chicken",
+                            "Whole roasted pig",
+                            "Snapper fish",
+                            "Beef"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Babi Guling adalah babi utuh yang dibumbui dan dipanggang berputar di atas bara api.",
+                        "en": "Babi Guling is a whole pig seasoned and roasted rotating over embers."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dimaksud dengan base genep?",
+                        "en": "What is meant by base genep?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Nama pura",
+                            "Bumbu kompleks khas Bali",
+                            "Alat musik",
+                            "Tarian"
+                        ],
+                        "en": [
+                            "Temple name",
+                            "Complex Balinese spices",
+                            "Musical instrument",
+                            "Dance"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Base genep adalah bumbu kompleks khas Bali yang terdiri dari puluhan bahan rempah.",
+                        "en": "Base genep is a complex Balinese spice consisting of dozens of spice ingredients."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Babi Guling biasanya disajikan dengan …",
+                        "en": "Babi Guling is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Pasta",
+                            "Nasi putih dan lawar",
+                            "Pizza",
+                            "Sushi"
+                        ],
+                        "en": [
+                            "Pasta",
+                            "White rice and lawar",
+                            "Pizza",
+                            "Sushi"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Babi Guling disajikan dengan nasi putih, lawar, sate lilit, dan sambal matah.",
+                        "en": "Babi Guling is served with white rice, lawar, sate lilit, and sambal matah."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "JC",
+            "cardName": "Jack of Clubs",
+            "title": {
+                "id": "Tari Kecak",
+                "en": "Kecak Dance"
+            },
+            "region": {
+                "id": "Bali",
+                "en": "Bali"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tari Kecak adalah pertunjukan seni khas Bali yang unik karena tidak menggunakan alat musik sama sekali, melainkan hanya suara 'cak-cak-cak' yang diteriakkan secara berirama oleh puluhan penari laki-laki yang duduk melingkar. Tarian ini diciptakan pada tahun 1930-an oleh seniman Bali bersama Walter Spies, seorang seniman Jerman, yang terinspirasi dari ritual Sanghyang.",
+                    "Pertunjukan Kecak menceritakan kisah Ramayana, khususnya episode penculikan Dewi Sinta oleh Rahwana dan penyelamatan oleh Rama dengan bantuan pasukan kera Hanoman. Para penari mengenakan kain kotak-kotak dan duduk melingkar sambil mengangkat tangan dan meneriakkan 'cak' dengan berbagai variasi tempo yang menciptakan harmoni luar biasa. Api unggun dinyalakan di tengah lingkaran menambah atmosfer mistis.",
+                    "Tari Kecak tidak hanya sekadar hiburan, tetapi juga menjadi simbol kebudayaan Bali yang mendunia. Performance biasanya dipentaskan saat matahari terbenam di Pura Uluwatu atau tempat-tempat sakral lainnya dengan latar belakang pemandangan yang menakjubkan. Tari ini mengajarkan tentang kekompakan, ritme, dan keselarasan yang mencerminkan semangat gotong royong masyarakat Bali."
+                ],
+                "en": [
+                    "Kecak Dance is a unique Balinese art performance because it does not use any musical instruments at all, but only the sound of 'cak-cak-cak' shouted rhythmically by dozens of male dancers sitting in a circle. This dance was created in the 1930s by Balinese artists together with Walter Spies, a German artist, who was inspired by the Sanghyang ritual.",
+                    "Kecak performances tell the story of Ramayana, especially the episode of the kidnapping of Dewi Sinta by Rahwana and the rescue by Rama with the help of Hanoman's monkey army. The dancers wear checkered cloth and sit in a circle while raising their hands and shouting 'cak' with various tempo variations that create extraordinary harmony. A bonfire is lit in the center of the circle adding to the mystical atmosphere.",
+                    "Kecak Dance is not just entertainment, but also a symbol of Balinese culture that is worldwide. Performances are usually staged at sunset at Uluwatu Temple or other sacred places with stunning views as a backdrop. This dance teaches about togetherness, rhythm, and harmony that reflects the spirit of mutual cooperation of the Balinese people."
+                ]
+            },
+            "tags": [
+                "TariKecak",
+                "KecakDance",
+                "BaliCulture",
+                "Ramayana",
+                "TraditionalDance"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tari Kecak tidak menggunakan … sama sekali.",
+                        "en": "Kecak Dance does not use … at all."
+                    },
+                    "choices": {
+                        "id": [
+                            "Penari",
+                            "Alat musik",
+                            "Kostum",
+                            "Api"
+                        ],
+                        "en": [
+                            "Dancers",
+                            "Musical instruments",
+                            "Costumes",
+                            "Fire"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Kecak unik karena tidak menggunakan alat musik, hanya suara 'cak-cak' dari penari.",
+                        "en": "Kecak Dance is unique because it does not use musical instruments, only the sound of 'cak-cak' from dancers."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kisah apa yang diceritakan dalam Tari Kecak?",
+                        "en": "What story is told in Kecak Dance?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Mahabharata",
+                            "Ramayana",
+                            "Panji",
+                            "Babad Bali"
+                        ],
+                        "en": [
+                            "Mahabharata",
+                            "Ramayana",
+                            "Panji",
+                            "Babad Bali"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Kecak menceritakan kisah Ramayana, khususnya penculikan Dewi Sinta dan penyelamatannya.",
+                        "en": "Kecak Dance tells the story of Ramayana, especially the kidnapping of Dewi Sinta and her rescue."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tari Kecak diciptakan pada tahun …",
+                        "en": "Kecak Dance was created in …"
+                    },
+                    "choices": {
+                        "id": [
+                            "1920-an",
+                            "1930-an",
+                            "1950-an",
+                            "1970-an"
+                        ],
+                        "en": [
+                            "1920s",
+                            "1930s",
+                            "1950s",
+                            "1970s"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Kecak diciptakan pada tahun 1930-an oleh seniman Bali bersama Walter Spies.",
+                        "en": "Kecak Dance was created in the 1930s by Balinese artists together with Walter Spies."
+                    }
+                }
+            ]
+        }
+    ]
+}

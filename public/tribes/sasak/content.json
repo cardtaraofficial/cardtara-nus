@@ -1,0 +1,441 @@
+{
+    "tribe": "sasak",
+    "tribeName": {
+        "id": "Sasak",
+        "en": "Sasak"
+    },
+    "cards": [
+        {
+            "slug": "QS",
+            "cardName": "Queen of Spades",
+            "title": {
+                "id": "Legenda Putri Mandalika",
+                "en": "Legend of Princess Mandalika"
+            },
+            "region": {
+                "id": "Nusa Tenggara Barat",
+                "en": "West Nusa Tenggara"
+            },
+            "paragraphs": {
+                "id": [
+                    "Putri Mandalika adalah legenda terkenal dari Lombok yang menceritakan seorang putri cantik jelita dari kerajaan di Lombok yang menjadi rebutan banyak pangeran dari berbagai kerajaan. Kecantikannya yang luar bias membuat banyak pangeran dan raja datang melamarnya, menimbulkan persaingan yang hampir memicu perang antar kerajaan demi memperebutkannya.",
+                    "Tidak ingin menjadi penyebab pertumpahan darah, Putri Mandalika diliputi kesedihan mendalam. Ia tidak bisa memilih salah satu pangeran karena tidak ingin menyakiti yang lain dan membuat mereka berperang. Pada suatu hari di Pantai Kuta, Lombok, sang putri berkata kepada rakyatnya bahwa ia akan memberikan dirinya kepada semua orang dan tidak ada yang boleh bersedih.",
+                    "Setelah mengucapkan kata-kata tersebut, Putri Mandalika berlari ke laut dan melompat dari tebing, lenyap di dalam ombak. Konon, tubuhnya berubah menjadi cacing laut berwarna-warni yang disebut nyale yang muncul setahun sekali di pantai Lombok. Hingga kini, masyarakat Sasak mengadakan upacara Bau Nyale setiap tahun untuk menangkap nyale sebagai bentuk mengenang pengorbanan Putri Mandalika."
+                ],
+                "en": [
+                    "Princess Mandalika is a famous legend from Lombok that tells of a beautiful princess from a kingdom in Lombok who was fought over by many princes from various kingdoms. Her extraordinary beauty made many princes and kings come to propose to her, creating competition that almost triggered war between kingdoms to fight over her.",
+                    "Not wanting to be the cause of bloodshed, Princess Mandalika was filled with deep sadness. She could not choose one prince because she did not want to hurt the others and make them go to war. One day at Kuta Beach, Lombok, the princess told her people that she would give herself to everyone and no one should be sad.",
+                    "After saying those words, Princess Mandalika ran to the sea and jumped from the cliff, disappearing in the waves. Reportedly, her body turned into colorful sea worms called nyale that appear once a year on Lombok beaches. Until now, the Sasak people hold the Bau Nyale ceremony every year to catch nyale as a form of remembering Princess Mandalika's sacrifice."
+                ]
+            },
+            "tags": [
+                "PutriMandalika",
+                "LombokLegend",
+                "SasakCulture",
+                "BauNyale",
+                "NTB"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Mengapa Putri Mandalika terjun ke laut?",
+                        "en": "Why did Princess Mandalika jump into the sea?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Karena terpaksa",
+                            "Karena tidak ingin menjadi penyebab perang",
+                            "Karena ingin berenang",
+                            "Karena dikutuk"
+                        ],
+                        "en": [
+                            "Because she was forced",
+                            "Because she didn't want to be the cause of war",
+                            "Because she wanted to swim",
+                            "Because she was cursed"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Putri Mandalika terjun ke laut karena tidak ingin menjadi penyebab pertumpahan darah dan perang.",
+                        "en": "Princess Mandalika jumped into the sea because she didn't want to be the cause of bloodshed and war."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang terjadi pada tubuh Putri Mandalika setelah terjun ke laut?",
+                        "en": "What happened to Princess Mandalika's body after jumping into the sea?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menghilang selamanya",
+                            "Berubah menjadi cacing laut nyale",
+                            "Menjadi batu",
+                            "Menjadi ikan"
+                        ],
+                        "en": [
+                            "Disappeared forever",
+                            "Turned into nyale sea worms",
+                            "Turned into stone",
+                            "Turned into fish"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tubuh Putri Mandalika berubah menjadi cacing laut berwarna-warni yang disebut nyale.",
+                        "en": "Princess Mandalika's body turned into colorful sea worms called nyale."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Upacara apa yang diadakan masyarakat Sasak untuk mengenang Putri Mandalika?",
+                        "en": "What ceremony do the Sasak people hold to remember Princess Mandalika?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Upacara Kasada",
+                            "Upacara Bau Nyale",
+                            "Upacara Ngaben",
+                            "Upacara Tabuik"
+                        ],
+                        "en": [
+                            "Kasada Ceremony",
+                            "Bau Nyale Ceremony",
+                            "Ngaben Ceremony",
+                            "Tabuik Ceremony"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Masyarakat Sasak mengadakan upacara Bau Nyale setiap tahun untuk menangkap nyale dan mengenang Putri Mandalika.",
+                        "en": "The Sasak people hold the Bau Nyale ceremony every year to catch nyale and remember Princess Mandalika."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "QH",
+            "cardName": "Queen of Hearts",
+            "title": {
+                "id": "Pantai Pink",
+                "en": "Pink Beach"
+            },
+            "region": {
+                "id": "Nusa Tenggara Barat",
+                "en": "West Nusa Tenggara"
+            },
+            "paragraphs": {
+                "id": [
+                    "Pantai Pink atau Pantai Tangsi adalah salah satu dari 7 pantai berpasir merah muda di dunia yang terletak di Lombok Timur, Nusa Tenggara Barat. Warna pink pada pasir pantai berasal dari serpihan karang merah dan organisme laut kecil bernama Foraminifera yang bercampur dengan pasir putih menciptakan gradasi warna yang sangat cantik dan unik.",
+                    "Air laut di Pantai Pink sangat jernih dengan gradasi warna biru kehijauan yang memukau. Terumbu karang di bawah laut masih sangat alami dan menjadi rumah bagi berbagai biota laut berwarna-warni. Pantai ini cocok untuk berbagai aktivitas seperti snorkeling, diving, berenang, atau sekadar bersantai menikmati keindahan alam yang eksotis.",
+                    "Pantai Pink masih relatif sepi dibandingkan destinasi wisata populer lainnya di Lombok, sehingga suasananya sangat tenang dan alami. Untuk mencapai pantai ini diperlukan perjalanan yang cukup menantang melalui jalan berbatu, namun pemandangan yang disajikan akan membayar semua usaha. Pantai Pink menjadi permata tersembunyi Lombok yang menawarkan pengalaman wisata yang tak terlupakan."
+                ],
+                "en": [
+                    "Pink Beach or Tangsi Beach is one of 7 pink sand beaches in the world located in East Lombok, West Nusa Tenggara. The pink color on the beach sand comes from red coral fragments and small marine organisms called Foraminifera mixed with white sand creating a very beautiful and unique color gradation.",
+                    "The seawater at Pink Beach is very clear with stunning bluish-green color gradations. The coral reefs under the sea are still very natural and are home to various colorful marine life. This beach is suitable for various activities such as snorkeling, diving, swimming, or just relaxing enjoying the exotic natural beauty.",
+                    "Pink Beach is still relatively quiet compared to other popular tourist destinations in Lombok, so the atmosphere is very calm and natural. To reach this beach requires a quite challenging journey through rocky roads, but the views presented will pay for all efforts. Pink Beach is a hidden gem of Lombok that offers an unforgettable tourism experience."
+                ]
+            },
+            "tags": [
+                "PantaiPink",
+                "PinkBeach",
+                "Lombok",
+                "NTB",
+                "UniqueBeach"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa yang membuat pasir Pantai Pink berwarna merah muda?",
+                        "en": "What makes Pink Beach sand pink?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Cat",
+                            "Serpihan karang merah dan Foraminifera",
+                            "Lumut",
+                            "Batu permata"
+                        ],
+                        "en": [
+                            "Paint",
+                            "Red coral fragments and Foraminifera",
+                            "Moss",
+                            "Gemstones"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Warna pink berasal dari serpihan karang merah dan organisme Foraminifera yang bercampur pasir putih.",
+                        "en": "The pink color comes from red coral fragments and Foraminifera organisms mixed with white sand."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Pantai Pink adalah salah satu dari … pantai berpasir pink di dunia.",
+                        "en": "Pink Beach is one of … pink sand beaches in the world."
+                    },
+                    "choices": {
+                        "id": [
+                            "3",
+                            "7",
+                            "12",
+                            "20"
+                        ],
+                        "en": [
+                            "3",
+                            "7",
+                            "12",
+                            "20"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pantai Pink adalah salah satu dari 7 pantai berpasir merah muda di dunia.",
+                        "en": "Pink Beach is one of 7 pink sand beaches in the world."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Aktivitas apa yang cocok dilakukan di Pantai Pink?",
+                        "en": "What activities are suitable at Pink Beach?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ski salju",
+                            "Snorkeling dan diving",
+                            "Panjat tebing",
+                            "Naik helikopter"
+                        ],
+                        "en": [
+                            "Snow skiing",
+                            "Snorkeling and diving",
+                            "Rock climbing",
+                            "Helicopter ride"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pantai Pink cocok untuk snorkeling, diving, berenang, dan bersantai menikmati keindahan alam.",
+                        "en": "Pink Beach is suitable for snorkeling, diving, swimming, and relaxing enjoying natural beauty."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "QD",
+            "cardName": "Queen of Diamonds",
+            "title": {
+                "id": "Ayam Taliwang",
+                "en": "Ayam Taliwang"
+            },
+            "region": {
+                "id": "Nusa Tenggara Barat",
+                "en": "West Nusa Tenggara"
+            },
+            "paragraphs": {
+                "id": [
+                    "Ayam Taliwang adalah makanan khas Lombok yang terkenal dengan cita rasanya yang pedas dan gurih. Hidangan ini terbuat dari ayam kampung muda yang dibakar atau digoreng dengan bumbu rempah khas Lombok yang sangat kaya. Nama Taliwang diambil dari nama desa di Lombok Barat yang menjadi tempat asal hidangan ini pertama kali terkenal.",
+                    "Bumbu ayam Taliwang terdiri dari cabai merah, cabai rawit, bawang merah, bawang putih, tomat, terasi, kencur, dan air jeruk limau yang memberikan rasa pedas segar yang khas. Ayam dipanggang atau dibakar di atas bara api sambil terus diolesi bumbu hingga matang sempurna. Proses pembakaran ini menghasilkan aroma yang menggugah selera dan tekstur ayam yang sedikit gosong namun tetap juicy di dalam.",
+                    "Ayam Taliwang biasanya disajikan dengan plecing kangkung, nasi putih panas, dan sambal terasi yang menambah kelezatannya. Hidangan ini sangat populer di seluruh Indonesia dan sering dijadikan menu andalan restoran Lombok. Ayam Taliwang mencerminkan cita rasa Lombok yang berani dan penuh karakter, menjadikannya ikon kuliner NTB yang wajib dicoba."
+                ],
+                "en": [
+                    "Ayam Taliwang is a typical Lombok food famous for its spicy and savory taste. This dish is made from young free-range chicken that is grilled or fried with very rich typical Lombok spices. The name Taliwang is taken from the name of a village in West Lombok which was the place of origin of this dish first became famous.",
+                    "Ayam Taliwang spices consist of red chili, cayenne pepper, shallots, garlic, tomatoes, shrimp paste, kencur, and lime juice which gives a distinctive fresh spicy taste. Chicken is roasted or grilled over embers while being continuously smeared with spices until perfectly cooked. This burning process produces an appetizing aroma and a slightly charred chicken texture but still juicy inside.",
+                    "Ayam Taliwang is usually served with plecing kangkung, hot white rice, and terasi sambal which adds to its deliciousness. This dish is very popular throughout Indonesia and is often the mainstay menu of Lombok restaurants. Ayam Taliwang reflects Lombok's bold and character-full taste, making it an NTB culinary icon that must be tried."
+                ]
+            },
+            "tags": [
+                "AyamTaliwang",
+                "LombokFood",
+                "NTB",
+                "SpicyFood",
+                "IndonesianCuisine"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Ayam Taliwang berasal dari daerah …",
+                        "en": "Ayam Taliwang originates from the region of …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Bali",
+                            "Lombok",
+                            "Sumbawa",
+                            "Flores"
+                        ],
+                        "en": [
+                            "Bali",
+                            "Lombok",
+                            "Sumbawa",
+                            "Flores"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Ayam Taliwang adalah makanan khas Lombok, NTB.",
+                        "en": "Ayam Taliwang is a typical food of Lombok, NTB."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang memberi rasa segar pada bumbu Ayam Taliwang?",
+                        "en": "What gives a fresh taste to Ayam Taliwang spices?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Air lemon",
+                            "Air jeruk limau",
+                            "Cuka",
+                            "Santan"
+                        ],
+                        "en": [
+                            "Lemon water",
+                            "Lime juice",
+                            "Vinegar",
+                            "Coconut milk"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Air jeruk limau memberikan rasa pedas segar yang khas pada Ayam Taliwang.",
+                        "en": "Lime juice gives a distinctive fresh spicy taste to Ayam Taliwang."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Ayam Taliwang biasanya disajikan dengan …",
+                        "en": "Ayam Taliwang is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Mie goreng",
+                            "Plecing kangkung dan nasi putih",
+                            "Roti",
+                            "Pasta"
+                        ],
+                        "en": [
+                            "Fried noodles",
+                            "Plecing kangkung and white rice",
+                            "Bread",
+                            "Pasta"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Ayam Taliwang disajikan dengan plecing kangkung, nasi putih panas, dan sambal terasi.",
+                        "en": "Ayam Taliwang is served with plecing kangkung, hot white rice, and terasi sambal."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "QC",
+            "cardName": "Queen of Clubs",
+            "title": {
+                "id": "Gendang Beleq",
+                "en": "Gendang Beleq"
+            },
+            "region": {
+                "id": "Nusa Tenggara Barat",
+                "en": "West Nusa Tenggara"
+            },
+            "paragraphs": {
+                "id": [
+                    "Gendang Beleq adalah kesenian musik tradisional khas suku Sasak, Lombok, yang menggunakan gendang berukuran besar (beleq berarti besar dalam bahasa Sasak). Kesenian ini dipercaya sudah ada sejak masa kerajaan Islam Selaparang sebagai musik pengiring prajurit ke medan perang dan upacara adat kerajaan. Gendang Beleq memiliki nilai sakral dan hanya dimainkan pada acara-acara tertentu.",
+                    "Ansambel Gendang Beleq terdiri dari beberapa gendang besar, gendang kecil, suling, dan terompet yang dimainkan secara berpadu. Irama yang dihasilkan sangat kuat, megah, dan penuh semangat mencerminkan jiwa keberanian dan keagungan masyarakat Sasak. Para pemain mengenakan pakaian adat lengkap dan sering melakukan gerakan tari sambil memainkan alat musiknya.",
+                    "Gendang Beleq biasanya ditampilkan dalam upacara pernikahan adat, khitanan, penyambutan tamu penting, festival budaya, dan perayaan hari besar Islam. Kesenian ini tidak hanya sekadar hiburan, tetapi juga simbol kebanggaan dan identitas budaya Sasak. Hingga kini, Gendang Beleq tetap lestari dan menjadi daya tarik wisata budaya Lombok yang memukau."
+                ],
+                "en": [
+                    "Gendang Beleq is a traditional music art typical of the Sasak tribe, Lombok, which uses large drums (beleq means large in Sasak language). This art is believed to have existed since the time of the Selaparang Islamic kingdom as music accompanying soldiers to battlefields and royal traditional ceremonies. Gendang Beleq has sacred value and is only played at certain events.",
+                    "The Gendang Beleq ensemble consists of several large drums, small drums, flutes, and trumpets played in harmony. The rhythm produced is very strong, grand, and full of spirit reflecting the spirit of courage and majesty of the Sasak people. Players wear complete traditional clothing and often perform dance movements while playing their instruments.",
+                    "Gendang Beleq is usually performed at traditional wedding ceremonies, circumcisions, welcoming important guests, cultural festivals, and Islamic holidays. This art is not just entertainment, but also a symbol of pride and cultural identity of the Sasak. Until now, Gendang Beleq remains sustainable and is a fascinating cultural tourism attraction of Lombok."
+                ]
+            },
+            "tags": [
+                "GendangBeleq",
+                "SasakCulture",
+                "Lombok",
+                "TraditionalMusic",
+                "NTB"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Apa arti kata 'beleq' dalam bahasa Sasak?",
+                        "en": "What does the word 'beleq' mean in Sasak language?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kecil",
+                            "Besar",
+                            "Bulat",
+                            "Panjang"
+                        ],
+                        "en": [
+                            "Small",
+                            "Large",
+                            "Round",
+                            "Long"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "'Beleq' berarti besar dalam bahasa Sasak, merujuk pada ukuran gendang yang besar.",
+                        "en": "'Beleq' means large in Sasak language, referring to the large size of the drum."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Gendang Beleq dulunya digunakan untuk …",
+                        "en": "Gendang Beleq was used for …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Menidurkan bayi",
+                            "Mengiring prajurit ke medan perang",
+                            "Memanggil hujan",
+                            "Berburu"
+                        ],
+                        "en": [
+                            "Putting babies to sleep",
+                            "Accompanying soldiers to battlefields",
+                            "Calling rain",
+                            "Hunting"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gendang Beleq dulunya digunakan sebagai musik pengiring prajurit ke medan perang.",
+                        "en": "Gendang Beleq was used as music accompanying soldiers to battlefields."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan Gendang Beleq biasanya ditampilkan?",
+                        "en": "When is Gendang Beleq usually performed?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Setiap hari",
+                            "Upacara pernikahan adat dan perayaan penting",
+                            "Hanya saat pemakaman",
+                            "Saat musim panen"
+                        ],
+                        "en": [
+                            "Every day",
+                            "Traditional wedding ceremonies and important celebrations",
+                            "Only during funerals",
+                            "During harvest season"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gendang Beleq ditampilkan dalam upacara pernikahan adat, khitanan, penyambutan tamu penting, dan perayaan besar.",
+                        "en": "Gendang Beleq is performed at traditional wedding ceremonies, circumcisions, welcoming important guests, and major celebrations."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,441 @@
+{
+    "tribe": "jabar",
+    "tribeName": {
+        "id": "Sunda",
+        "en": "Sundanese"
+    },
+    "cards": [
+        {
+            "slug": "4S",
+            "cardName": "4 of Spades",
+            "title": {
+                "id": "Legenda Sangkuriang",
+                "en": "Legend of Sangkuriang"
+            },
+            "region": {
+                "id": "Jawa Barat",
+                "en": "West Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Sangkuriang adalah cerita rakyat Sunda yang melegenda tentang asal usul Gunung Tangkuban Perahu dan Danau Bandung. Kisah ini mengisahkan seorang pemuda bernama Sangkuriang yang jatuh cinta pada seorang wanita cantik tanpa menyadari bahwa wanita tersebut adalah Dayang Sumbi, ibunya sendiri yang awet muda karena kutukan.",
+                    "Setelah Dayang Sumbi menyadari bahwa Sangkuriang adalah anaknya, ia memberikan syarat mustahil agar Sangkuriang batal menikahinya, yaitu membuat sebuah perahu besar dan danau dalam waktu satu malam. Sangkuriang hampir berhasil menyelesaikan tugasnya dengan bantuan kekuatan gaib, namun Dayang Sumbi menggagalkannya dengan cara menipu agar ayam berkokok sebelum waktunya sehingga Sangkuriang mengira fajar telah tiba.",
+                    "Dalam kemarahannya karena merasa ditipu, Sangkuriang menendang perahu yang sedang dibuatnya hingga terbalik. Perahu tersebut kemudian membatu dan menjadi Gunung Tangkuban Perahu yang berbentuk seperti perahu terbalik. Cerita ini mengajarkan tentang pentingnya mengendalikan amarah dan bahaya dari hubungan terlarang dalam budaya Sunda."
+                ],
+                "en": [
+                    "Sangkuriang is a legendary Sundanese folktale about the origin of Mount Tangkuban Perahu and Lake Bandung. This story tells of a young man named Sangkuriang who fell in love with a beautiful woman without realizing that the woman was Dayang Sumbi, his own mother who remained young because of a curse.",
+                    "After Dayang Sumbi realized that Sangkuriang was her son, she gave an impossible condition so that Sangkuriang would cancel marrying her, namely to make a large boat and lake in one night. Sangkuriang almost succeeded in completing his task with the help of supernatural powers, but Dayang Sumbi thwarted it by tricking the rooster to crow before its time so that Sangkuriang thought dawn had arrived.",
+                    "In his anger at feeling deceived, Sangkuriang kicked the boat he was making until it overturned. The boat then turned to stone and became Mount Tangkuban Perahu which is shaped like an upside-down boat. This story teaches about the importance of controlling anger and the dangers of forbidden relationships in Sundanese culture."
+                ]
+            },
+            "tags": [
+                "Sangkuriang",
+                "TangkubanPerahu",
+                "SundaLegend",
+                "JawaBarat",
+                "FolkloreSunda"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Siapa yang sebenarnya adalah Dayang Sumbi dalam cerita Sangkuriang?",
+                        "en": "Who actually was Dayang Sumbi in the story of Sangkuriang?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Putri Raja",
+                            "Ibu Sangkuriang",
+                            "Bidadari dari kayangan",
+                            "Penyihir jahat"
+                        ],
+                        "en": [
+                            "King's daughter",
+                            "Sangkuriang's mother",
+                            "Angel from heaven",
+                            "Evil witch"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Dayang Sumbi adalah ibu Sangkuriang sendiri yang awet muda karena kutukan.",
+                        "en": "Dayang Sumbi was Sangkuriang's own mother who remained young because of a curse."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Bagaimana Dayang Sumbi menggagalkan usaha Sangkuriang?",
+                        "en": "How did Dayang Sumbi thwart Sangkuriang's efforts?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Membunuh Sangkuriang",
+                            "Menghancurkan perahunya",
+                            "Menipu agar ayam berkokok sebelum fajar",
+                            "Meminta bantuan raja"
+                        ],
+                        "en": [
+                            "Killing Sangkuriang",
+                            "Destroying his boat",
+                            "Tricking the rooster to crow before dawn",
+                            "Asking for the king's help"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Dayang Sumbi menggagalkan Sangkuriang dengan menipu agar ayam berkokok sebelum fajar tiba.",
+                        "en": "Dayang Sumbi thwarted Sangkuriang by tricking the rooster to crow before dawn."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Gunung Tangkuban Perahu terbentuk dari …",
+                        "en": "Mount Tangkuban Perahu was formed from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Letusan gunung berapi",
+                            "Perahu yang ditendang Sangkuriang hingga terbalik dan membatu",
+                            "Gempa bumi dahsyat",
+                            "Danau yang mengering"
+                        ],
+                        "en": [
+                            "Volcanic eruption",
+                            "A boat kicked by Sangkuriang until it overturned and turned to stone",
+                            "Devastating earthquake",
+                            "A dried-up lake"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gunung Tangkuban Perahu terbentuk dari perahu yang ditendang Sangkuriang dalam kemarahan hingga terbalik dan membatu.",
+                        "en": "Mount Tangkuban Perahu was formed from a boat kicked by Sangkuriang in anger until it overturned and turned to stone."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "4H",
+            "cardName": "4 of Hearts",
+            "title": {
+                "id": "Kawah Putih",
+                "en": "White Crater"
+            },
+            "region": {
+                "id": "Jawa Barat",
+                "en": "West Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Kawah Putih adalah sebuah danau kawah vulkanik yang terletak di Ciwidey, Bandung Selatan, Jawa Barat. Kawah ini memiliki keunikan berupa air danau berwarna putih kehijauan akibat kandungan belerang yang tinggi. Suhu udara di sekitar kawah sangat dingin dengan udara yang dipenuhi aroma belerang khas.",
+                    "Pemandangan di Kawah Putih sangat memukau dengan kombinasi air danau berwarna unik, tanah putih, dan pepohonan mati yang terpapar gas belerang. Warna air kawah dapat berubah-ubah dari putih susu, hijau toska, hingga biru kehijauan tergantung kadar belerang, suhu, dan cuaca. Fenomena ini menciptakan panorama yang surreal dan sering dijadikan lokasi fotografi dan syuting film.",
+                    "Kawah Putih memiliki sejarah menarik karena dulunya dianggap angker dan ditakuti oleh penduduk setempat hingga tahun 1837 ketika ilmuwan Jerman bernama Dr. Franz Wilhelm Junghuhn melakukan penelitian. Kini kawah ini menjadi salah satu destinasi wisata alam paling terkenal di Jawa Barat yang menarik ribuan wisatawan setiap tahunnya."
+                ],
+                "en": [
+                    "White Crater is a volcanic crater lake located in Ciwidey, South Bandung, West Java. This crater has a unique feature of a greenish-white lake water due to its high sulfur content. The air temperature around the crater is very cold with air filled with the typical smell of sulfur.",
+                    "The view at White Crater is very stunning with a combination of uniquely colored lake water, white soil, and dead trees exposed to sulfur gas. The color of the crater water can change from milky white, turquoise green, to bluish green depending on the sulfur levels, temperature, and weather. This phenomenon creates a surreal panorama and is often used as a location for photography and film shooting.",
+                    "White Crater has an interesting history because it was once considered haunted and feared by local residents until 1837 when a German scientist named Dr. Franz Wilhelm Junghuhn conducted research. Now this crater has become one of the most famous natural tourist destinations in West Java, attracting thousands of tourists every year."
+                ]
+            },
+            "tags": [
+                "KawahPutih",
+                "Ciwidey",
+                "JawaBarat",
+                "WisataAlam",
+                "WhiteCrater"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Mengapa air di Kawah Putih berwarna putih kehijauan?",
+                        "en": "Why is the water at White Crater greenish-white?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Karena pencemaran",
+                            "Karena kandungan belerang yang tinggi",
+                            "Karena ganggang laut",
+                            "Karena es yang mencair"
+                        ],
+                        "en": [
+                            "Because of pollution",
+                            "Because of high sulfur content",
+                            "Because of seaweed",
+                            "Because of melting ice"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Air Kawah Putih berwarna putih kehijauan karena kandungan belerang yang tinggi.",
+                        "en": "The water at White Crater is greenish-white because of its high sulfur content."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kawah Putih terletak di daerah …",
+                        "en": "White Crater is located in the area of …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Lembang",
+                            "Ciwidey",
+                            "Garut",
+                            "Sukabumi"
+                        ],
+                        "en": [
+                            "Lembang",
+                            "Ciwidey",
+                            "Garut",
+                            "Sukabumi"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kawah Putih terletak di Ciwidey, Bandung Selatan, Jawa Barat.",
+                        "en": "White Crater is located in Ciwidey, South Bandung, West Java."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Siapa ilmuwan yang pertama kali meneliti Kawah Putih?",
+                        "en": "Who was the scientist who first researched White Crater?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Dr. Thomas Stamford Raffles",
+                            "Dr. Franz Wilhelm Junghuhn",
+                            "Dr. Albert Einstein",
+                            "Dr. Charles Darwin"
+                        ],
+                        "en": [
+                            "Dr. Thomas Stamford Raffles",
+                            "Dr. Franz Wilhelm Junghuhn",
+                            "Dr. Albert Einstein",
+                            "Dr. Charles Darwin"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Dr. Franz Wilhelm Junghuhn, ilmuwan Jerman, adalah orang pertama yang meneliti Kawah Putih pada tahun 1837.",
+                        "en": "Dr. Franz Wilhelm Junghuhn, a German scientist, was the first person to research White Crater in 1837."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "4D",
+            "cardName": "4 of Diamonds",
+            "title": {
+                "id": "Nasi Timbel",
+                "en": "Nasi Timbel"
+            },
+            "region": {
+                "id": "Jawa Barat",
+                "en": "West Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Nasi Timbel adalah hidangan khas Sunda yang terdiri dari nasi putih yang dibungkus dengan daun pisang dan dikukus hingga menghasilkan aroma khas. Cara penyajian tradisional ini membuat nasi lebih wangi dan memiliki cita rasa yang unik. Nasi timbel biasanya disajikan bersama lauk-pauk khas Sunda seperti ayam goreng, ikan asin, tahu, tempe, dan sambal.",
+                    "Keunikan nasi timbel terletak pada proses pembuatannya yang sederhana namun menghasilkan rasa istimewa. Nasi yang sudah ditanak dibungkus rapat dengan daun pisang berbentuk kerucut atau silinder, lalu dikukus kembali. Proses ini membuat nasi menyerap aroma daun pisang dan menghasilkan tekstur yang lebih pulen dan padat.",
+                    "Nasi timbel mencerminkan filosofi kesederhanaan dan kearifan lokal masyarakat Sunda. Hidangan ini sering disajikan dalam acara keluarga, syukuran, atau bahkan sebagai bekal petani ke sawah. Kini nasi timbel telah menjadi ikon kuliner Jawa Barat yang populer di seluruh Indonesia dan sering dijadikan menu andalan restoran Sunda."
+                ],
+                "en": [
+                    "Nasi Timbel is a typical Sundanese dish consisting of white rice wrapped in banana leaves and steamed until it produces a distinctive aroma. This traditional serving method makes the rice more fragrant and has a unique taste. Nasi Timbel is usually served with typical Sundanese side dishes such as fried chicken, salted fish, tofu, tempeh, and sambal.",
+                    "The uniqueness of nasi timbel lies in its simple making process but produces an exceptional taste. Rice that has been cooked is tightly wrapped in banana leaves in a cone or cylindrical shape, then steamed again. This process makes the rice absorb the aroma of banana leaves and produces a fluffier and denser texture.",
+                    "Nasi Timbel reflects the philosophy of simplicity and local wisdom of the Sundanese people. This dish is often served at family events, thanksgiving, or even as provisions for farmers to the rice fields. Now nasi timbel has become an icon of West Java cuisine that is popular throughout Indonesia and is often the mainstay menu of Sundanese restaurants."
+                ]
+            },
+            "tags": [
+                "NasiTimbel",
+                "SundaFood",
+                "JawaBaratCuisine",
+                "IndonesianFood",
+                "TraditionalCuisine"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Nasi Timbel dibungkus dengan …",
+                        "en": "Nasi Timbel is wrapped in …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kertas minyak",
+                            "Daun pisang",
+                            "Plastik",
+                            "Daun jati"
+                        ],
+                        "en": [
+                            "Wax paper",
+                            "Banana leaves",
+                            "Plastic",
+                            "Teak leaves"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Nasi Timbel dibungkus dengan daun pisang dan dikukus hingga menghasilkan aroma khas.",
+                        "en": "Nasi Timbel is wrapped in banana leaves and steamed until it produces a distinctive aroma."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kenapa nasi timbel dikukus lagi setelah dibungkus daun pisang?",
+                        "en": "Why is nasi timbel steamed again after being wrapped in banana leaves?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Agar lebih matang",
+                            "Agar menyerap aroma daun pisang dan teksturnya lebih pulen",
+                            "Agar lebih cepat dingin",
+                            "Agar warnanya lebih putih"
+                        ],
+                        "en": [
+                            "To be more cooked",
+                            "To absorb the aroma of banana leaves and the texture is fluffier",
+                            "To cool down faster",
+                            "To be whiter in color"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Nasi dikukus lagi agar menyerap aroma daun pisang dan menghasilkan tekstur yang lebih pulen dan padat.",
+                        "en": "Rice is steamed again to absorb the aroma of banana leaves and produce a fluffier and denser texture."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nasi Timbel biasanya disajikan dengan lauk khas Sunda seperti …",
+                        "en": "Nasi Timbel is usually served with typical Sundanese side dishes such as …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Soto dan bakso",
+                            "Ayam goreng dan sambal",
+                            "Pizza dan pasta",
+                            "Sushi dan sashimi"
+                        ],
+                        "en": [
+                            "Soto and meatballs",
+                            "Fried chicken and sambal",
+                            "Pizza and pasta",
+                            "Sushi and sashimi"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Nasi Timbel disajikan dengan lauk khas Sunda seperti ayam goreng, ikan asin, tahu, tempe, dan sambal.",
+                        "en": "Nasi Timbel is served with typical Sundanese side dishes such as fried chicken, salted fish, tofu, tempeh, and sambal."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "4C",
+            "cardName": "4 of Clubs",
+            "title": {
+                "id": "Angklung",
+                "en": "Angklung"
+            },
+            "region": {
+                "id": "Jawa Barat",
+                "en": "West Java"
+            },
+            "paragraphs": {
+                "id": [
+                    "Angklung adalah alat musik tradisional Indonesia yang berasal dari Jawa Barat, terbuat dari bambu yang disusun sedemikian rupa sehingga menghasilkan suara ketika digoyangkan. Setiap angklung menghasilkan nada tertentu, sehingga untuk memainkan melodi lengkap diperlukan beberapa angklung dengan nada berbeda yang dimainkan secara bersamaan oleh beberapa orang.",
+                    "Angklung telah diakui UNESCO sebagai Warisan Budaya Takbenda pada tahun 2010. Alat musik ini mencerminkan nilai gotong royong dan kebersamaan karena memerlukan kerjasama antar pemain untuk menghasilkan musik yang harmonis. Masing-masing pemain hanya memegang satu atau dua angklung dengan nada tertentu, dan harus memainkannya pada waktu yang tepat sesuai melodi.",
+                    "Daeng Soetigna adalah tokoh penting dalam perkembangan angklung modern dengan menciptakan angklung diatonik yang dapat memainkan lagu-lagu internasional. Kini angklung tidak hanya digunakan dalam upacara adat, tetapi juga sebagai alat pendidikan musik di sekolah-sekolah dan pertunjukan seni di berbagai negara. Angklung menjadi simbol kebudayaan Indonesia yang mendunia."
+                ],
+                "en": [
+                    "Angklung is a traditional Indonesian musical instrument originating from West Java, made of bamboo arranged in such a way that it produces sound when shaken. Each angklung produces a specific tone, so to play a complete melody several angklungs with different tones are needed which are played simultaneously by several people.",
+                    "Angklung has been recognized by UNESCO as Intangible Cultural Heritage in 2010. This musical instrument reflects the values of mutual cooperation and togetherness because it requires cooperation between players to produce harmonious music. Each player only holds one or two angklungs with a certain tone, and must play it at the right time according to the melody.",
+                    "Daeng Soetigna is an important figure in the development of modern angklung by creating diatonic angklung that can play international songs. Now angklung is used not only in traditional ceremonies, but also as a music education tool in schools and art performances in various countries. Angklung has become a symbol of Indonesian culture that is worldwide."
+                ]
+            },
+            "tags": [
+                "Angklung",
+                "TraditionalMusic",
+                "UNESCO",
+                "JawaBaratCulture",
+                "IndonesianHeritage"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Angklung terbuat dari bahan …",
+                        "en": "Angklung is made from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kayu jati",
+                            "Bambu",
+                            "Logam",
+                            "Plastik"
+                        ],
+                        "en": [
+                            "Teak wood",
+                            "Bamboo",
+                            "Metal",
+                            "Plastic"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Angklung terbuat dari bambu yang disusun sedemikian rupa sehingga menghasilkan suara ketika digoyangkan.",
+                        "en": "Angklung is made from bamboo arranged in such a way that it produces sound when shaken."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kapan angklung diakui UNESCO sebagai Warisan Budaya Takbenda?",
+                        "en": "When was angklung recognized by UNESCO as Intangible Cultural Heritage?"
+                    },
+                    "choices": {
+                        "id": [
+                            "2005",
+                            "2010",
+                            "2015",
+                            "2020"
+                        ],
+                        "en": [
+                            "2005",
+                            "2010",
+                            "2015",
+                            "2020"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Angklung diakui UNESCO sebagai Warisan Budaya Takbenda pada tahun 2010.",
+                        "en": "Angklung was recognized by UNESCO as Intangible Cultural Heritage in 2010."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Nilai budaya yang tercermin dalam permainan angklung adalah …",
+                        "en": "The cultural values reflected in playing angklung are …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Individualisme dan kompetisi",
+                            "Gotong royong dan kebersamaan",
+                            "Kecepatan dan kelincahan",
+                            "Kekayaan dan kemewahan"
+                        ],
+                        "en": [
+                            "Individualism and competition",
+                            "Mutual cooperation and togetherness",
+                            "Speed and agility",
+                            "Wealth and luxury"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Angklung mencerminkan nilai gotong royong dan kebersamaan karena memerlukan kerjasama antar pemain.",
+                        "en": "Angklung reflects the values of mutual cooperation and togetherness because it requires cooperation between players."
+                    }
+                }
+            ]
+        }
+    ]
+}

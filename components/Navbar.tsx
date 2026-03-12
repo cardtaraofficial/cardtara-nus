@@ -59,7 +59,8 @@ export default function Navbar() {
                     <div className="flex items-center gap-4">
                         <LanguageSwitcher />
                         <Link
-                            href={`/${locale}/k/AS`}
+                            href={`/${locale}#cta`}
+                            scroll={true}
                             className="bg-primary hover:bg-red-700 text-white px-5 py-2 rounded-lg text-sm font-bold transition-all shadow-lg shadow-primary/20"
                         >
                             {t.getCards}

@@ -8,16 +8,16 @@ export const tribesData: TribeInfo[] = [
     {
         slug: "jakarta",
         name: {
-            id: "Betawi Jakarta",
-            en: "Jakarta Betawi",
+            id: "DKI Jakarta",
+            en: "DKI Jakarta",
         },
         audioPath: "/tribes/jakarta/audio.mp3",
     },
     {
         slug: "minang",
         name: {
-            id: "Minangkabau",
-            en: "Minangkabau",
+            id: "Sumatera Barat",
+            en: "West Sumatra",
         },
         audioPath: "/tribes/minang/audio.mp3",
     },
@@ -56,32 +56,32 @@ export const tribesData: TribeInfo[] = [
     {
         slug: "baduy",
         name: {
-            id: "Baduy",
-            en: "Baduy",
+            id: "Banten",
+            en: "Banten",
         },
         audioPath: "/tribes/baduy/audio.mp3",
     },
     {
         slug: "dayak",
         name: {
-            id: "Dayak",
-            en: "Dayak",
+            id: "Kalimantan Barat",
+            en: "West Kalimantan",
         },
         audioPath: "/tribes/dayak/audio.mp3",
     },
     {
         slug: "bugis",
         name: {
-            id: "Bugis",
-            en: "Bugis",
+            id: "Sulawesi Selatan",
+            en: "South Sulawesi",
         },
         audioPath: "/tribes/bugis/audio.mp3",
     },
     {
         slug: "toraja",
         name: {
-            id: "Toraja",
-            en: "Toraja",
+            id: "Tana Toraja",
+            en: "Tana Toraja",
         },
         audioPath: "/tribes/toraja/audio.mp3",
     },
@@ -96,16 +96,16 @@ export const tribesData: TribeInfo[] = [
     {
         slug: "sasak",
         name: {
-            id: "Sasak",
-            en: "Sasak",
+            id: "Nusa Tenggara Barat",
+            en: "West Nusa Tenggara",
         },
         audioPath: "/tribes/sasak/audio.mp3",
     },
     {
         slug: "gayo",
         name: {
-            id: "Gayo",
-            en: "Gayo",
+            id: "Aceh",
+            en: "Aceh",
         },
         audioPath: "/tribes/gayo/audio.mp3",
     },

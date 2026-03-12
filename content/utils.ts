@@ -35,9 +35,15 @@ export type Card = {
         id: string[];
         en: string[];
     };
-    image: string; // path to image in /public
+    image: string; // path to image in /public (deprecated, use images instead)
+    images?: string[]; // array of image paths (jpg/png/jpeg), typically 2 images
+    imagesCaptions?: {
+        id: string[];
+        en: string[];
+    }; // captions for images, same length as images array
     audio: string; // path to audio in /public
     quiz: QuizQuestion[];
+    tags?: string[]; // hashtags for the card
 };
 
 // Suit types

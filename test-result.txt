@@ -1,0 +1,60 @@
+﻿Testing all 52 cards...
+
+
+≡ƒôü jakarta (Rank A):
+   Tribe field: "jakarta" (expected: "jakarta")
+   Γ£à AS - Si Pitung, Jagoan Betawi
+   Γ£à AH - Setu Babakan
+   Γ£à AD - Kerak Telor
+   Γ£à AC - Gambang Kromong
+
+≡ƒôü minang (Rank 2):
+   Tribe field: "minang" (expected: "minang")
+   Γ£à 2S - Legenda Malin Kundang
+   Γ£à 2H - Jam Gadang
+   Γ£à 2D - Rendang
+   Γ£à 2C - Tari Piring
+
+≡ƒôü papua (Rank 3):
+   Tribe field: "papua" (expected: "papua")
+   Γ£à 3S - Legenda Burung Cenderawasih
+   Γ£à 3H - Raja Ampat
+   Γ£à 3D - Papeda
+   Γ£à 3C - Tari Perang Papua
+Γ¥î ERROR parsing jabar/content.json: Bad control character in string literal in JSON at position 950 (line 22 column 107)
+Γ¥î ERROR parsing jateng/content.json: Bad control character in string literal in JSON at position 775 (line 21 column 257)
+Γ¥î ERROR parsing jatim/content.json: Bad control character in string literal in JSON at position 11960 (line 209 column 41)
+Γ¥î ERROR parsing baduy/content.json: Bad control character in string literal in JSON at position 14912 (line 243 column 318)
+
+≡ƒôü dayak (Rank 8):
+   Tribe field: "dayak" (expected: "dayak")
+   Γ£à 8S - Legenda Burung Enggang
+   Γ£à 8H - Danau Sentarum
+   Γ£à 8D - Bubur Pedas
+   Γ£à 8C - Tari Mandau
+Γ¥î ERROR parsing bugis/content.json: Bad control character in string literal in JSON at position 2712 (line 28 column 231)
+Γ¥î ERROR parsing toraja/content.json: Bad control character in string literal in JSON at position 8409 (line 135 column 41)
+Γ¥î ERROR parsing bali/content.json: Bad control character in string literal in JSON at position 17403 (line 282 column 56)
+
+≡ƒôü sasak (Rank Q):
+   Tribe field: "sasak" (expected: "sasak")
+   Γ£à QS - Legenda Putri Mandalika
+   Γ£à QH - Pantai Pink
+   Γ£à QD - Ayam Taliwang
+   Γ£à QC - Gendang Beleq
+
+≡ƒôü gayo (Rank K):
+   Tribe field: "gayo" (expected: "gayo")
+   Γ£à KS - Legenda Danau Lut Tawar
+   Γ£à KH - Masjid Raya Baiturrahman
+   Γ£à KD - Kopi Gayo
+   Γ£à KC - Tari Saman
+
+
+========================================
+TOTAL CARDS FOUND: 24/52
+
+MISSING CARDS (28):
+4S, 4H, 4D, 4C, 5S, 5H, 5D, 5C, 6S, 6H, 6D, 6C, 7S, 7H, 7D, 7C, 9S, 9H, 9D, 9C, 10S, 10H, 10D, 10C, JS, JH, JD, JC
+========================================
+

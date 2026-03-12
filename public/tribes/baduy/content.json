@@ -1,0 +1,441 @@
+{
+    "tribe": "baduy",
+    "tribeName": {
+        "id": "Baduy",
+        "en": "Baduy"
+    },
+    "cards": [
+        {
+            "slug": "7S",
+            "cardName": "7 of Spades",
+            "title": {
+                "id": "Asal-Usul Suku Baduy",
+                "en": "Origin of Baduy Tribe"
+            },
+            "region": {
+                "id": "Banten",
+                "en": "Banten"
+            },
+            "paragraphs": {
+                "id": [
+                    "Suku Baduy adalah masyarakat adat yang tinggal di pegunungan Kendeng, Kabupaten Lebak, Banten. Menurut kepercayaan mereka, leluhur Baduy adalah prajurit Kerajaan Sunda Pajajaran yang mengungsikan diri ke pedalaman setelah kerajaan runtuh. Mereka mengisolasi diri untuk menjaga kesucian ajaran leluhur dan hidup harmonis dengan alam.",
+                    "Suku Baduy terbagi menjadi Baduy Dalam dan Baduy Luar. Baduy Dalam sangat ketat menjaga adat dan menolak pengaruh modernisasi, mengenakan pakaian serba putih, tidak menggunakan teknologi modern, dan hidup sangat sederhana. Baduy Luar lebih terbuka dengan dunia luar, mengenakan pakaian hitam atau biru gelap, dan sudah menggunakan beberapa teknologi sederhana.",
+                    "Filosofi hidup Baduy adalah Pikukuh yang mengajarkan untuk hidup sederhana, menjaga alam, dan tidak serakah. Mereka menolak listrik, kendaraan bermotor, dan teknologi yang dianggap merusak keseimbangan alam. Keberadaan suku Baduy menjadi bukti bahwa ada cara hidup alternatif yang menghormati alam dan tradisi di tengah modernisasi."
+                ],
+                "en": [
+                    "The Baduy tribe is an indigenous community living in the Kendeng mountains, Lebak Regency, Banten. According to their beliefs, the Baduy ancestors were warriors of the Sunda Pajajaran Kingdom who retreated inland after the kingdom fell. They isolated themselves to preserve the purity of ancestral teachings and live harmoniously with nature.",
+                    "The Baduy tribe is divided into Inner Baduy and Outer Baduy. Inner Baduy are very strict in keeping traditions and rejecting modernization influences, wearing all-white clothing, not using modern technology, and living very simply. Outer Baduy are more open to the outside world, wearing black or dark blue clothing, and have used some simple technologies.",
+                    "The Baduy philosophy of life is Pikukuh which teaches to live simply, protect nature, and not be greedy. They reject electricity, motorized vehicles, and technology deemed to disrupt the balance of nature. The existence of the Baduy tribe is proof that there are alternative ways of life that respect nature and tradition in the midst of modernization."
+                ]
+            },
+            "tags": [
+                "Baduy",
+                "IndonesianTribes",
+                "Banten",
+                "TraditionalLife",
+                "IndigenousPeople"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Suku Baduy terbagi menjadi dua kelompok yaitu …",
+                        "en": "The Baduy tribe is divided into two groups namely …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Baduy Utara dan Selatan",
+                            "Baduy Dalam dan Luar",
+                            "Baduy Tua dan Muda",
+                            "Baduy Kaya dan Miskin"
+                        ],
+                        "en": [
+                            "North and South Baduy",
+                            "Inner and Outer Baduy",
+                            "Old and Young Baduy",
+                            "Rich and Poor Baduy"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Suku Baduy terbagi menjadi Baduy Dalam yang sangat ketat adat dan Baduy Luar yang lebih terbuka.",
+                        "en": "The Baduy tribe is divided into Inner Baduy who are very strict in traditions and Outer Baduy who are more open."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Warna pakaian Baduy Dalam adalah …",
+                        "en": "The color of Inner Baduy clothing is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Hitam",
+                            "Putih",
+                            "Biru",
+                            "Merah"
+                        ],
+                        "en": [
+                            "Black",
+                            "White",
+                            "Blue",
+                            "Red"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Baduy Dalam mengenakan pakaian serba putih sebagai simbol kesucian.",
+                        "en": "Inner Baduy wear all-white clothing as a symbol of purity."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Filosofi hidup suku Baduy yang mengajarkan hidup sederhana adalah …",
+                        "en": "The Baduy tribe's philosophy of life that teaches simple living is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Pancasila",
+                            "Pikukuh",
+                            "Tri Hita Karana",
+                            "Tat Twam Asi"
+                        ],
+                        "en": [
+                            "Pancasila",
+                            "Pikukuh",
+                            "Tri Hita Karana",
+                            "Tat Twam Asi"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pikukuh adalah filosofi hidup Baduy yang mengajarkan kesederhanaan dan menjaga alam.",
+                        "en": "Pikukuh is the Baduy philosophy of life that teaches simplicity and protecting nature."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "7H",
+            "cardName": "7 of Hearts",
+            "title": {
+                "id": "Pantai Tanjung Lesung",
+                "en": "Tanjung Lesung Beach"
+            },
+            "region": {
+                "id": "Banten",
+                "en": "Banten"
+            },
+            "paragraphs": {
+                "id": [
+                    "Pantai Tanjung Lesung adalah destinasi wisata bahari yang terletak di Kabupaten Pandeglang, Banten. Pantai ini memiliki pasir putih yang lembut, air laut yang jernih, dan pemandangan Gunung Krakatau di kejauhan. Kawasan ini dikembangkan sebagai Kawasan Ekonomi Khusus (KEK) Pariwisata untuk meningkatkan potensi wisata Banten.",
+                    "Tanjung Lesung menawarkan berbagai aktivitas wisata seperti snorkeling, diving, banana boat, jet ski, dan berlayar menyusuri pantai. Di sekitar pantai terdapat terumbu karang yang indah dengan keanekaragaman hayati laut yang menarik untuk dieksplorasi. Sunset di Tanjung Lesung juga menjadi momen yang sangat dinanti wisatawan dengan siluet Gunung Krakatau yang eksotis.",
+                    "Selain keindahan alam, Tanjung Lesung juga dekat dengan berbagai destinasi wisata lain seperti Taman Nasional Ujung Kulon yang merupakan habitat badak Jawa, serta pulau-pulau kecil yang menawan. Pantai ini menjadi alternatif wisata bahari yang nyaman dan mudah diakses dari Jakarta dan sekitarnya."
+                ],
+                "en": [
+                    "Tanjung Lesung Beach is a marine tourism destination located in Pandeglang Regency, Banten. This beach has soft white sand, clear seawater, and views of Mount Krakatau in the distance. This area is developed as a Special Economic Zone (SEZ) for Tourism to increase Banten's tourism potential.",
+                    "Tanjung Lesung offers various tourism activities such as snorkeling, diving, banana boats, jet skis, and sailing along the coast. Around the beach there are beautiful coral reefs with interesting marine biodiversity to explore. Sunset at Tanjung Lesung is also a highly anticipated moment for tourists with the exotic silhouette of Mount Krakatau.",
+                    "In addition to natural beauty, Tanjung Lesung is also close to various other tourist destinations such as Ujung Kulon National Park which is a habitat for Javan rhinos, as well as charming small islands. This beach is a comfortable and easily accessible marine tourism alternative from Jakarta and its surroundings."
+                ]
+            },
+            "tags": [
+                "TanjungLesung",
+                "BantenTourism",
+                "BeachDestination",
+                "MarineTourism",
+                "KrakatauView"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Gunung apa yang dapat terlihat dari Pantai Tanjung Lesung?",
+                        "en": "What mountain can be seen from Tanjung Lesung Beach?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gunung Merapi",
+                            "Gunung Krakatau",
+                            "Gunung Bromo",
+                            "Gunung Rinjani"
+                        ],
+                        "en": [
+                            "Mount Merapi",
+                            "Mount Krakatau",
+                            "Mount Bromo",
+                            "Mount Rinjani"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Dari Pantai Tanjung Lesung dapat terlihat siluet Gunung Krakatau di kejauhan.",
+                        "en": "From Tanjung Lesung Beach you can see the silhouette of Mount Krakatau in the distance."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tanjung Lesung dikembangkan sebagai …",
+                        "en": "Tanjung Lesung is developed as …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kawasan industri",
+                            "Kawasan Ekonomi Khusus Pariwisata",
+                            "Pelabuhan internasional",
+                            "Pusat perdagangan"
+                        ],
+                        "en": [
+                            "Industrial area",
+                            "Special Economic Zone for Tourism",
+                            "International port",
+                            "Trade center"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tanjung Lesung dikembangkan sebagai Kawasan Ekonomi Khusus (KEK) Pariwisata.",
+                        "en": "Tanjung Lesung is developed as a Special Economic Zone (SEZ) for Tourism."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Taman nasional apa yang dekat dengan Tanjung Lesung?",
+                        "en": "What national park is near Tanjung Lesung?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Taman Nasional Komodo",
+                            "Taman Nasional Ujung Kulon",
+                            "Taman Nasional Baluran",
+                            "Taman Nasional Way Kambas"
+                        ],
+                        "en": [
+                            "Komodo National Park",
+                            "Ujung Kulon National Park",
+                            "Baluran National Park",
+                            "Way Kambas National Park"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tanjung Lesung dekat dengan Taman Nasional Ujung Kulon yang merupakan habitat badak Jawa.",
+                        "en": "Tanjung Lesung is close to Ujung Kulon National Park which is a habitat for Javan rhinos."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "7D",
+            "cardName": "7 of Diamonds",
+            "title": {
+                "id": "Sate Bandeng",
+                "en": "Sate Bandeng"
+            },
+            "region": {
+                "id": "Banten",
+                "en": "Banten"
+            },
+            "paragraphs": {
+                "id": [
+                    "Sate Bandeng adalah makanan khas Banten yang unik karena terbuat dari daging ikan bandeng yang telah dipisahkan dari durinya secara manual. Proses pembuatannya memerlukan keahlian khusus untuk mengeluarkan daging ikan tanpa merusak kulitnya. Daging yang telah diambil kemudian dibumbui, dicampur dengan kelapa parut, dan dimasukkan kembali ke dalam kulit ikan.",
+                    "Setelah diisi kembali, ikan bandeng dipanggang atau dibakar hingga kulitnya garing dan berwarna keemasan. Bumbu yang digunakan terdiri dari bawang merah, bawang putih, kemiri, ketumbar, kunyit, dan cabai yang memberikan cita rasa gurih dan sedikit pedas. Aroma harum dari proses pembakaran membuat sate bandeng sangat menggugah selera.",
+                    "Sate Bandeng biasanya disajikan dengan nasi hangat, sambal, dan lalapan. Makanan ini menjadi ikon kuliner Banten yang sering dijadikan oleh-oleh khas bagi wisatawan. Proses pembuatan yang rumit dan hasil yang lezat menjadikan sate bandeng sebagai hidangan istimewa yang mencerminkan kearifan kuliner masyarakat Banten."
+                ],
+                "en": [
+                    "Sate Bandeng is a unique typical Banten food made from milkfish meat that has been manually separated from its bones. The manufacturing process requires special skills to remove the fish meat without damaging its skin. The meat that has been removed is then seasoned, mixed with grated coconut, and put back into the fish skin.",
+                    "After being refilled, the milkfish is grilled or roasted until the skin is crispy and golden in color. The spices used consist of shallots, garlic, candlenuts, coriander, turmeric, and chili which give a savory and slightly spicy taste. The fragrant aroma from the burning process makes sate bandeng very appetizing.",
+                    "Sate Bandeng is usually served with hot rice, sambal, and vegetables. This food has become a Banten culinary icon that is often made as a typical souvenir for tourists. The complicated manufacturing process and delicious results make sate bandeng a special dish that reflects the culinary wisdom of Banten people."
+                ]
+            },
+            "tags": [
+                "SateBandeng",
+                "BantenFood",
+                "Milkfish",
+                "IndonesianCuisine",
+                "TraditionalFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Bahan utama Sate Bandeng adalah …",
+                        "en": "The main ingredient of Sate Bandeng is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ikan lele",
+                            "Ikan bandeng",
+                            "Ikan kakap",
+                            "Ikan tuna"
+                        ],
+                        "en": [
+                            "Catfish",
+                            "Milkfish",
+                            "Snapper",
+                            "Tuna"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Sate Bandeng terbuat dari daging ikan bandeng yang dipisahkan dari durinya.",
+                        "en": "Sate Bandeng is made from milkfish meat separated from its bones."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Keunikan proses pembuatan Sate Bandeng adalah …",
+                        "en": "The uniqueness of the Sate Bandeng manufacturing process is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Digoreng dengan minyak banyak",
+                            "Daging dikeluarkan dari duri tanpa merusak kulit",
+                            "Dikukus dengan daun pisang",
+                            "Direbus hingga empuk"
+                        ],
+                        "en": [
+                            "Fried with a lot of oil",
+                            "Meat removed from bones without damaging the skin",
+                            "Steamed with banana leaves",
+                            "Boiled until tender"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Keunikan sate bandeng adalah daging dikeluarkan dari duri lalu dimasukkan kembali ke kulit ikan.",
+                        "en": "The uniqueness of sate bandeng is that the meat is removed from the bones and put back into the fish skin."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Sate Bandeng biasanya disajikan dengan …",
+                        "en": "Sate Bandeng is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Mie goreng",
+                            "Nasi hangat dan sambal",
+                            "Roti",
+                            "Pasta"
+                        ],
+                        "en": [
+                            "Fried noodles",
+                            "Hot rice and sambal",
+                            "Bread",
+                            "Pasta"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Sate Bandeng disajikan dengan nasi hangat, sambal, dan lalapan.",
+                        "en": "Sate Bandeng is served with hot rice, sambal, and vegetables."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "7C",
+            "cardName": "7 of Clubs",
+            "title": {
+                "id": "Debus",
+                "en": "Debus"
+            },
+            "region": {
+                "id": "Banten",
+                "en": "Banten"
+            },
+            "paragraphs": {
+                "id": [
+                    "Debus adalah kesenian tradisional Banten yang menampilkan atraksi kekebalan tubuh terhadap benda tajam dan api. Pertunjukan debus menampilkan pemain yang menusukkan senjata tajam seperti golok, keris, atau paku ke tubuhnya tanpa terluka. Ada juga atraksi mengiris lidah dengan silet, memakan bara api, dan memukul kepala dengan kelapa.",
+                    "Debus berasal dari tradisi spiritual Islam yang dibawa oleh penyebar agama Islam di Banten pada abad ke-16. Sebelum tampil, pemain debus melakukan ritual spiritual seperti puasa, dzikir, dan doa untuk mencapai kondisi kekebalan. Kekebalan ini diyakini sebagai anugerah spiritual yang diperoleh melalui latihan rohani yang ketat.",
+                    "Pertunjukan debus biasanya diiringi musik rebana dan salawat yang menciptakan suasana sakral. Debus tidak hanya sekadar atraksi, tetapi juga mengandung nilai spiritual tentang kekuatan iman, ketahanan mental, dan kedisiplinan. Hingga kini, debus masih menjadi kesenian yang dihormati dan ditampilkan dalam acara-acara budaya dan perayaan di Banten."
+                ],
+                "en": [
+                    "Debus is a traditional Banten art that displays body invulnerability to sharp objects and fire. Debus performances feature players who stab sharp weapons such as machetes, kris, or nails into their bodies without getting hurt. There are also attractions of slicing tongues with razor blades, eating embers, and hitting heads with coconuts.",
+                    "Debus originated from Islamic spiritual traditions brought by Islamic preachers in Banten in the 16th century. Before performing, debus players conduct spiritual rituals such as fasting, dhikr, and prayer to achieve a state of invulnerability. This invulnerability is believed to be a spiritual gift obtained through strict spiritual training.",
+                    "Debus performances are usually accompanied by tambourine music and salawat which create a sacred atmosphere. Debus is not just an attraction, but also contains spiritual values about the power of faith, mental endurance, and discipline. Until now, debus is still a respected art and is performed at cultural events and celebrations in Banten."
+                ]
+            },
+            "tags": [
+                "Debus",
+                "BantenCulture",
+                "TraditionalArts",
+                "SpiritualArts",
+                "IslamicHeritage"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Debus adalah kesenian yang menampilkan …",
+                        "en": "Debus is an art that displays …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tarian halus",
+                            "Kekebalan tubuh terhadap benda tajam",
+                            "Musik modern",
+                            "Lukisan"
+                        ],
+                        "en": [
+                            "Soft dance",
+                            "Body invulnerability to sharp objects",
+                            "Modern music",
+                            "Painting"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Debus menampilkan atraksi kekebalan tubuh terhadap benda tajam dan api.",
+                        "en": "Debus displays body invulnerability to sharp objects and fire."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang dilakukan pemain debus sebelum tampil?",
+                        "en": "What do debus players do before performing?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Makan banyak",
+                            "Ritual spiritual seperti puasa dan dzikir",
+                            "Olahraga berat",
+                            "Tidur seharian"
+                        ],
+                        "en": [
+                            "Eat a lot",
+                            "Spiritual rituals such as fasting and dhikr",
+                            "Heavy exercise",
+                            "Sleep all day"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pemain debus melakukan ritual spiritual seperti puasa, dzikir, dan doa sebelum tampil.",
+                        "en": "Debus players conduct spiritual rituals such as fasting, dhikr, and prayer before performing."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Debus berasal dari tradisi …",
+                        "en": "Debus originated from … traditions"
+                    },
+                    "choices": {
+                        "id": [
+                            "Hindu-Buddha",
+                            "Spiritual Islam",
+                            "Animisme",
+                            "Kristen"
+                        ],
+                        "en": [
+                            "Hindu-Buddhist",
+                            "Islamic spiritual",
+                            "Animism",
+                            "Christian"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Debus berasal dari tradisi spiritual Islam yang dibawa oleh penyebar agama Islam di Banten.",
+                        "en": "Debus originated from Islamic spiritual traditions brought by Islamic preachers in Banten."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -9,100 +9,120 @@
             "slug": "AS",
             "cardName": "Ace of Spades",
             "title": {
-                "id": "Tari Andun dari Bengkulu",
-                "en": "Andun Dance from Bengkulu"
+                "id": "Si Pitung, Jagoan Betawi",
+                "en": "Si Pitung, Hero of Betawi"
             },
             "region": {
-                "id": "Bengkulu",
-                "en": "Bengkulu"
+                "id": "Jakarta",
+                "en": "Jakarta"
             },
             "paragraphs": {
                 "id": [
-                    "Tari Andun adalah tarian tradisional dari Bengkulu yang dibawakan secara berkelompok. Tarian ini biasanya dipentaskan pada acara-acara adat dan perayaan penting di masyarakat Bengkulu.",
-                    "Gerakan tari Andun mencerminkan semangat kebersamaan dan kegotong-royongan masyarakat Bengkulu. Para penari bergerak dengan kompak mengikuti irama musik tradisional yang dimainkan dengan alat musik seperti gendang dan serunai.",
-                    "Kostum yang digunakan dalam Tari Andun sangat khas dengan warna-warna cerah yang melambangkan keceriaan. Tarian ini menjadi salah satu warisan budaya Bengkulu yang terus dilestarikan hingga saat ini."
+                    "Si Pitung adalah tokoh legenda Betawi yang sangat terkenal dalam sejarah dan budaya masyarakat Jakarta. Nama aslinya adalah Ahmad Nitikusumah, seorang pemuda dari Rawa Belong yang dikenal saleh, berilmu agama, dan mahir dalam bela diri silat. Dalam cerita rakyat, Si Pitung digambarkan sebagai sosok yang berani melawan ketidakadilan pada masa penjajahan Belanda.",
+                    "Ia dikenal karena aksinya merampok orang-orang kaya yang bersekutu dengan penjajah dan para centeng, lalu membagikan hasil rampokannya kepada rakyat kecil yang tertindas. Tindakannya membuat Si Pitung dipandang sebagai pahlawan rakyat, simbol perlawanan, dan harapan bagi masyarakat miskin Betawi yang hidup dalam tekanan kolonial.",
+                    "Namun kisah Si Pitung berakhir tragis. Ia akhirnya tertangkap dan dieksekusi oleh Belanda setelah rahasia kelemahan jimat kekebalannya terbongkar. Meski demikian, nama Si Pitung tetap hidup dalam ingatan masyarakat Betawi sebagai lambang keberanian, keadilan sosial, dan perjuangan rakyat kecil melawan penindasan."
                 ],
                 "en": [
-                    "Andun Dance is a traditional dance from Bengkulu performed in groups. This dance is usually performed at traditional ceremonies and important celebrations in the Bengkulu community.",
-                    "The movements of Andun Dance reflect the spirit of togetherness and mutual cooperation of the Bengkulu people. The dancers move in sync following the rhythm of traditional music played with instruments such as drums and serunai flutes.",
-                    "The costumes used in Andun Dance are very distinctive with bright colors that symbolize cheerfulness. This dance is one of Bengkulu's cultural heritages that continues to be preserved to this day."
+                    "Si Pitung is a legendary figure from Betawi who is very famous in the history and culture of Jakarta society. His real name was Ahmad Nitikusumah, a young man from Rawa Belong who was known to be pious, knowledgeable in religion, and skilled in silat martial arts. In folklore, Si Pitung is portrayed as a figure who dared to fight injustice during the Dutch colonial period.",
+                    "He was known for his actions of robbing wealthy people who allied with the colonizers and thugs, then distributing his loot to the oppressed common people. His actions made Si Pitung regarded as a people's hero, a symbol of resistance, and hope for the poor Betawi people living under colonial pressure.",
+                    "However, Si Pitung's story ended tragically. He was eventually captured and executed by the Dutch after the secret weakness of his invulnerability charm was revealed. Nevertheless, the name Si Pitung lives on in the memory of the Betawi people as a symbol of courage, social justice, and the struggle of the common people against oppression."
                 ]
             },
-            "image": "/tribes/jakarta/media/as.webp",
+            "images": [
+                "/tribes/jakarta/media/as-1.jpeg",
+                "/tribes/jakarta/media/as-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Ilustrasi Si Pitung, jagoan Betawi legendaris",
+                    "Si pitung"
+                ],
+                "en": [
+                    "Illustration of Si Pitung, legendary Betawi hero",
+                    "Si pitung"
+                ]
+            },
+            "tags": [
+                "SiPitung",
+                "JagoanBetawi",
+                "CeritaRakyat",
+                "BetawiLegend",
+                "JakartaHeritage"
+            ],
             "quiz": [
                 {
                     "q": {
-                        "id": "Dari mana asal Tari Andun?",
-                        "en": "Where does Andun Dance originate from?"
+                        "id": "Nama asli Si Pitung adalah …",
+                        "en": "Si Pitung's real name was …"
                     },
                     "choices": {
                         "id": [
-                            "Jakarta",
-                            "Bengkulu",
-                            "Bali",
-                            "Sumatera Utara"
+                            "Salihoen",
+                            "Ahmad Nitikusumah",
+                            "Nie Hoe Kong",
+                            "Raden Saleh"
                         ],
                         "en": [
-                            "Jakarta",
-                            "Bengkulu",
-                            "Bali",
-                            "North Sumatra"
+                            "Salihoen",
+                            "Ahmad Nitikusumah",
+                            "Nie Hoe Kong",
+                            "Raden Saleh"
                         ]
                     },
                     "answerIndex": 1,
                     "explain": {
-                        "id": "Tari Andun berasal dari Bengkulu dan merupakan warisan budaya daerah tersebut.",
-                        "en": "Andun Dance originates from Bengkulu and is a cultural heritage of the region."
+                        "id": "Nama asli Si Pitung adalah Ahmad Nitikusumah, seorang pemuda dari Rawa Belong.",
+                        "en": "Si Pitung's real name was Ahmad Nitikusumah, a young man from Rawa Belong."
                     }
                 },
                 {
                     "q": {
-                        "id": "Apa yang tercermin dalam gerakan Tari Andun?",
-                        "en": "What is reflected in the movements of Andun Dance?"
+                        "id": "Mengapa Si Pitung dianggap sebagai pahlawan rakyat Betawi?",
+                        "en": "Why is Si Pitung considered a hero of the Betawi people?"
                     },
                     "choices": {
                         "id": [
-                            "Semangat perang",
-                            "Kebersamaan dan gotong royong",
-                            "Kehidupan laut",
-                            "Perburuan"
+                            "Karena menjadi pemimpin kerajaan",
+                            "Karena melawan penjajah dengan senjata modern",
+                            "Karena membantu rakyat miskin dengan hasil rampasannya",
+                            "Karena menjadi pejabat kolonial"
                         ],
                         "en": [
-                            "Spirit of war",
-                            "Togetherness and cooperation",
-                            "Marine life",
-                            "Hunting"
+                            "Because he became a kingdom leader",
+                            "Because he fought colonizers with modern weapons",
+                            "Because he helped the poor with his loot",
+                            "Because he became a colonial official"
                         ]
                     },
-                    "answerIndex": 1,
+                    "answerIndex": 2,
                     "explain": {
-                        "id": "Gerakan Tari Andun mencerminkan semangat kebersamaan dan kegotong-royongan masyarakat.",
-                        "en": "Andun Dance movements reflect the spirit of togetherness and mutual cooperation."
+                        "id": "Si Pitung dianggap pahlawan karena membagikan hasil rampokannya kepada rakyat kecil yang tertindas.",
+                        "en": "Si Pitung is considered a hero because he distributed his loot to the oppressed common people."
                     }
                 },
                 {
                     "q": {
-                        "id": "Kapan Tari Andun biasanya dipentaskan?",
-                        "en": "When is Andun Dance usually performed?"
+                        "id": "Nilai utama yang terkandung dalam cerita Si Pitung adalah …",
+                        "en": "The main values contained in the story of Si Pitung are …"
                     },
                     "choices": {
                         "id": [
-                            "Setiap hari",
-                            "Acara adat dan perayaan penting",
-                            "Hanya saat pemakaman",
-                            "Saat musim panen"
+                            "Kekuasaan dan ambisi",
+                            "Keberanian dan keadilan sosial",
+                            "Kekayaan dan kemewahan",
+                            "Kepatuhan terhadap penjajah"
                         ],
                         "en": [
-                            "Every day",
-                            "Traditional ceremonies and important celebrations",
-                            "Only at funerals",
-                            "During harvest season"
+                            "Power and ambition",
+                            "Courage and social justice",
+                            "Wealth and luxury",
+                            "Obedience to colonizers"
                         ]
                     },
                     "answerIndex": 1,
                     "explain": {
-                        "id": "Tari Andun dipentaskan pada acara-acara adat dan perayaan penting di masyarakat Bengkulu.",
-                        "en": "Andun Dance is performed at traditional ceremonies and important celebrations in the Bengkulu community."
+                        "id": "Cerita Si Pitung mengandung nilai keberanian dan keadilan sosial dalam melawan penindasan.",
+                        "en": "The story of Si Pitung contains the values of courage and social justice in fighting oppression."
                     }
                 }
             ]
@@ -111,8 +131,8 @@
             "slug": "AH",
             "cardName": "Ace of Hearts",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Setu Babakan",
+                "en": "Setu Babakan"
             },
             "region": {
                 "id": "Jakarta",
@@ -120,25 +140,108 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Jakarta Betawi"
+                    "Setu Babakan merupakan kawasan Perkampungan Budaya Betawi yang terletak di Jakarta Selatan. Tempat ini dibangun sebagai pusat pelestarian budaya Betawi yang menampilkan kehidupan, tradisi, dan kesenian masyarakat Betawi secara langsung. Kawasan ini dikelilingi danau alami yang menjadi ciri khasnya.",
+                    "Di Setu Babakan, pengunjung dapat melihat rumah adat Betawi seperti Rumah Kebaya, menyaksikan pertunjukan seni tradisional, serta mencicipi berbagai kuliner khas Betawi. Selain itu, kawasan ini juga sering digunakan untuk festival budaya, pameran seni, dan kegiatan edukatif bagi pelajar.",
+                    "Keberadaan Setu Babakan memiliki nilai budaya yang sangat penting karena menjadi simbol upaya menjaga identitas Betawi di tengah pesatnya modernisasi Jakarta. Tempat ini tidak hanya berfungsi sebagai objek wisata, tetapi juga sebagai ruang belajar dan pelestarian budaya lokal."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Jakarta Betawi"
+                    "Setu Babakan is a Betawi Cultural Village area located in South Jakarta. This place was built as a center for the preservation of Betawi culture that displays the life, traditions, and arts of the Betawi people directly. This area is surrounded by a natural lake which is its characteristic feature.",
+                    "At Setu Babakan, visitors can see Betawi traditional houses such as Rumah Kebaya, watch traditional art performances, and taste various Betawi culinary specialties. In addition, this area is also often used for cultural festivals, art exhibitions, and educational activities for students.",
+                    "The existence of Setu Babakan has very important cultural value because it is a symbol of efforts to preserve Betawi identity in the midst of Jakarta's rapid modernization. This place not only functions as a tourist attraction, but also as a space for learning and preserving local culture."
                 ]
             },
             "image": "/tribes/jakarta/media/ah.webp",
-            "quiz": []
+            "tags": [
+                "SetuBabakan",
+                "BetawiCulture",
+                "JakartaTourism",
+                "CulturalVillage",
+                "BudayaBetawi"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Setu Babakan dikenal sebagai kawasan …",
+                        "en": "Setu Babakan is known as a … area"
+                    },
+                    "choices": {
+                        "id": [
+                            "Industri kreatif Jakarta",
+                            "Perkampungan Budaya Betawi",
+                            "Kawasan perkantoran",
+                            "Pusat perdagangan tradisional"
+                        ],
+                        "en": [
+                            "Jakarta creative industry",
+                            "Betawi Cultural Village",
+                            "Office area",
+                            "Traditional trade center"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Setu Babakan merupakan kawasan Perkampungan Budaya Betawi yang berfungsi sebagai pusat pelestarian budaya Betawi.",
+                        "en": "Setu Babakan is a Betawi Cultural Village area that functions as a center for Betawi culture preservation."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Salah satu hal yang dapat ditemui di Setu Babakan adalah …",
+                        "en": "One of the things that can be found at Setu Babakan is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gedung pencakar langit",
+                            "Rumah adat Betawi",
+                            "Candi peninggalan Hindu",
+                            "Benteng kolonial"
+                        ],
+                        "en": [
+                            "Skyscrapers",
+                            "Betawi traditional houses",
+                            "Hindu temple ruins",
+                            "Colonial fortress"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Di Setu Babakan, pengunjung dapat melihat rumah adat Betawi seperti Rumah Kebaya dan berbagai kesenian tradisional lainnya.",
+                        "en": "At Setu Babakan, visitors can see Betawi traditional houses such as Rumah Kebaya and various other traditional arts."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Tujuan utama dibangunnya Setu Babakan adalah …",
+                        "en": "The main purpose of building Setu Babakan is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Mengembangkan wisata modern",
+                            "Melestarikan budaya Betawi",
+                            "Memperluas kawasan industri",
+                            "Menambah pemukiman"
+                        ],
+                        "en": [
+                            "Developing modern tourism",
+                            "Preserving Betawi culture",
+                            "Expanding industrial areas",
+                            "Adding residential areas"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Setu Babakan dibangun sebagai pusat pelestarian budaya Betawi dan menjaga identitas Betawi di tengah modernisasi Jakarta.",
+                        "en": "Setu Babakan was built as a center for preserving Betawi culture and maintaining Betawi identity amid Jakarta's modernization."
+                    }
+                }
+            ]
         },
         {
             "slug": "AD",
             "cardName": "Ace of Diamonds",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Kerak Telor",
+                "en": "Kerak Telor"
             },
             "region": {
                 "id": "Jakarta",
@@ -146,25 +249,108 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Jakarta Betawi"
+                    "Kerak telor adalah makanan khas Betawi yang terkenal dengan cita rasanya yang gurih dan cara memasaknya yang unik. Makanan ini terbuat dari beras ketan, telur bebek atau ayam, ebi, serta kelapa parut sangrai yang dibumbui rempah-rempah khas.",
+                    "Proses memasak kerak telor dilakukan secara tradisional menggunakan wajan tanpa minyak. Saat setengah matang, wajan dibalik menghadap api sehingga bagian atasnya matang oleh panas bara. Cara memasak ini menjadi daya tarik tersendiri dalam berbagai acara budaya.",
+                    "Kerak telor biasanya disajikan pada festival budaya Betawi dan acara-acara khusus. Makanan ini mencerminkan kekayaan kuliner Betawi yang lahir dari perpaduan budaya lokal dan pengaruh luar, serta menjadi ikon kuliner Jakarta."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Jakarta Betawi"
+                    "Kerak telor is a typical Betawi food that is famous for its savory taste and unique cooking method. This dish is made from glutinous rice, duck or chicken eggs, dried shrimp, and roasted grated coconut seasoned with typical spices.",
+                    "The process of cooking kerak telor is done traditionally using a pan without oil. When half-cooked, the pan is turned over facing the fire so that the top part is cooked by the heat of the embers. This cooking method is a special attraction at various cultural events.",
+                    "Kerak telor is usually served at Betawi cultural festivals and special events. This food reflects the richness of Betawi cuisine which was born from a combination of local culture and outside influences, and has become an icon of Jakarta cuisine."
                 ]
             },
             "image": "/tribes/jakarta/media/ad.webp",
-            "quiz": []
+            "tags": [
+                "KerakTelor",
+                "BetawiFood",
+                "JakartaCuisine",
+                "KulinerBetawi",
+                "TraditionalFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Bahan utama dalam pembuatan kerak telor adalah …",
+                        "en": "The main ingredient in making kerak telor is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Tepung terigu",
+                            "Beras ketan",
+                            "Singkong",
+                            "Jagung"
+                        ],
+                        "en": [
+                            "Wheat flour",
+                            "Glutinous rice",
+                            "Cassava",
+                            "Corn"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kerak telor terbuat dari beras ketan yang dicampur dengan telur, ebi, dan kelapa parut sangrai.",
+                        "en": "Kerak telor is made from glutinous rice mixed with eggs, dried shrimp, and roasted grated coconut."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Keunikan cara memasak kerak telor adalah …",
+                        "en": "The uniqueness of cooking kerak telor is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Digoreng dengan minyak",
+                            "Dikukus",
+                            "Dibakar dengan wajan dibalik ke api",
+                            "Dipanggang oven"
+                        ],
+                        "en": [
+                            "Fried with oil",
+                            "Steamed",
+                            "Grilled with the pan flipped over the fire",
+                            "Baked in oven"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Keunikan kerak telor adalah saat setengah matang, wajan dibalik menghadap api sehingga bagian atasnya matang oleh panas bara.",
+                        "en": "The uniqueness of kerak telor is when half-cooked, the pan is flipped over the fire so that the top part is cooked by the heat of the embers."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Kerak telor biasanya disajikan pada …",
+                        "en": "Kerak telor is usually served at …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Acara olahraga",
+                            "Festival dan acara budaya",
+                            "Upacara kematian",
+                            "Kegiatan pertanian"
+                        ],
+                        "en": [
+                            "Sports events",
+                            "Festivals and cultural events",
+                            "Funeral ceremonies",
+                            "Agricultural activities"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kerak telor biasanya disajikan pada festival budaya Betawi dan acara-acara khusus sebagai ikon kuliner Jakarta.",
+                        "en": "Kerak telor is usually served at Betawi cultural festivals and special events as an icon of Jakarta cuisine."
+                    }
+                }
+            ]
         },
         {
             "slug": "AC",
             "cardName": "Ace of Clubs",
             "title": {
-                "id": "[Konten Belum Diisi]",
-                "en": "[Content Not Yet Filled]"
+                "id": "Gambang Kromong",
+                "en": "Gambang Kromong"
             },
             "region": {
                 "id": "Jakarta",
@@ -172,18 +358,101 @@
             },
             "paragraphs": {
                 "id": [
-                    "Konten belum diisi.",
-                    "Silakan edit content.json untuk mengisi.",
-                    "Tribe: Jakarta Betawi"
+                    "Gambang kromong adalah kesenian musik tradisional Betawi yang merupakan hasil akulturasi budaya Betawi dan Tionghoa. Nama gambang kromong diambil dari dua alat musik utama, yaitu gambang dan kromong, yang dimainkan bersama instrumen lainnya.",
+                    "Ansambel gambang kromong memadukan alat musik gamelan seperti gambang, kromong, dan kendang dengan alat musik gesek khas Tionghoa seperti tehyan, sukong, dan kongahyan. Perpaduan ini menghasilkan irama khas yang ceria dan mudah dikenali.",
+                    "Dalam budaya Betawi, gambang kromong berfungsi sebagai pengiring pertunjukan seni seperti lenong, tari cokek, serta upacara adat seperti pernikahan dan sunatan. Musik ini menjadi simbol keterbukaan dan keharmonisan budaya Betawi."
                 ],
                 "en": [
-                    "Content not yet filled.",
-                    "Please edit content.json to fill in.",
-                    "Tribe: Jakarta Betawi"
+                    "Gambang kromong is a traditional Betawi music that is the result of acculturation between Betawi and Chinese cultures. The name gambang kromong is taken from two main musical instruments, namely gambang and kromong, which are played together with other instruments.",
+                    "The gambang kromong ensemble combines gamelan instruments such as gambang, kromong, and kendang with typical Chinese string instruments such as tehyan, sukong, and kongahyan. This combination produces a distinctive cheerful rhythm that is easily recognizable.",
+                    "In Betawi culture, gambang kromong serves as an accompaniment to art performances such as lenong, cokek dance, as well as traditional ceremonies such as weddings and circumcisions. This music has become a symbol of openness and harmony in Betawi culture."
                 ]
             },
             "image": "/tribes/jakarta/media/ac.webp",
-            "quiz": []
+            "tags": [
+                "GambangKromong",
+                "BetawiMusic",
+                "TraditionalMusic",
+                "AkulturasiBudaya",
+                "MuzikTradisional"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Gambang kromong merupakan hasil perpaduan budaya Betawi dengan budaya …",
+                        "en": "Gambang kromong is the result of a blend of Betawi culture with … culture"
+                    },
+                    "choices": {
+                        "id": [
+                            "Arab",
+                            "India",
+                            "Tionghoa",
+                            "Eropa"
+                        ],
+                        "en": [
+                            "Arab",
+                            "Indian",
+                            "Chinese",
+                            "European"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Gambang kromong adalah hasil akulturasi budaya Betawi dan Tionghoa yang terlihat dari perpaduan alat musiknya.",
+                        "en": "Gambang kromong is the result of acculturation between Betawi and Chinese cultures as seen from the combination of its musical instruments."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Salah satu alat musik dalam gambang kromong adalah …",
+                        "en": "One of the musical instruments in gambang kromong is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Angklung",
+                            "Tehyan",
+                            "Tifa",
+                            "Kolintang"
+                        ],
+                        "en": [
+                            "Angklung",
+                            "Tehyan",
+                            "Tifa",
+                            "Kolintang"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tehyan adalah salah satu alat musik gesek khas Tionghoa yang digunakan dalam ansambel gambang kromong.",
+                        "en": "Tehyan is one of the typical Chinese string instruments used in the gambang kromong ensemble."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Gambang kromong biasanya dimainkan untuk mengiringi …",
+                        "en": "Gambang kromong is usually played to accompany …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Wayang kulit",
+                            "Lenong dan tari cokek",
+                            "Tari saman",
+                            "Upacara panen"
+                        ],
+                        "en": [
+                            "Wayang kulit",
+                            "Lenong and cokek dance",
+                            "Saman dance",
+                            "Harvest ceremony"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gambang kromong berfungsi sebagai pengiring pertunjukan seni seperti lenong, tari cokek, serta upacara adat Betawi.",
+                        "en": "Gambang kromong serves as an accompaniment to art performances such as lenong, cokek dance, and Betawi traditional ceremonies."
+                    }
+                }
+            ]
         }
     ]
 }

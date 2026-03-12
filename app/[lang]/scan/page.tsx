@@ -219,13 +219,11 @@ export default function ScanPage({ params }: Props) {
                             {t.startButton}
                         </button>
                         <div className="mt-6 pt-6 border-t border-gray-200">
-                            <p className="text-sm text-gray-500 mb-3">Untuk testing:</p>
+                            <p className="text-sm text-gray-500 mb-3"></p>
                             <button
                                 onClick={handleManualInput}
                                 className="text-primary font-semibold hover:underline"
-                            >
-                                Input Manual Card Slug →
-                            </button>
+                            ></button>
                         </div>
                     </div>
                 ) : (

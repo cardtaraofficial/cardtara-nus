@@ -1,0 +1,441 @@
+{
+    "tribe": "bugis",
+    "tribeName": {
+        "id": "Bugis",
+        "en": "Buginese"
+    },
+    "cards": [
+        {
+            "slug": "9S",
+            "cardName": "9 of Spades",
+            "title": {
+                "id": "Legenda La Galigo",
+                "en": "Legend of La Galigo"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "La Galigo atau Sureq Galigo adalah epik sastra terpanjang di dunia yang berasal dari Bugis, Sulawesi Selatan. Epik ini menceritakan kisah kehidupan para dewa dan manusia sejak penciptaan alam semesta hingga peradaban manusia berkembang. La Galigo memiliki sekitar 300.000 baris dan menjadi warisan budaya lisan yang luar biasa berharga.",
+                    "Tokoh utama dalam epik ini adalah Sawerigading, seorang pangeran legendaris yang melakukan petualangan epik mengarungi lautan mencari jodoh, berjuang melawan musuh, dan menjaga kehormatan kerajaannya. Kisah ini sarat dengan nilai-nilai luhur seperti keberanian, kebijaksanaan, kejujuran, dan pentingnya menjaga martabat. La Galigo juga mencerminkan kosmologi dan pandangan dunia masyarakat Bugis.",
+                    "Epik La Galigo tidak hanya diceritakan secara lisan, tetapi juga ditulis dalam aksara Lontara Bugis pada daun lontar. UNESCO telah mengakui La Galigo sebagai salah satu karya sastralisan dan tak benda untuk Pusaka Kemanusiaan. Hingga kini, La Galigo masih dipelajari, dibacakan dalam upacara adat, dan menjadi inspirasi dalam seni pertunjukan modern."
+                ],
+                "en": [
+                    "La Galigo or Sureq Galigo is the longest literary epic in the world originating from Bugis, South Sulawesi. This epic tells the story of the lives of gods and humans from the creation of the universe to the development of human civilization. La Galigo has about 300,000 lines and is an extraordinarily valuable oral cultural heritage.",
+                    "The main character in this epic is Sawerigading, a legendary prince who embarks on epic adventures sailing the seas in search of a mate, fighting against enemies, and maintaining the honor of his kingdom. This story is laden with noble values such as courage, wisdom, honesty, and the importance of maintaining dignity. La Galigo also reflects the cosmology and worldview of the Bugis people.",
+                    "The La Galigo epic is not only told orally, but also written in Bugis Lontara script on lontar leaves. UNESCO has recognized La Galigo as one of the oral and intangible literary works for the Heritage of Humanity. Until now, La Galigo is still studied, read at traditional ceremonies, and has become an inspiration in modern performing arts."
+                ]
+            },
+            "tags": [
+                "LaGaligo",
+                "BugisCulture",
+                "SulawesiSelatan",
+                "EpicLiterature",
+                "UNESCO"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "La Galigo adalah epik sastra yang berasal dari suku …",
+                        "en": "La Galigo is a literary epic originating from the … tribe"
+                    },
+                    "choices": {
+                        "id": [
+                            "Dayak",
+                            "Bugis",
+                            "Toraja",
+                            "Minang"
+                        ],
+                        "en": [
+                            "Dayak",
+                            "Bugis",
+                            "Toraja",
+                            "Minang"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "La Galigo adalah epik sastra terpanjang di dunia yang berasal dari Bugis, Sulawesi Selatan.",
+                        "en": "La Galigo is the longest literary epic in the world originating from Bugis, South Sulawesi."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Siapa tokoh utama dalam epik La Galigo?",
+                        "en": "Who is the main character in the La Galigo epic?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Gatot Kaca",
+                            "Sawerigading",
+                            "Sangkuriang",
+                            "Malinkundang"
+                        ],
+                        "en": [
+                            "Gatot Kaca",
+                            "Sawerigading",
+                            "Sangkuriang",
+                            "Malin Kundang"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Sawerigading adalah tokoh utama dalam epik La Galigo, seorang pangeran legendaris.",
+                        "en": "Sawerigading is the main character in the La Galigo epic, a legendary prince."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Berapa jumlah baris dalam epik La Galigo?",
+                        "en": "How many lines are in the La Galigo epic?"
+                    },
+                    "choices": {
+                        "id": [
+                            "10.000 baris",
+                            "50.000 baris",
+                            "300.000 baris",
+                            "1 juta baris"
+                        ],
+                        "en": [
+                            "10,000 lines",
+                            "50,000 lines",
+                            "300,000 lines",
+                            "1 million lines"
+                        ]
+                    },
+                    "answerIndex": 2,
+                    "explain": {
+                        "id": "Epik La Galigo memiliki sekitar 300.000 baris, menjadikannya epik terpanjang di dunia.",
+                        "en": "The La Galigo epic has about 300,000 lines, making it the longest epic in the world."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "9H",
+            "cardName": "9 of Hearts",
+            "title": {
+                "id": "Pantai Losari",
+                "en": "Losari Beach"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Pantai Losari adalah ikon wisata Kota Makassar yang terkenal dengan pemandangan sunset terindah di Indonesia bagian timur. Pantai ini terletak di jantung kota Makassar dan menjadi tempat favorit warga lokal maupun wisatawan untuk bersantai, berolahraga, dan menikmati kuliner khas Makassar. Sepanjang pantai terdapat trotoar lebar yang cocok untuk jogging dan bersepeda.",
+                    "Keunikan Pantai Losari adalah meja dan kursi permanen yang disediakan di sepanjang pantai untuk pengunjung menikmati pemandangan laut sambil menyantap makanan. Saat malam hari, pantai ini menjadi sangat ramai dengan pedagang kuliner yang menjual berbagai makanan khas seperti pisang epe, coto Makassar, sop konro, dan es palopo. Aroma khas makanan memenuhi udara dan menciptakan suasana yang meriah.",
+                    "Pantai Losari juga memiliki nilai sejarah karena menjadi saksi bisu perkembangan Kota Makassar dari masa ke masa. Di sekitar pantai terdapat beberapa landmark penting seperti Fort Rotterdam dan Monumen Mandala. Pantai Losari bukan hanya destinasi wisata, tetapi juga menjadi ruang publik yang merekatkan kebersamaan masyarakat Makassar."
+                ],
+                "en": [
+                    "Losari Beach is a tourism icon of Makassar City famous for its most beautiful sunset views in eastern Indonesia. This beach is located in the heart of Makassar city and is a favorite place for locals and tourists to relax, exercise, and enjoy Makassar's typical cuisine. Along the beach there is a wide sidewalk suitable for jogging and cycling.",
+                    "The uniqueness of Losari Beach is the permanent tables and chairs provided along the beach for visitors to enjoy the sea views while eating. At night, this beach becomes very crowded with culinary sellers selling various typical foods such as pisang epe, coto Makassar, sop konro, and es palopo. The distinctive aroma of food fills the air and creates a lively atmosphere.",
+                    "Losari Beach also has historical value because it has witnessed the development of Makassar City from time to time. Around the beach there are several important landmarks such as Fort Rotterdam and Mandala Monument. Losari Beach is not only a tourist destination, but also a public space that strengthens the togetherness of Makassar people."
+                ]
+            },
+            "tags": [
+                "PantaiLosari",
+                "LosariBeach",
+                "Makassar",
+                "SulawesiSelatan",
+                "SunsetView"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Pantai Losari terkenal dengan …",
+                        "en": "Losari Beach is famous for …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ombak besar",
+                            "Pemandangan sunset terindah",
+                            "Pasir hitam",
+                            "Air terjun"
+                        ],
+                        "en": [
+                            "Big waves",
+                            "Most beautiful sunset views",
+                            "Black sand",
+                            "Waterfall"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Pantai Losari terkenal dengan pemandangan sunset terindah di Indonesia bagian timur.",
+                        "en": "Losari Beach is famous for its most beautiful sunset views in eastern Indonesia."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa keunikan yang disediakan Pantai Losari?",
+                        "en": "What is the uniqueness provided by Losari Beach?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kolam renang",
+                            "Meja dan kursi permanen di sepanjang pantai",
+                            "Taman bermain",
+                            "Aquarium"
+                        ],
+                        "en": [
+                            "Swimming pool",
+                            "Permanent tables and chairs along the beach",
+                            "Playground",
+                            "Aquarium"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Keunikan Pantai Losari adalah meja dan kursi permanen untuk pengunjung menikmati pemandangan.",
+                        "en": "The uniqueness of Losari Beach is permanent tables and chairs for visitors to enjoy the views."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Makanan khas apa yang dapat ditemui di Pantai Losari?",
+                        "en": "What typical food can be found at Losari Beach?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Rendang",
+                            "Coto Makassar dan pisang epe",
+                            "Soto Betawi",
+                            "Pempek"
+                        ],
+                        "en": [
+                            "Rendang",
+                            "Coto Makassar and pisang epe",
+                            "Soto Betawi",
+                            "Pempek"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Di Pantai Losari dapat ditemui makanan khas seperti coto Makassar, pisang epe, dan sop konro.",
+                        "en": "At Losari Beach you can find typical foods such as coto Makassar, pisang epe, and sop konro."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "9D",
+            "cardName": "9 of Diamonds",
+            "title": {
+                "id": "Coto Makassar",
+                "en": "Coto Makassar"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Coto Makassar adalah hidangan sup khas Makassar yang terbuat dari jeroan dan daging sapi dengan kuah kental berwarna cokelat. Kuahnya yang gurih dan kaya rempah dibuat dari kacang tanah sangrai yang dihaluskan, sehingga menghasilkan tekstur yang creamy dan rasa yang unik. Coto Makassar biasanya disajikan dengan ketupat atau burasa (ketupat Bugis), sambal, dan jeruk nipis.",
+                    "Bumbu coto Makassar sangat kompleks terdiri dari bawang merah, bawang putih, kemiri, ketumbar, jintan, pala, kayu manis, dan cengkeh yang dimasak hingga meresap. Proses memasak coto memerlukan waktu lama agar daging dan jeroan menjadi empuk dan bumbu meresap sempurna. Aroma khas rempah-rempah yang kuat menjadi daya tarik coto Makassar.",
+                    "Coto Makassar telah menjadi kuliner legendaris yang tidak hanya terkenal di Sulawesi Selatan, tetapi juga di seluruh Indonesia. Warung coto dapat ditemukan di berbagai kota besar dan sering ramai dikunjungi dari pagi hingga malam. Coto Makassar mencerminkan kekayaan rempah Nusantara dan keahlian kuliner masyarakat Bugis-Makassar."
+                ],
+                "en": [
+                    "Coto Makassar is a typical Makassar soup dish made from beef offal and meat with a thick brown broth. Its savory and spice-rich broth is made from roasted peanuts that are ground, resulting in a creamy texture and unique taste. Coto Makassar is usually served with ketupat or burasa (Bugis ketupat), sambal, and lime.",
+                    "Coto Makassar spices are very complex consisting of shallots, garlic, candlenuts, coriander, cumin, nutmeg, cinnamon, and cloves cooked until absorbed. The process of cooking coto takes a long time so that the meat and offal become tender and the spices are perfectly absorbed. The distinctive aroma of strong spices is the attraction of coto Makassar.",
+                    "Coto Makassar has become a legendary culinary that is not only famous in South Sulawesi, but also throughout Indonesia. Coto stalls can be found in various major cities and are often crowded from morning to night. Coto Makassar reflects the richness of Indonesian spices and the culinary expertise of the Bugis-Makassar people."
+                ]
+            },
+            "tags": [
+                "CotoMakassar",
+                "MakassarFood",
+                "SulawesiSelatan",
+                "IndonesianCuisine",
+                "BugisFood"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Coto Makassar terbuat dari …",
+                        "en": "Coto Makassar is made from …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Ayam",
+                            "Jeroan dan daging sapi",
+                            "Ikan",
+                            "Sayuran"
+                        ],
+                        "en": [
+                            "Chicken",
+                            "Beef offal and meat",
+                            "Fish",
+                            "Vegetables"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Coto Makassar terbuat dari jeroan danmaking sapi dengan kuah kental.",
+                        "en": "Coto Makassar is made from beef offal and meat with thick broth."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Apa yang membuat kuah coto berteture creamy?",
+                        "en": "What makes coto broth creamy in texture?"
+                    },
+                    "choices": {
+                        "id": [
+                            "Santan",
+                            "Kacang tanah sangrai yang dihaluskan",
+                            "Susu",
+                            "Keju"
+                        ],
+                        "en": [
+                            "Coconut milk",
+                            "Ground roasted peanuts",
+                            "Milk",
+                            "Cheese"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Kuah coto dibuat dari kacang tanah sangrai yang dihaluskan sehingga teksturnya creamy.",
+                        "en": "Coto broth is made from ground roasted peanuts so the texture is creamy."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Coto Makassar biasanya disajikan dengan …",
+                        "en": "Coto Makassar is usually served with …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Nasi goreng",
+                            "Ketupat atau burasa",
+                            "Mie",
+                            "Roti"
+                        ],
+                        "en": [
+                            "Fried rice",
+                            "Ketupat or burasa",
+                            "Noodles",
+                            "Bread"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Coto Makassar disajikan dengan ketupat atau burasa (ketupat Bugis), sambal, dan jeruk nipis.",
+                        "en": "Coto Makassar is served with ketupat or burasa (Bugis ketupat), sambal, and lime."
+                    }
+                }
+            ]
+        },
+        {
+            "slug": "9C",
+            "cardName": "9 of Clubs",
+            "title": {
+                "id": "Tari Pakarena",
+                "en": "Pakarena Dance"
+            },
+            "region": {
+                "id": "Sulawesi Selatan",
+                "en": "South Sulawesi"
+            },
+            "paragraphs": {
+                "id": [
+                    "Tari Pakarena adalah tarian tradisional Bugis-Makassar yang menggambarkan keanggunan dan kelembutan perempuan Sulawesi Selatan. Konon tarian ini berasal dari legenda bidadari kayangan yang turun ke bumi untuk menghibur manusia. Gerakan tari Pakarena sangat lembut, anggun, dan penuh makna dengan dominasi gerakan tangan dan kaki yang teratur.",
+                    "Penari Pakarena mengenakan baju bodo, pakaian adat Bugis-Makassar berwarna cerah dengan hiasan emas. Kipas yang dipegang penari menjadi properti penting yang menambah keindahan gerakan. Tarian ini diiringi musik tradisional menggunakan alat musik seperti gendang, biola, dan kecapi yang dimainkan dengan irama khas Sulawesi Selatan.",
+                    "Tari Pakarena mengandung filosofi tentang kesopanan, kehormatan perempuan, dan keluhuran budi. Gerakan yang tidak terlalu tinggi dan tidak terlalu rendah melambangkan sikap rendah hati namun tetap bermartabat. Hingga kini, tari Pakarena masih ditampilkan dalam acara penyambutan tamu penting, pernikahan adat, dan berbagai pertunjukan budaya."
+                ],
+                "en": [
+                    "Pakarena Dance is a traditional Bugis-Makassar dance that depicts the grace and gentleness of South Sulawesi women. Reportedly this dance originated from the legend of heavenly angels who descended to earth to entertain humans. The movements of Pakarena dance are very gentle, graceful, and full of meaning with a dominance of regular hand and foot movements.",
+                    "Pakarena dancers wear baju bodo, brightly colored Bugis-Makassar traditional clothing with gold decorations. The fans held by dancers are an important property that adds to the beauty of the movement. This dance is accompanied by traditional music using musical instruments such as drums, violins, and harps played with typical South Sulawesi rhythms.",
+                    "Pakarena Dance contains a philosophy about courtesy, women's honor, and noble character. Movements that are not too high and not too low symbolize a humble yet dignified attitude. Until now, Pakarena dance is still performed at welcoming important guests, traditional weddings, and various cultural performances."
+                ]
+            },
+            "tags": [
+                "TariPakarena",
+                "PakarenaDance",
+                "BugisCulture",
+                "SulawesiSelatan",
+                "TraditionalDance"
+            ],
+            "quiz": [
+                {
+                    "q": {
+                        "id": "Tari Pakarena menggambarkan …",
+                        "en": "Pakarena Dance depicts …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Peperangan",
+                            "Keanggunan dan kelembutan perempuan",
+                            "Pertanian",
+                            "Perburuan"
+                        ],
+                        "en": [
+                            "War",
+                            "Grace and gentleness of women",
+                            "Agriculture",
+                            "Hunting"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Tari Pakarena menggambarkan keanggunan dan kelembutan perempuan Sulawesi Selatan.",
+                        "en": "Pakarena Dance depicts the grace and gentleness of South Sulawesi women."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Pakaian adat yang dikenakan penari Pakarena adalah …",
+                        "en": "The traditional clothing worn by Pakarena dancers is …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kebaya",
+                            "Baju bodo",
+                            "Kain batik",
+                            "Ulos"
+                        ],
+                        "en": [
+                            "Kebaya",
+                            "Baju bodo",
+                            "Batik cloth",
+                            "Ulos"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Penari Pakarena mengenakan baju bodo, pakaian adat Bugis-Makassar berwarna cerah.",
+                        "en": "Pakarena dancers wear baju bodo, brightly colored Bugis-Makassar traditional clothing."
+                    }
+                },
+                {
+                    "q": {
+                        "id": "Filosofi gerakan Tari Pakarena yang tidak terlalu tinggi dan tidak terlalu rendah melambangkan …",
+                        "en": "The philosophy of Pakarena Dance movements that are not too high and not too low symbolizes …"
+                    },
+                    "choices": {
+                        "id": [
+                            "Kesombongan",
+                            "Rendah hati namun bermartabat",
+                            "Kesedihan",
+                            "Kemarahan"
+                        ],
+                        "en": [
+                            "Arrogance",
+                            "Humble yet dignified",
+                            "Sadness",
+                            "Anger"
+                        ]
+                    },
+                    "answerIndex": 1,
+                    "explain": {
+                        "id": "Gerakan yang tidak terlalu tinggi dan tidak terlalu rendah melambangkan sikap rendah hati namun tetap bermartabat.",
+                        "en": "Movements that are not too high and not too low symbolize a humble yet dignified attitude."
+                    }
+                }
+            ]
+        }
+    ]
+}

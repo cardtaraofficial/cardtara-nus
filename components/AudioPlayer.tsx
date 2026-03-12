@@ -22,28 +22,48 @@ export default function AudioPlayer({ audioPath, title, subtitle }: AudioPlayerP
 
         const updateTime = () => setCurrentTime(audio.currentTime);
         const updateDuration = () => setDuration(audio.duration);
+        const handleEnded = () => setIsPlaying(false);
+        const handleError = (e: Event) => {
+            console.error("Audio error:", (e.target as HTMLAudioElement).error);
+            setIsPlaying(false);
+        };
 
         audio.addEventListener("timeupdate", updateTime);
         audio.addEventListener("loadedmetadata", updateDuration);
-        audio.addEventListener("ended", () => setIsPlaying(false));
+        audio.addEventListener("canplaythrough", updateDuration);
+        audio.addEventListener("ended", handleEnded);
+        audio.addEventListener("error", handleError);
+
+        // Try to load duration immediately if already loaded
+        if (audio.readyState >= 1) {
+            updateDuration();
+        }
 
         return () => {
             audio.removeEventListener("timeupdate", updateTime);
             audio.removeEventListener("loadedmetadata", updateDuration);
-            audio.removeEventListener("ended", () => setIsPlaying(false));
+            audio.removeEventListener("canplaythrough", updateDuration);
+            audio.removeEventListener("ended", handleEnded);
+            audio.removeEventListener("error", handleError);
         };
     }, [audioPath]);
 
-    const togglePlay = () => {
+    const togglePlay = async () => {
         const audio = audioRef.current;
         if (!audio) return;
 
         if (isPlaying) {
             audio.pause();
+            setIsPlaying(false);
         } else {
-            audio.play();
+            try {
+                await audio.play();
+                setIsPlaying(true);
+            } catch (error) {
+                console.error("Failed to play audio:", error);
+                setIsPlaying(false);
+            }
         }
-        setIsPlaying(!isPlaying);
     };
 
     const handleSkip = (seconds: number) => {

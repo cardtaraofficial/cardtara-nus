@@ -3,7 +3,7 @@ import { generateAllSlugs } from "../content/utils";
 import * as fs from "fs";
 import * as path from "path";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+const BASE_URL = "https://cardtara-nus.vercel.app";
 
 async function generateQRCodes() {
     console.log("🎯 Generating QR codes for CARDTARA...\n");

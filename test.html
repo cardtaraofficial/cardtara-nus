@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardtara - Test Barcode</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+
+        h1 {
+            color: #D4AF37;
+        }
+
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            background: #D4AF37;
+            color: #0F0F0F;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background: #B8860B;
+        }
+
+        .barcode-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .info {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>🧪 Cardtara - Test Page</h1>
+
+    <div class="test-section">
+        <h2>Quick Test</h2>
+        <p>Klik tombol di bawah untuk menguji barcode scanner dengan data simulasi:</p>
+        <div class="info">
+            <strong>ℹ️ Info:</strong> Karena kita tidak memiliki kartu fisik dengan barcode,
+            gunakan tombol di bawah untuk mensimulasikan scan barcode.
+        </div>
+
+        <h3>Test Beberapa Suku:</h3>
+        <button onclick="testCard(1)">CARD_01 - Batak Toba</button>
+        <button onclick="testCard(14)">CARD_14 - Jawa</button>
+        <button onclick="testCard(27)">CARD_27 - Bugis</button>
+        <button onclick="testCard(40)">CARD_40 - Dani</button>
+
+        <h3>Test Semua Kartu (1-52):</h3>
+        <div class="barcode-list" id="barcode-list"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Cara Menggunakan Aplikasi</h2>
+        <ol>
+            <li><strong>Buka aplikasi utama:</strong> <a href="index.html">index.html</a></li>
+            <li><strong>Tab "Scan Barcode":</strong> Untuk scan barcode dari kartu fisik (memerlukan kamera)</li>
+            <li><strong>Tab "Pilih Kartu":</strong> Untuk melihat semua 52 suku dan memilih secara manual</li>
+            <li><strong>Testing:</strong> Gunakan halaman ini untuk test atau gunakan console:
+                <code>testBarcode(1)</code></li>
+        </ol>
+    </div>
+
+    <div class="test-section">
+        <h2>Barcode Format</h2>
+        <p>Setiap kartu memiliki barcode dengan format: <code>CARD_XX</code></p>
+        <ul>
+            <li>CARD_01 sampai CARD_13: Suku-suku Sumatera (Hearts ♥)</li>
+            <li>CARD_14 sampai CARD_26: Suku-suku Jawa, Bali, Kalimantan (Diamonds ♦)</li>
+            <li>CARD_27 sampai CARD_39: Suku-suku Sulawesi, Maluku (Clubs ♣)</li>
+            <li>CARD_40 sampai CARD_52: Suku-suku Papua & Nusa Tenggara (Spades ♠)</li>
+        </ul>
+    </div>
+
+    <script>
+        // Generate all test buttons
+        const barcodeList = document.getElementById('barcode-list');
+        for (let i = 1; i <= 52; i++) {
+            const btn = document.createElement('button');
+            btn.textContent = `CARD_${String(i).padStart(2, '0')}`;
+            btn.onclick = () => testCard(i);
+            barcodeList.appendChild(btn);
+        }
+
+        function testCard(cardNumber) {
+            // Open main app with test barcode
+            const barcode = `CARD_${String(cardNumber).padStart(2, '0')}`;
+            window.location.href = `index.html?test=${barcode}`;
+        }
+    </script>
+</body>
+
+</html>

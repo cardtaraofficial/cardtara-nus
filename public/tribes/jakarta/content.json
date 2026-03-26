@@ -150,7 +150,20 @@
                     "The existence of Setu Babakan has very important cultural value because it is a symbol of efforts to preserve Betawi identity in the midst of Jakarta's rapid modernization. This place not only functions as a tourist attraction, but also as a space for learning and preserving local culture."
                 ]
             },
-            "image": "/tribes/jakarta/media/ah.webp",
+            "images": [
+                "/tribes/jakarta/media/ah-1.jpg",
+                "/tribes/jakarta/media/ah-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Perkampungan Budaya Betawi Setu Babakan",
+                    "Danau Setu Babakan yang asri dan hijau"
+                ],
+                "en": [
+                    "Setu Babakan Betawi Cultural Village",
+                    "The serene green lake of Setu Babakan"
+                ]
+            },
             "tags": [
                 "SetuBabakan",
                 "BetawiCulture",
@@ -259,7 +272,20 @@
                     "Kerak telor is usually served at Betawi cultural festivals and special events. This food reflects the richness of Betawi cuisine which was born from a combination of local culture and outside influences, and has become an icon of Jakarta cuisine."
                 ]
             },
-            "image": "/tribes/jakarta/media/ad.webp",
+            "images": [
+                "/tribes/jakarta/media/ad-1.jpg",
+                "/tribes/jakarta/media/ad-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Kerak Telor, jajanan khas Betawi",
+                    "Proses pembuatan Kerak Telor tradisional"
+                ],
+                "en": [
+                    "Kerak Telor, iconic Betawi snack",
+                    "Traditional Kerak Telor cooking process"
+                ]
+            },
             "tags": [
                 "KerakTelor",
                 "BetawiFood",
@@ -368,7 +394,20 @@
                     "In Betawi culture, gambang kromong serves as an accompaniment to art performances such as lenong, cokek dance, as well as traditional ceremonies such as weddings and circumcisions. This music has become a symbol of openness and harmony in Betawi culture."
                 ]
             },
-            "image": "/tribes/jakarta/media/ac.webp",
+            "images": [
+                "/tribes/jakarta/media/ac-1.jpeg",
+                "/tribes/jakarta/media/ac-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan musik Gambang Kromong Betawi",
+                    "Alat musik Gambang Kromong tradisional"
+                ],
+                "en": [
+                    "Gambang Kromong Betawi music performance",
+                    "Traditional Gambang Kromong musical instruments"
+                ]
+            },
             "tags": [
                 "GambangKromong",
                 "BetawiMusic",

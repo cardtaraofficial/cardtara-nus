@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardtara - Barcode Generator</title>
+
+    <!-- JsBarcode Library -->
+    <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #D4AF37;
+            margin: 0 0 10px 0;
+        }
+
+        .instructions {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+        }
+
+        .instructions h3 {
+            margin-top: 0;
+            color: #856404;
+        }
+
+        .controls {
+            text-align: center;
+            margin: 20px 0;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            background: #D4AF37;
+            color: #0F0F0F;
+            border: none;
+            padding: 12px 30px;
+            margin: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background: #B8860B;
+        }
+
+        .barcode-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .barcode-card {
+            background: white;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            page-break-inside: avoid;
+        }
+
+        .barcode-card.hearts {
+            border-color: #E74C3C;
+        }
+
+        .barcode-card.diamonds {
+            border-color: #D4AF37;
+        }
+
+        .barcode-card.clubs {
+            border-color: #2ECC71;
+        }
+
+        .barcode-card.spades {
+            border-color: #3498DB;
+        }
+
+        .card-info {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+
+        .tribe-name {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 10px;
+            min-height: 40px;
+        }
+
+        .barcode-container {
+            margin: 10px 0;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        svg {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .barcode-text {
+            font-family: monospace;
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .suit-section {
+            margin-top: 40px;
+        }
+
+        .suit-header {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .suit-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .suit-hearts {
+            color: #E74C3C;
+        }
+
+        .suit-diamonds {
+            color: #D4AF37;
+        }
+
+        .suit-clubs {
+            color: #2ECC71;
+        }
+
+        .suit-spades {
+            color: #3498DB;
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background: white;
+            }
+
+            .header,
+            .controls,
+            .instructions {
+                display: none;
+            }
+
+            .barcode-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+            }
+
+            .barcode-card {
+                border: 2px solid #000;
+                margin-bottom: 10px;
+            }
+
+            .suit-header {
+                page-break-before: always;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>🎴 CARDTARA - Barcode Generator</h1>
+        <p>Generator Barcode untuk 52 Kartu Remi</p>
+    </div>
+
+    <div class="instructions">
+        <h3>📋 Cara Menggunakan:</h3>
+        <ol>
+            <li><strong>Generate Barcode:</strong> Klik tombol "Generate Semua Barcode" di bawah</li>
+            <li><strong>Print:</strong> Klik tombol "Print Barcode" atau tekan Ctrl+P</li>
+            <li><strong>Potong:</strong> Gunting setiap barcode sesuai kotak</li>
+            <li><strong>Tempel:</strong> Tempelkan barcode ke kartu remi yang sesuai:
+                <ul>
+                    <li>♥ Hearts (Merah) = CARD_01 sampai CARD_13</li>
+                    <li>♦ Diamonds (Merah) = CARD_14 sampai CARD_26</li>
+                    <li>♣ Clubs (Hitam) = CARD_27 sampai CARD_39</li>
+                    <li>♠ Spades (Hitam) = CARD_40 sampai CARD_52</li>
+                </ul>
+            </li>
+        </ol>
+        <p><strong>💡 Tips:</strong> Gunakan kertas stiker atau double tape untuk menempel barcode ke kartu.</p>
+    </div>
+
+    <div class="controls">
+        <button onclick="generateAllBarcodes()">🔄 Generate Semua Barcode</button>
+        <button onclick="window.print()">🖨️ Print Barcode</button>
+        <button onclick="downloadBarcodes()">💾 Download sebagai Gambar</button>
+    </div>
+
+    <div id="barcode-container"></div>
+
+    <script src="data/tribes.js"></script>
+    <script>
+        function generateAllBarcodes() {
+            const container = document.getElementById('barcode-container');
+            container.innerHTML = '';
+
+            const suits = [
+                { name: 'hearts', symbol: '♥', label: 'Hearts - Sumatera' },
+                { name: 'diamonds', symbol: '♦', label: 'Diamonds - Jawa, Bali, Kalimantan' },
+                { name: 'clubs', symbol: '♣', label: 'Clubs - Sulawesi, Maluku' },
+                { name: 'spades', symbol: '♠', label: 'Spades - Papua & Nusa Tenggara' }
+            ];
+
+            suits.forEach(suit => {
+                // Create suit section
+                const suitSection = document.createElement('div');
+                suitSection.className = 'suit-section';
+
+                const suitHeader = document.createElement('div');
+                suitHeader.className = 'suit-header';
+                suitHeader.innerHTML = `
+          <h2 class="suit-title suit-${suit.name}">
+            ${suit.symbol} ${suit.label}
+          </h2>
+        `;
+                suitSection.appendChild(suitHeader);
+
+                // Create grid for this suit
+                const grid = document.createElement('div');
+                grid.className = 'barcode-grid';
+
+                const tribes = getTribesBySuit(suit.name);
+
+                tribes.forEach(tribe => {
+                    const card = document.createElement('div');
+                    card.className = `barcode-card ${suit.name}`;
+
+                    const cardInfo = document.createElement('div');
+                    cardInfo.className = 'card-info';
+                    cardInfo.innerHTML = `${suit.symbol} ${tribe.number}`;
+
+                    const tribeName = document.createElement('div');
+                    tribeName.className = 'tribe-name';
+                    tribeName.textContent = tribe.name;
+
+                    const barcodeContainer = document.createElement('div');
+                    barcodeContainer.className = 'barcode-container';
+
+                    const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+                    svg.id = `barcode-${tribe.id}`;
+
+                    const barcodeText = document.createElement('div');
+                    barcodeText.className = 'barcode-text';
+                    barcodeText.textContent = tribe.barcode;
+
+                    barcodeContainer.appendChild(svg);
+
+                    card.appendChild(cardInfo);
+                    card.appendChild(tribeName);
+                    card.appendChild(barcodeContainer);
+                    card.appendChild(barcodeText);
+
+                    grid.appendChild(card);
+
+                    // Generate barcode
+                    setTimeout(() => {
+                        JsBarcode(`#barcode-${tribe.id}`, tribe.barcode, {
+                            format: 'CODE128',
+                            width: 2,
+                            height: 60,
+                            displayValue: false,
+                            margin: 5
+                        });
+                    }, 10);
+                });
+
+                suitSection.appendChild(grid);
+                container.appendChild(suitSection);
+            });
+
+            console.log('✅ Semua barcode berhasil di-generate!');
+        }
+
+        function downloadBarcodes() {
+            alert('💡 Untuk download:\n\n1. Klik "Print Barcode"\n2. Pilih "Save as PDF" sebagai printer\n3. Simpan file PDF\n4. PDF bisa dicetak kapan saja!');
+        }
+
+        // Auto-generate on load
+        window.addEventListener('load', () => {
+            setTimeout(generateAllBarcodes, 500);
+        });
+    </script>
+</body>
+
+</html>

@@ -18,8 +18,8 @@ const config: Config = {
                 foreground: "var(--foreground)",
             },
             fontFamily: {
-                display: ["Plus Jakarta Sans", "var(--font-inter)", "system-ui", "sans-serif"],
-                sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+                sans: ['var(--font-jakarta)', 'sans-serif'], // Sets default text
+                display: ['var(--font-playfair)', 'serif'],
             },
             backgroundImage: {
                 "lontar-pattern": "url('/textures/lontar-bg.png')",

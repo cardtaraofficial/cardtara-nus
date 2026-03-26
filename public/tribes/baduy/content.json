@@ -28,6 +28,20 @@
                     "The Baduy philosophy of life is Pikukuh which teaches to live simply, protect nature, and not be greedy. They reject electricity, motorized vehicles, and technology deemed to disrupt the balance of nature. The existence of the Baduy tribe is proof that there are alternative ways of life that respect nature and tradition in the midst of modernization."
                 ]
             },
+            "images": [
+                "/tribes/baduy/media/7s-1.jpg",
+                "/tribes/baduy/media/7s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Masyarakat Suku Baduy Dalam dengan pakaian putih",
+                    "Perkampungan adat Suku Baduy"
+                ],
+                "en": [
+                    "Inner Baduy tribe members in white clothing",
+                    "Traditional Baduy tribe village"
+                ]
+            },
             "tags": [
                 "Baduy",
                 "IndonesianTribes",
@@ -136,12 +150,24 @@
                     "In addition to natural beauty, Tanjung Lesung is also close to various other tourist destinations such as Ujung Kulon National Park which is a habitat for Javan rhinos, as well as charming small islands. This beach is a comfortable and easily accessible marine tourism alternative from Jakarta and its surroundings."
                 ]
             },
+            "images": [
+                "/tribes/baduy/media/7h-1.png",
+                "/tribes/baduy/media/7h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pantai Tanjung Lesung, Banten",
+                    "Pemandangan indah Pantai Tanjung Lesung"
+                ],
+                "en": [
+                    "Tanjung Lesung Beach, Banten",
+                    "Beautiful scenery of Tanjung Lesung Beach"
+                ]
+            },
             "tags": [
                 "TanjungLesung",
                 "BantenTourism",
-                "BeachDestination",
-                "MarineTourism",
-                "KrakatauView"
+                "BeachDestination"
             ],
             "quiz": [
                 {
@@ -242,6 +268,20 @@
                     "Sate Bandeng is a unique typical Banten food made from milkfish meat that has been manually separated from its bones. The manufacturing process requires special skills to remove the fish meat without damaging its skin. The meat that has been removed is then seasoned, mixed with grated coconut, and put back into the fish skin.",
                     "After being refilled, the milkfish is grilled or roasted until the skin is crispy and golden in color. The spices used consist of shallots, garlic, candlenuts, coriander, turmeric, and chili which give a savory and slightly spicy taste. The fragrant aroma from the burning process makes sate bandeng very appetizing.",
                     "Sate Bandeng is usually served with hot rice, sambal, and vegetables. This food has become a Banten culinary icon that is often made as a typical souvenir for tourists. The complicated manufacturing process and delicious results make sate bandeng a special dish that reflects the culinary wisdom of Banten people."
+                ]
+            },
+            "images": [
+                "/tribes/baduy/media/7d-1.jpeg",
+                "/tribes/baduy/media/7d-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Sate Bandeng khas Banten",
+                    "Sate Bandeng yang gurih dan empuk"
+                ],
+                "en": [
+                    "Sate Bandeng, Banten specialty",
+                    "Savory and tender Sate Bandeng"
                 ]
             },
             "tags": [
@@ -350,6 +390,20 @@
                     "Debus is a traditional Banten art that displays body invulnerability to sharp objects and fire. Debus performances feature players who stab sharp weapons such as machetes, kris, or nails into their bodies without getting hurt. There are also attractions of slicing tongues with razor blades, eating embers, and hitting heads with coconuts.",
                     "Debus originated from Islamic spiritual traditions brought by Islamic preachers in Banten in the 16th century. Before performing, debus players conduct spiritual rituals such as fasting, dhikr, and prayer to achieve a state of invulnerability. This invulnerability is believed to be a spiritual gift obtained through strict spiritual training.",
                     "Debus performances are usually accompanied by tambourine music and salawat which create a sacred atmosphere. Debus is not just an attraction, but also contains spiritual values about the power of faith, mental endurance, and discipline. Until now, debus is still a respected art and is performed at cultural events and celebrations in Banten."
+                ]
+            },
+            "images": [
+                "/tribes/baduy/media/7c-1.jpg",
+                "/tribes/baduy/media/7c-2.webp"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan Debus Banten",
+                    "Atraksi kekebalan tubuh dalam kesenian Debus"
+                ],
+                "en": [
+                    "Debus performance of Banten",
+                    "Body invulnerability act in Debus art"
                 ]
             },
             "tags": [

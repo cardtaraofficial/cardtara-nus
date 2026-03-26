@@ -28,6 +28,20 @@
                     "In her sadness and anger, the mother cursed Malin Kundang to turn into stone. Shortly after, a great storm struck Malin Kundang's ship and he turned into stone on the coast of Padang. This story serves as a reminder of the importance of being devoted to parents in Minangkabau culture."
                 ]
             },
+            "images": [
+                "/tribes/minang/media/2s-1.jpg",
+                "/tribes/minang/media/2s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Batu Malin Kundang di Pantai Air Manis, Padang",
+                    "Ilustrasi Malin Kundang dikutuk menjadi batu oleh ibunya"
+                ],
+                "en": [
+                    "Malin Kundang Stone at Air Manis Beach, Padang",
+                    "Illustration of Malin Kundang cursed to stone by his mother"
+                ]
+            },
             "tags": [
                 "MalinKundang",
                 "CeritaRakyat",
@@ -134,6 +148,20 @@
                     "Jam Gadang is an iconic clock tower that is a landmark of Bukittinggi City, West Sumatra. This tower was built in 1926 by the Dutch East Indies government with a height of 26 meters. The name 'Jam Gadang' comes from the Minangkabau language which means 'big clock', referring to the size of the clock mounted on all four sides of the tower.",
                     "The uniqueness of Jam Gadang lies in the Roman numerals used for the time indicators. At the number 4, Jam Gadang uses 'IIII' not 'IV' like Roman numerals in general. This is a characteristic that distinguishes Jam Gadang from other clock towers in the world. The tower roof is shaped like a typical Minangkabau rumah gadang gonjong resembling buffalo horns.",
                     "Jam Gadang not only functions as a time indicator, but also serves as a silent witness to Bukittinggi's history and a symbol of pride for the Minangkabau people. Around Jam Gadang there is Jam Gadang Park and Pasar Ateh (upper market) which are crowded with tourists. This tower is a favorite photo spot and the center of activities for the people of Bukittinggi."
+                ]
+            },
+            "images": [
+                "/tribes/minang/media/2h-1.jpg",
+                "/tribes/minang/media/2h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Jam Gadang, ikon Kota Bukittinggi",
+                    "Taman Jam Gadang dari dekat"
+                ],
+                "en": [
+                    "Jam Gadang, icon of Bukittinggi City",
+                    "Jam Gadang Park up close"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "In Minangkabau culture, rendang is not only everyday food but also a special dish at traditional events such as weddings, traditional ceremonies, and Eid celebrations. Rendang symbolizes patience, wisdom, and honor in the philosophy of life of the Minangkabau people."
                 ]
             },
+            "images": [
+                "/tribes/minang/media/2d-1.jpg",
+                "/tribes/minang/media/2d-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Rendang, masakan terenak di dunia asal Minangkabau",
+                    "Proses memasak Rendang tradisional"
+                ],
+                "en": [
+                    "Rendang, the world's most delicious food from Minangkabau",
+                    "Traditional Rendang cooking process"
+                ]
+            },
             "tags": [
                 "Rendang",
                 "MinangkabauFood",
@@ -350,6 +392,20 @@
                     "Plate Dance is a very famous traditional Minangkabau dance and is one of the cultural icons of West Sumatra. In this dance, the dancers hold plates in both hands while performing various dynamic movements following the rhythm of talempong and saluang music. This dance depicts the joy of farming communities during the harvest season.",
                     "The uniqueness of Plate Dance lies in the fast and agile movements of the dancers who swing the plates without dropping them. At the end of the most thrilling performance, the dancers will break the plates and dance on the shards with bare feet without getting hurt thanks to practice and high concentration.",
                     "Plate Dance symbolizes gratitude to the Creator for the abundant harvest. This dance also teaches the values of precision, patience, and agility that are highly respected in Minangkabau culture. Until now, Plate Dance is still often performed at traditional events, welcoming guests, and promoting tourism in West Sumatra."
+                ]
+            },
+            "images": [
+                "/tribes/minang/media/2c-1.jpeg",
+                "/tribes/minang/media/2c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Penari Tari Piring Minangkabau",
+                    "Aksi memecahkan piring dalam Tari Piring"
+                ],
+                "en": [
+                    "Minangkabau Plate Dance performers",
+                    "Plate-breaking action in the Plate Dance"
                 ]
             },
             "tags": [

@@ -11,6 +11,7 @@ export type TribeInfo = {
     slug: string; // e.g., "jakarta", "minang"
     name: BilingualText;
     audioPath: string; // path to tribe's background music
+    audioTitle: BilingualText; // title of the tribe's audio/song
 };
 
 // Quiz question structure

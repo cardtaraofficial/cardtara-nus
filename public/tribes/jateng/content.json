@@ -28,6 +28,20 @@
                     "The genies stopped working because they thought the sun had risen. Only one temple remained unfinished from the thousand temples requested. Bandung Bondowoso, who was furious knowing this trick, cursed Roro Jonggrang to become a statue to complete the thousandth temple. The statue stands majestically at Prambanan Temple to this day as a symbol of tragic love."
                 ]
             },
+            "images": [
+                "/tribes/jateng/media/5s-1.jpg",
+                "/tribes/jateng/media/5s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Candi Prambanan, saksi legenda Roro Jonggrang",
+                    "Relief cerita Roro Jonggrang di Candi Prambanan"
+                ],
+                "en": [
+                    "Prambanan Temple, witness to the Roro Jonggrang legend",
+                    "Roro Jonggrang relief carvings at Prambanan Temple"
+                ]
+            },
             "tags": [
                 "RoroJonggrang",
                 "Prambanan",
@@ -134,6 +148,20 @@
                     "Borobudur Temple is the largest Buddhist temple in the world located in Magelang, Central Java. Built in the 9th century during the reign of the Syailendra Dynasty, this temple has a very magnificent architecture with a tiered pyramid structure. Borobudur consists of six square terraces, three circular terraces, and a main stupa at the top.",
                     "The temple is decorated with 2,672 relief panels and 504 Buddha statues that tell the spiritual journey to enlightenment. Each level of the temple symbolizes a stage of spiritual achievement in Buddhist teachings, from Kamadhatu (world of desire), Rupadhatu (world of form), to Arupadhatu (formless world). Borobudur is not only a place of worship, but also a stone book that teaches the philosophy of life.",
                     "In 1991, UNESCO designated Borobudur as a World Heritage Site. Every year, thousands of domestic and foreign tourists visit this temple to enjoy the architectural beauty, learn history, and feel spiritual solemnity. Borobudur has become a symbol of the greatness of ancient Indonesian civilization and national pride."
+                ]
+            },
+            "images": [
+                "/tribes/jateng/media/5h-1.jpg",
+                "/tribes/jateng/media/5h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Candi Borobudur saat matahari terbit",
+                    "Relief dan stupa Candi Borobudur yang megah"
+                ],
+                "en": [
+                    "Borobudur Temple at sunrise",
+                    "The majestic reliefs and stupas of Borobudur Temple"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Gudeg has become the culinary identity of Yogyakarta and an important part of Javanese culture. Warung gadang selling gudeg can be found in every corner of the city, and many are open 24 hours. Gudeg is not just food, but also a symbol of the friendliness and warmth of the Javanese people that has been passed down through generations."
                 ]
             },
+            "images": [
+                "/tribes/jateng/media/5d-1.jpg",
+                "/tribes/jateng/media/5d-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Gudeg Jogja, kuliner legendaris Jawa Tengah",
+                    "Gudeg lengkap dengan telur dan ayam kampung"
+                ],
+                "en": [
+                    "Gudeg Jogja, legendary Central Javanese cuisine",
+                    "Complete Gudeg with egg and free-range chicken"
+                ]
+            },
             "tags": [
                 "Gudeg",
                 "YogyakartaFood",
@@ -350,6 +392,20 @@
                     "Shadow puppet is a traditional Javanese performing art that uses leather puppets played by a puppeteer behind a white screen with light projection. The shadow of the puppet projected on the screen tells epic stories such as Ramayana and Mahabharata. Shadow puppet performances usually last all night from evening until morning.",
                     "A puppeteer must master various skills at once, namely moving the puppets, imitating the voices of different characters, singing suluk, and directing the gamelan. Shadow puppet contains deep philosophy about life, good versus evil, and Javanese moral values. Each puppet character has a certain symbolic meaning.",
                     "UNESCO recognized shadow puppet as a Masterpiece of Oral and Intangible Heritage of Humanity in 2003. Shadow puppet is not only entertainment, but also a medium of education, preaching, and preservation of cultural values. Until now, shadow puppet remains an important part of Javanese traditional ceremonies and respected art performances."
+                ]
+            },
+            "images": [
+                "/tribes/jateng/media/5c-1.jpg",
+                "/tribes/jateng/media/5c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan Wayang Kulit dengan dalang",
+                    "Bayangan Wayang Kulit di layar pertunjukan"
+                ],
+                "en": [
+                    "Wayang Kulit performance with the puppeteer",
+                    "Shadow puppets projected on the performance screen"
                 ]
             },
             "tags": [

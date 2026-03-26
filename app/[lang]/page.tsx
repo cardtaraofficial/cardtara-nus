@@ -14,8 +14,10 @@ export default async function LandingPage({ params }: Props) {
             hero: {
                 badge: "Inovasi Tradisi",
                 title: "CARDTARA: Membawa Warisan Indonesia ke ",
+                mobileTitle: "Warisan Budaya ke ", 
                 titleHighlight: "Ujung Jari Anda",
                 description: "Buka keajaiban budaya digital melalui kartu remi interaktif berbasis QR. Dirancang untuk pelajar, wisatawan, dan penggemar budaya.",
+                mobileDescription: "Kartu remi interaktif berbasis QR untuk menjelajah budaya nusantara.", 
                 cta1: "Mulai",
                 cta2: "Scan Kartu Anda",
             },
@@ -66,8 +68,10 @@ export default async function LandingPage({ params }: Props) {
             hero: {
                 badge: "Innovating Tradition",
                 title: "CARDTARA: Bringing Indonesian Heritage to ",
+                mobileTitle: "Culture at ",
                 titleHighlight: "Your Fingertips",
                 description: "Unlock the magic of digital culture through interactive QR-based playing cards. Designed for students, tourists, and culture enthusiasts.",
+                mobileDescription: "Interactive QR-based playing cards to explore cultural heritage.", 
                 cta1: "Get Started",
                 cta2: "Scan Your Card",
             },
@@ -124,14 +128,14 @@ export default async function LandingPage({ params }: Props) {
             <section className="relative overflow-hidden">{/* Removed all padding */}
                 {/* Background Image */}
                 <div
-                    className="absolute inset-0 bg-cover bg-center"
+                    className="absolute inset-0 bg-cover bg-center md:bg-[length:100%_100%] md:bg-no-repeat"
                     style={{ backgroundImage: 'url(/hero-bg.png)' }}
                 ></div>
 
                 {/* Overlay for better text readability */}
                 <div className="absolute inset-0 bg-black/10"></div>
 
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 pt-24 md:pt-28 lg:pt-32">{/* Increased pt to account for navbar */}
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 pt-48 md:pt-24 pb-20 md:pb-28 lg:pb-40 md:min-h-[85vh] flex flex-col justify-center">{/* Changed pt-32 to pt-48 for mobile! */}
                     <div className="grid lg:grid-cols-2 gap-8 md:gap-12 items-center">
                         {/* Left Content */}
                         <div className="z-10">
@@ -141,20 +145,27 @@ export default async function LandingPage({ params }: Props) {
                                 {t.hero.badge}
                             </div>
 
-                            {/* Title */}
+                            {/* Title - Responsive Swapping */}
                             <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-black text-white leading-[1.1] mb-6 md:mb-10 font-display drop-shadow-2xl">
-                                {t.hero.title}
+                                {/* Desktop Version (hidden on mobile) */}
+                                <span className="hidden md:inline">{t.hero.title}</span>
+                                {/* Mobile Version (hidden on desktop) */}
+                                <span className="md:hidden">{t.hero.mobileTitle}</span>
+                                {/* The Yellow Highlight stays the same for both */}
                                 <span className="text-yellow-300">{t.hero.titleHighlight}</span>
                             </h1>
 
-                            {/* Description */}
+                            {/* Description - Responsive Swapping */}
                             <p className="text-base sm:text-lg text-white/95 mb-8 md:mb-10 max-w-lg leading-relaxed drop-shadow-lg">
-                                {t.hero.description}
+                                {/* Desktop Version */}
+                                <span className="hidden md:inline">{t.hero.description}</span>
+                                {/* Mobile Version */}
+                                <span className="md:hidden">{t.hero.mobileDescription}</span>
                             </p>
-
-                            {/* Hero Image Placeholder - Mobile only, shows BEFORE buttons */}
-                            <div className="relative lg:hidden mb-8">
-                                <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl bg-white/10 backdrop-blur-sm border-4 border-white/30">
+                            {/* Hero Image Placeholder - Mobile only, centered with breathing room */}
+                            <div className="relative lg:hidden mb-10 flex justify-center">
+                                <div className="relative z-10 w-full rounded-2xl overflow-hidden shadow-2xl bg-white/10 backdrop-blur-sm border-4 border-white/30">
+                                    {/* Back to the original landscape ratio! */}
                                     <div className="aspect-[4/3]">
                                         <img
                                             src="/hero-card.jpeg"

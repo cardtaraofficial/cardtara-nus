@@ -28,6 +28,20 @@
                     "The Hornbill has also become a symbol in traditional ceremonies such as Tiwah (death ceremony) and various other important rituals. Hornbill feathers may only be used by tribal chiefs or respected people in Dayak society. Until now, this bird remains a spiritual and cultural icon protected by the Dayak people."
                 ]
             },
+            "images": [
+                "/tribes/dayak/media/8s-1.webp",
+                "/tribes/dayak/media/8s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Burung Enggang, simbol sakral suku Dayak",
+                    "Burung Enggang Gading di hutan Kalimantan"
+                ],
+                "en": [
+                    "Hornbill, sacred symbol of the Dayak tribe",
+                    "Helmeted Hornbill in Kalimantan forest"
+                ]
+            },
             "tags": [
                 "BurungEnggang",
                 "Hornbill",
@@ -134,6 +148,20 @@
                     "Sentarum Lake is a unique seasonal lake located in Kapuas Hulu Regency, West Kalimantan. This lake has an interesting natural phenomenon where the water volume fluctuates greatly depending on the season. During the rainy season, the lake expands to an area of 132,000 hectares, but during the dry season, most of the lake area dries up and becomes land.",
                     "Sentarum Lake National Park has extraordinary biodiversity with more than 200 fish species, various types of birds, and rare mammals such as proboscis monkeys. The peat swamp forest around the lake is an important habitat for endemic Kalimantan flora and fauna. The lake is also a source of livelihood for local communities who rely on fishing.",
                     "The uniqueness of the Sentarum Lake ecosystem makes it an important natural laboratory for ecological research. The government and Dayak indigenous communities work together to preserve the lake through management based on local wisdom. Sentarum Lake is not only ecologically important, but also has cultural value for the Dayak people."
+                ]
+            },
+            "images": [
+                "/tribes/dayak/media/8h-1.jpg",
+                "/tribes/dayak/media/8h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Danau Sentarum di Kalimantan Barat",
+                    "Hutan air tawar Danau Sentarum yang unik"
+                ],
+                "en": [
+                    "Sentarum Lake in West Kalimantan",
+                    "The unique freshwater forest of Sentarum Lake"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Bubur pedas is usually served with side dishes such as fried mackerel, boiled eggs, and crackers. This dish reflects the blend of Malay and Chinese cultures in West Kalimantan. Bubur pedas is not just food, but also part of a culinary tradition that has been passed down through generations and creates togetherness when eaten with family."
                 ]
             },
+            "images": [
+                "/tribes/dayak/media/8d-1.jpg",
+                "/tribes/dayak/media/8d-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Bubur Pedas khas Kalimantan Barat",
+                    "Semangkuk Bubur Pedas Sambas yang lezat"
+                ],
+                "en": [
+                    "Spicy Porridge from West Kalimantan",
+                    "A delicious bowl of Sambas Spicy Porridge"
+                ]
+            },
             "tags": [
                 "BuburPedas",
                 "KalimantanBarat",
@@ -350,6 +392,20 @@
                     "Mandau Dance is a traditional Dayak tribe dance that depicts the bravery of Dayak warriors in protecting their territory and tribe. Mandau is a traditional Dayak weapon in the form of a sword with a curved blade which is a symbol of courage and honor. In this dance, dancers wear complete traditional clothing with hornbill feather decorations and bead accessories.",
                     "The movements of mandau dance are very dynamic and energetic, depicting war actions such as attacking, defending, and swinging the mandau. This dance is accompanied by traditional Dayak music using musical instruments such as gongs, drums, and sape (a typical Dayak stringed instrument). The fast and strong music rhythm adds a brave and spirited impression to the dance.",
                     "Mandau Dance is usually performed at traditional ceremonies, welcoming important guests, and major celebrations of the Dayak tribe. This dance not only functions as entertainment, but also as a medium to preserve the values of courage, loyalty, and honor in Dayak culture. Until now, mandau dance remains a symbol of identity and pride of the Dayak people."
+                ]
+            },
+            "images": [
+                "/tribes/dayak/media/8c-1.jpg",
+                "/tribes/dayak/media/8c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Penari Tari Mandau suku Dayak",
+                    "Aksi pedang Mandau dalam tarian tradisional Dayak"
+                ],
+                "en": [
+                    "Dayak Mandau Dance performer",
+                    "Mandau sword action in traditional Dayak dance"
                 ]
             },
             "tags": [

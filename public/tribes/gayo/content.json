@@ -28,6 +28,20 @@
                     "The submerged village turned into a vast lake and the water tasted fresh despite being very wide, unlike ordinary lakes. Therefore it was named Lut Tawar which means 'fresh sea'. This lake is now a famous tourist destination in Central Aceh with beautiful views surrounded by mountains. This legend teaches the importance of kindness and sincerity towards others."
                 ]
             },
+            "images": [
+                "/tribes/gayo/media/ks-1.jpg",
+                "/tribes/gayo/media/ks-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Danau Lut Tawar di Takengon, Aceh",
+                    "Panorama indah Danau Lut Tawar"
+                ],
+                "en": [
+                    "Lut Tawar Lake in Takengon, Aceh",
+                    "Beautiful panorama of Lut Tawar Lake"
+                ]
+            },
             "tags": [
                 "DanauLutTawar",
                 "LutTawarLake",
@@ -134,6 +148,20 @@
                     "Baiturrahman Grand Mosque is a magnificent mosque that is a symbol of the greatness of Islam in Aceh. This mosque was first built in 1612 by Sultan Iskandar Muda and has undergone several renovations and expansions. The mosque building displays a very beautiful blend of Aceh, Mughal India, and modern architecture with black domes that are its characteristic.",
                     "This mosque has 7 black domes symbolizing the 7 levels of heaven in Islam, with the main dome having a diameter of 16 meters that towers high. Tall towers at each corner of the mosque add to the majesty of the building. The interior of the mosque is decorated with beautiful Arabic calligraphy, luxurious crystal lamps, and stunning ornaments. This mosque can accommodate up to 30,000 worshippers.",
                     "Baiturrahman Grand Mosque is not only a place of worship, but also a witness to the history of the Acehnese people's struggle. This mosque was once the center of Acehnese people's resistance during the Dutch colonial period. Until now, this mosque remains the pride of the Acehnese people and is a religious tourism destination that attracts tourists from all over the world."
+                ]
+            },
+            "images": [
+                "/tribes/gayo/media/kh-1.jpg",
+                "/tribes/gayo/media/kh-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Masjid Raya Baiturrahman Banda Aceh",
+                    "Keindahan arsitektur Masjid Raya Baiturrahman"
+                ],
+                "en": [
+                    "Baiturrahman Grand Mosque Banda Aceh",
+                    "The architectural beauty of Baiturrahman Grand Mosque"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Gayo Coffee has been exported to various countries such as the United States, Europe, Japan, and South Korea. This coffee is one of Aceh's leading commodities that provides livelihoods for thousands of Gayo coffee farmers. Enjoying a cup of Gayo coffee is not only about taste, but also about appreciating the hard work of farmers and local wisdom in maintaining world-class coffee quality."
                 ]
             },
+            "images": [
+                "/tribes/gayo/media/kd-1.jpg",
+                "/tribes/gayo/media/kd-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Kopi Gayo, kopi arabika premium dari Aceh",
+                    "Proses pengolahan biji Kopi Gayo"
+                ],
+                "en": [
+                    "Gayo Coffee, premium Arabica from Aceh",
+                    "Gayo Coffee bean processing"
+                ]
+            },
             "tags": [
                 "KopiGayo",
                 "GayoCoffee",
@@ -350,6 +392,20 @@
                     "Saman Dance is a traditional dance of the Gayo tribe from Aceh that was recognized by UNESCO as Intangible Cultural Heritage of Humanity in 2011. This dance was created by Syekh Saman in the 14th century as a medium of Islamic preaching and entertainment. Saman Dance is performed by a number of male dancers who sit kneeling in neat rows and perform very compact and fast movements.",
                     "The uniqueness of Saman Dance lies in the extraordinary compactness of the dancers in following very fast and intricate movements such as clapping, chest pounding, head movements, and shouting verses all done synchronously without using musical instruments. The speed of movement can reach very high tempo but remains regular. One small mistake from a dancer will ruin the entire performance.",
                     "The verses recited in Saman Dance contain wisdom, advice, and Islamic values conveyed in Gayo language. This dance teaches about togetherness, discipline, humility, and the importance of maintaining harmony. Saman Dance is not only the pride of Aceh, but also Indonesia because it has gone international and become a symbol of unity and compactness."
+                ]
+            },
+            "images": [
+                "/tribes/gayo/media/kc-1.jpg",
+                "/tribes/gayo/media/kc-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan Tari Saman Aceh yang memukau",
+                    "Gerakan kompak penari Tari Saman"
+                ],
+                "en": [
+                    "The stunning Saman Dance of Aceh",
+                    "Synchronized movements of Saman dancers"
                 ]
             },
             "tags": [

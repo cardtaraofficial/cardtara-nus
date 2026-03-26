@@ -1,11 +1,19 @@
 import type { Metadata } from "next";
-import { Plus_Jakarta_Sans } from "next/font/google";
+import { Plus_Jakarta_Sans, Playfair_Display } from "next/font/google";
 import "./globals.css";
 
+// 1. Setup the serif font for headings
+const playfair = Playfair_Display({
+    subsets: ["latin"],
+    display: "swap",
+    variable: "--font-playfair",
+});
+
+// 2. Setup the sans-serif font for body text
 const plusJakarta = Plus_Jakarta_Sans({
     subsets: ["latin"],
     display: "swap",
-    variable: "--font-display",
+    variable: "--font-jakarta",
     weight: ["400", "500", "600", "700", "800"],
 });
 
@@ -21,8 +29,12 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <html lang="id" suppressHydrationWarning>
-            <body className={plusJakarta.variable} suppressHydrationWarning>{children}</body>
+        // 3. Inject both font variables into the HTML
+        <html lang="id" className={`${plusJakarta.variable} ${playfair.variable}`} suppressHydrationWarning>
+            {/* 4. Apply the base sans font to the body */}
+            <body className="font-sans antialiased" suppressHydrationWarning>
+                {children}
+            </body>
         </html>
     );
 }

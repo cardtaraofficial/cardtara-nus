@@ -56,17 +56,16 @@ export default function Navbar() {
                     </nav>
 
                     {/* Right Side Actions */}
-                    <div className="flex items-center gap-4">
+                    <div className="flex items-center gap-2 md:gap-4">
                         <LanguageSwitcher />
                         <Link
                             href={`/${locale}#cta`}
                             scroll={true}
-                            className="bg-primary hover:bg-red-700 text-white px-5 py-2 rounded-lg text-sm font-bold transition-all shadow-lg shadow-primary/20"
+                            className="hidden md:block bg-primary hover:bg-red-700 text-white px-5 py-2 rounded-lg text-sm font-bold transition-all shadow-lg shadow-primary/20"
                         >
                             {t.getCards}
                         </Link>
                     </div>
-
                     {/* Mobile Menu Button */}
                     <button
                         onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -94,7 +93,7 @@ export default function Navbar() {
                 {/* Mobile Menu */}
                 {isMenuOpen && (
                     <div className="md:hidden py-4 border-t border-gray-200">
-                        <div className="flex flex-col space-y-3">
+                        <div className="flex flex-col space-y-3 px-2">
                             <Link
                                 href={`/${locale}`}
                                 className="px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-lg transition-colors font-semibold"
@@ -116,7 +115,15 @@ export default function Navbar() {
                             >
                                 {t.howItWorks}
                             </Link>
-
+                            
+                            {/* New Mobile Get Cards Button */}
+                            <Link
+                                href={`/${locale}#cta`}
+                                className="mx-4 mt-4 bg-primary text-white text-center py-3 rounded-lg font-bold shadow-md"
+                                onClick={() => setIsMenuOpen(false)}
+                            >
+                                {t.getCards}
+                            </Link>
                         </div>
                     </div>
                 )}

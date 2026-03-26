@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Cardtara - Jelajahi 52 suku Indonesia melalui kartu remi dengan teknologi barcode scanning. Pelajari budaya, tradisi, dan kearifan lokal nusantara.">
+  <meta name="keywords" content="suku indonesia, budaya nusantara, barcode scanner, kartu remi, tradisi indonesia">
+  <meta name="author" content="Cardtara">
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Cardtara - 52 Suku Indonesia">
+  <meta property="og:description" content="Jelajahi keberagaman budaya Indonesia melalui 52 kartu remi interaktif">
+  <meta property="og:type" content="website">
+  
+  <title>Cardtara - 52 Suku Indonesia</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="index.css">
+  
+  <!-- QuaggaJS for Barcode Scanning -->
+  <script src="https://cdn.jsdelivr.net/npm/@ericblade/quagga2@1.8.4/dist/quagga.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <h1 class="logo">CARDTARA</h1>
+      <p class="tagline">52 Suku Indonesia dalam Kartu Remi</p>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+      <button class="nav-tab active" data-view="scanner" id="scanner-tab">
+        📷 Scan Barcode
+      </button>
+      <button class="nav-tab" data-view="cards" id="cards-tab">
+        🃏 Pilih Kartu
+      </button>
+    </nav>
+
+    <!-- Scanner Section -->
+    <section class="scanner-section active" id="scanner-section">
+      <div class="scanner-container">
+        <div id="scanner-video-container">
+          <video id="scanner-video" playsinline></video>
+        </div>
+        <div class="scanner-controls">
+          <button class="btn btn-primary" id="start-scanner">Mulai Scan</button>
+          <button class="btn btn-secondary hidden" id="stop-scanner">Stop</button>
+        </div>
+        <div id="scanner-status" class="scanner-status hidden"></div>
+      </div>
+      
+      <div style="text-align: center; color: var(--text-secondary); margin-top: var(--spacing-lg);">
+        <p>💡 Arahkan kamera ke barcode pada kartu remi</p>
+        <p style="margin-top: var(--spacing-sm);">Atau gunakan tab "Pilih Kartu" untuk melihat semua suku</p>
+      </div>
+    </section>
+
+    <!-- Card Grid Section -->
+    <section class="card-grid-section" id="card-grid-section">
+      <!-- Hearts -->
+      <div class="suit-section">
+        <div class="suit-header">
+          <span class="suit-icon suit-hearts">♥</span>
+          <h2 class="suit-name">Hearts - Sumatera</h2>
+          <span class="suit-description">13 Suku dari Pulau Sumatera</span>
+        </div>
+        <div class="card-grid" id="hearts-grid"></div>
+      </div>
+
+      <!-- Diamonds -->
+      <div class="suit-section">
+        <div class="suit-header">
+          <span class="suit-icon suit-diamonds">♦</span>
+          <h2 class="suit-name">Diamonds - Jawa, Bali, Kalimantan</h2>
+          <span class="suit-description">13 Suku dari Jawa, Bali, dan Kalimantan</span>
+        </div>
+        <div class="card-grid" id="diamonds-grid"></div>
+      </div>
+
+      <!-- Clubs -->
+      <div class="suit-section">
+        <div class="suit-header">
+          <span class="suit-icon suit-clubs">♣</span>
+          <h2 class="suit-name">Clubs - Sulawesi, Maluku</h2>
+          <span class="suit-description">13 Suku dari Sulawesi dan Maluku</span>
+        </div>
+        <div class="card-grid" id="clubs-grid"></div>
+      </div>
+
+      <!-- Spades -->
+      <div class="suit-section">
+        <div class="suit-header">
+          <span class="suit-icon suit-spades">♠</span>
+          <h2 class="suit-name">Spades - Papua & Nusa Tenggara</h2>
+          <span class="suit-description">13 Suku dari Papua dan Nusa Tenggara</span>
+        </div>
+        <div class="card-grid" id="spades-grid"></div>
+      </div>
+    </section>
+
+    <!-- Tribe Detail Section -->
+    <section class="tribe-detail-section" id="tribe-detail-section">
+      <button class="back-button" id="back-button">
+        ← Kembali
+      </button>
+      
+      <div class="tribe-header">
+        <div class="tribe-card-info" id="tribe-card-info"></div>
+        <h1 class="tribe-name" id="tribe-name"></h1>
+        <div class="tribe-meta">
+          <div class="meta-item">
+            <span class="meta-label">Wilayah</span>
+            <span class="meta-value" id="tribe-region"></span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Populasi</span>
+            <span class="meta-value" id="tribe-population"></span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Bahasa</span>
+            <span class="meta-value" id="tribe-language"></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="tribe-content">
+        <div class="content-card">
+          <h3 class="content-title">📖 Deskripsi</h3>
+          <p class="content-text" id="tribe-description"></p>
+        </div>
+
+        <div class="content-card">
+          <h3 class="content-title">🎨 Budaya & Kesenian</h3>
+          <p class="content-text" id="tribe-culture"></p>
+        </div>
+
+        <div class="content-card">
+          <h3 class="content-title">🎭 Tradisi & Upacara</h3>
+          <p class="content-text" id="tribe-traditions"></p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Scripts -->
+  <script src="data/tribes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

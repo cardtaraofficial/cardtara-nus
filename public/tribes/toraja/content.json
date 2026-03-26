@@ -28,6 +28,20 @@
                     "The Toraja tribe is considered one of the societies with the most unique funeral traditions in the world. They believe that death is not the end, but the beginning of a journey to Puya (the spirit realm). Therefore, death ceremonies are very large events involving the entire family and lasting days or even weeks, sacrificing animals as provisions for the spirit's journey."
                 ]
             },
+            "images": [
+                "/tribes/toraja/media/10s-1.jpg",
+                "/tribes/toraja/media/10s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Masyarakat Toraja dalam upacara adat Rambu Solo",
+                    "Pemandangan indah Tana Toraja"
+                ],
+                "en": [
+                    "Toraja people in Rambu Solo ceremony",
+                    "Beautiful landscape of Tana Toraja"
+                ]
+            },
             "tags": [
                 "TorajaCulture",
                 "TorajaLegend",
@@ -134,6 +148,20 @@
                     "Londa is a typical Toraja stone burial complex located on high cliffs and natural caves. This site is one of the most interesting tourist destinations in Tana Toraja due to its unique burial system. In Londa, corpses are not buried in the ground, but placed in caves or carved directly into stone cliffs.",
                     "On the cliffs there are rows of wooden statues called Tau-tau representing people who have died. Tau-tau are made in great detail resembling the face of the deceased and wearing nice clothes. These statues stand facing out from the cliff as if guarding and watching over their descendants. Inside the cave there are skulls and bones that are hundreds of years old.",
                     "Londa is evidence of the local wisdom of the Toraja people in honoring their ancestors. Placing corpses on high cliffs is believed so that spirits are closer to Puya (the spiritual realm). Although it seems scary, Londa has very important cultural and historical value for the identity of the Toraja tribe and attracts tourists from all over the world."
+                ]
+            },
+            "images": [
+                "/tribes/toraja/media/10h-1.jpg",
+                "/tribes/toraja/media/10h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Kuburan batu Londa di tebing Toraja",
+                    "Tau-tau di situs pemakaman Londa"
+                ],
+                "en": [
+                    "Londa stone burial site on Toraja cliff",
+                    "Tau-tau effigies at Londa burial site"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Pa'piong is usually served at Toraja traditional events such as Rambu Solo (death ceremony) or Rambu Tuka (thanksgiving ceremony). This dish reflects Toraja's local wisdom in utilizing natural resources around them. Pa'piong has now become a typical culinary that must be tried by tourists visiting Tana Toraja."
                 ]
             },
+            "images": [
+                "/tribes/toraja/media/10d-1.jpg",
+                "/tribes/toraja/media/10d-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pa'piong, masakan bambu tradisional Toraja",
+                    "Proses memasak Pa'piong dalam ruas bambu"
+                ],
+                "en": [
+                    "Pa'piong, traditional Toraja bamboo cooking",
+                    "Pa'piong cooking process inside bamboo tubes"
+                ]
+            },
             "tags": [
                 "Papiong",
                 "TorajaFood",
@@ -350,6 +392,20 @@
                     "Tongkonan is a typical Toraja traditional house that has a unique architecture shaped like a boat with a curved roof resembling buffalo horns. The name tongkonan comes from the word 'tongkon' which means to sit, indicating that this house is a gathering place for extended families. This house is built with wood construction without using nails, only using a peg and hole system.",
                     "The roof of the tongkonan is made of bamboo arranged in tiers and decorated with buffalo horns at the front as a symbol of the owner's social status. The more buffalo horns attached, the higher the position of the family. The walls of the tongkonan are decorated with carvings and paintings with geometric motifs in red, black, yellow, and white, each of which has a philosophical meaning.",
                     "Tongkonan is not just a place to live, but also a symbol of pride, identity, and center of socio-cultural activities of the Toraja people. This house is a place to carry out important traditional ceremonies, family deliberations, and storage of heirlooms. Until now, tongkonan is still maintained and passed down through generations as a very valuable cultural heritage for the Toraja tribe."
+                ]
+            },
+            "images": [
+                "/tribes/toraja/media/10c-1.jpg",
+                "/tribes/toraja/media/10c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Rumah Tongkonan khas Toraja dengan atap melengkung",
+                    "Deretan Rumah Tongkonan di Tana Toraja"
+                ],
+                "en": [
+                    "Iconic Tongkonan house with curved roof",
+                    "Row of Tongkonan houses in Tana Toraja"
                 ]
             },
             "tags": [

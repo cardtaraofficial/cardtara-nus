@@ -28,6 +28,20 @@
                     "This story symbolizes the courage, bravery, and never-give-up spirit of the Ponorogo people. Until now, Reog Ponorogo has become a famous East Java art with the attraction of players biting the lion barong mask weighing tens of kilograms using their teeth as a symbol of supernatural power."
                 ]
             },
+            "images": [
+                "/tribes/jatim/media/6s-1.jpg",
+                "/tribes/jatim/media/6s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan Reog Ponorogo yang megah",
+                    "Topeng Singa Barong dalam Reog Ponorogo"
+                ],
+                "en": [
+                    "The magnificent Reog Ponorogo performance",
+                    "Singa Barong mask in Reog Ponorogo"
+                ]
+            },
             "tags": [
                 "ReogPonorogo",
                 "JawaTimur",
@@ -134,6 +148,20 @@
                     "Mount Bromo is one of the most iconic volcanoes in Indonesia located in Bromo Tengger Semeru National Park, East Java. At 2,329 meters above sea level, Bromo is famous for its spectacular sunrise views and a 10 square kilometer sea of sand surrounding it.",
                     "The uniqueness of Bromo lies in the giant caldera containing several mountains including Mount Batok and Mount Semeru in the distance. The still-active Bromo crater continues to emit white smoke that adds a mystical impression. Tourists can climb to the crater rim or enjoy the panorama from Penanjakan Hill which offers the best sunrise views.",
                     "For the Tengger people, Bromo has sacred value and is the place for the annual Yadnya Kasada ceremony. In this ceremony, the Tengger people throw offerings into the Bromo crater as an offering to Sang Hyang Widhi. Bromo is not only a natural tourist destination, but also a symbol of spirituality and harmony between humans and nature."
+                ]
+            },
+            "images": [
+                "/tribes/jatim/media/6h-1.jpg",
+                "/tribes/jatim/media/6h-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Gunung Bromo saat matahari terbit",
+                    "Lautan pasir di kaki Gunung Bromo"
+                ],
+                "en": [
+                    "Mount Bromo at sunrise",
+                    "The sea of sand at the foot of Mount Bromo"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Rawon reflects the richness of Indonesian spices and the skill of mixing spices of East Java people. This food is popular among various circles, from simple stalls to luxury restaurants. Rawon is also often served at celebrations and celebrations as a special dish that whets the appetite."
                 ]
             },
+            "images": [
+                "/tribes/jatim/media/6d-1.jpg",
+                "/tribes/jatim/media/6d-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Rawon, sup hitam khas Jawa Timur",
+                    "Semangkuk Rawon dengan tauge dan sambal"
+                ],
+                "en": [
+                    "Rawon, black soup specialty of East Java",
+                    "A bowl of Rawon with bean sprouts and sambal"
+                ]
+            },
             "tags": [
                 "Rawon",
                 "JawaTimurFood",
@@ -350,6 +392,20 @@
                     "Ludruk is a traditional theater performance typical of East Java that features dialogue, dance, and singing using Javanese language in Surabayan dialect. The uniqueness of ludruk lies in all roles being played by men, including female roles which are performed very expressively and entertainingly.",
                     "Ludruk performances are usually opened with an energetic Remo dance, followed by comedy and stories that highlight the daily life of East Java people. Ludruk dialogue is laden with humor, social satire, and moral messages conveyed in a light and entertaining way. The accompanying music uses rhythmic East Javanese gamelan.",
                     "Ludruk functions as a medium of entertainment as well as subtle social criticism of community conditions. Through ludruk, various social issues can be conveyed in a way that is not patronizing but still hits the mark. Currently, ludruk still survives and continues to adapt to the times while maintaining its traditional values."
+                ]
+            },
+            "images": [
+                "/tribes/jatim/media/6c-1.jpg",
+                "/tribes/jatim/media/6c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pertunjukan Ludruk Jawa Timur",
+                    "Pemain Ludruk beraksi di atas panggung"
+                ],
+                "en": [
+                    "Ludruk theater performance of East Java",
+                    "Ludruk performers acting on stage"
                 ]
             },
             "tags": [

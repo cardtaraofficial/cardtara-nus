@@ -28,6 +28,20 @@
                     "The La Galigo epic is not only told orally, but also written in Bugis Lontara script on lontar leaves. UNESCO has recognized La Galigo as one of the oral and intangible literary works for the Heritage of Humanity. Until now, La Galigo is still studied, read at traditional ceremonies, and has become an inspiration in modern performing arts."
                 ]
             },
+            "images": [
+                "/tribes/bugis/media/9s-1.jpeg",
+                "/tribes/bugis/media/9s-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Naskah La Galigo, epik sastra terpanjang di dunia",
+                    "Pertunjukan teater I La Galigo"
+                ],
+                "en": [
+                    "La Galigo manuscript, the longest literary epic in the world",
+                    "I La Galigo theater performance"
+                ]
+            },
             "tags": [
                 "LaGaligo",
                 "BugisCulture",
@@ -134,6 +148,20 @@
                     "Losari Beach is a tourism icon of Makassar City famous for its most beautiful sunset views in eastern Indonesia. This beach is located in the heart of Makassar city and is a favorite place for locals and tourists to relax, exercise, and enjoy Makassar's typical cuisine. Along the beach there is a wide sidewalk suitable for jogging and cycling.",
                     "The uniqueness of Losari Beach is the permanent tables and chairs provided along the beach for visitors to enjoy the sea views while eating. At night, this beach becomes very crowded with culinary sellers selling various typical foods such as pisang epe, coto Makassar, sop konro, and es palopo. The distinctive aroma of food fills the air and creates a lively atmosphere.",
                     "Losari Beach also has historical value because it has witnessed the development of Makassar City from time to time. Around the beach there are several important landmarks such as Fort Rotterdam and Mandala Monument. Losari Beach is not only a tourist destination, but also a public space that strengthens the togetherness of Makassar people."
+                ]
+            },
+            "images": [
+                "/tribes/bugis/media/9h-1.jpg",
+                "/tribes/bugis/media/9h-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Pantai Losari Makassar saat senja",
+                    "Suasana ramai Pantai Losari"
+                ],
+                "en": [
+                    "Losari Beach Makassar at dusk",
+                    "The bustling atmosphere of Losari Beach"
                 ]
             },
             "tags": [
@@ -244,6 +272,20 @@
                     "Coto Makassar has become a legendary culinary that is not only famous in South Sulawesi, but also throughout Indonesia. Coto stalls can be found in various major cities and are often crowded from morning to night. Coto Makassar reflects the richness of Indonesian spices and the culinary expertise of the Bugis-Makassar people."
                 ]
             },
+            "images": [
+                "/tribes/bugis/media/9d-1.jpg",
+                "/tribes/bugis/media/9d-2.jpeg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Coto Makassar, kuliner legendaris Sulawesi Selatan",
+                    "Semangkuk Coto Makassar dengan ketupat"
+                ],
+                "en": [
+                    "Coto Makassar, legendary South Sulawesi cuisine",
+                    "A bowl of Coto Makassar with ketupat"
+                ]
+            },
             "tags": [
                 "CotoMakassar",
                 "MakassarFood",
@@ -350,6 +392,20 @@
                     "Pakarena Dance is a traditional Bugis-Makassar dance that depicts the grace and gentleness of South Sulawesi women. Reportedly this dance originated from the legend of heavenly angels who descended to earth to entertain humans. The movements of Pakarena dance are very gentle, graceful, and full of meaning with a dominance of regular hand and foot movements.",
                     "Pakarena dancers wear baju bodo, brightly colored Bugis-Makassar traditional clothing with gold decorations. The fans held by dancers are an important property that adds to the beauty of the movement. This dance is accompanied by traditional music using musical instruments such as drums, violins, and harps played with typical South Sulawesi rhythms.",
                     "Pakarena Dance contains a philosophy about courtesy, women's honor, and noble character. Movements that are not too high and not too low symbolize a humble yet dignified attitude. Until now, Pakarena dance is still performed at welcoming important guests, traditional weddings, and various cultural performances."
+                ]
+            },
+            "images": [
+                "/tribes/bugis/media/9c-1.jpg",
+                "/tribes/bugis/media/9c-2.jpg"
+            ],
+            "imagesCaptions": {
+                "id": [
+                    "Penari Tari Pakarena yang anggun",
+                    "Gerakan gemulai Tari Pakarena Makassar"
+                ],
+                "en": [
+                    "Graceful Pakarena Dance performer",
+                    "Elegant movements of the Makassar Pakarena Dance"
                 ]
             },
             "tags": [

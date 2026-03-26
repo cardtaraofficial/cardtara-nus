@@ -295,6 +295,63 @@ const rankToTribe = {
 };
 ```
 
+### Daftar Lengkap 52 Kartu
+
+| Slug | Kartu | Tribe | Suit | Judul Konten |
+|------|-------|-------|------|-------------|
+| **AS** | Ace of Spades | Jakarta | Sekop | Si Pitung, Jagoan Betawi |
+| **AH** | Ace of Hearts | Jakarta | Hati | Setu Babakan |
+| **AD** | Ace of Diamonds | Jakarta | Wajik | Kerak Telor |
+| **AC** | Ace of Clubs | Jakarta | Keriting | Gambang Kromong |
+| **2S** | 2 of Spades | Minangkabau | Sekop | Legenda Malin Kundang |
+| **2H** | 2 of Hearts | Minangkabau | Hati | Jam Gadang |
+| **2D** | 2 of Diamonds | Minangkabau | Wajik | Rendang |
+| **2C** | 2 of Clubs | Minangkabau | Keriting | Tari Piring |
+| **3S** | 3 of Spades | Papua | Sekop | Legenda Burung Cenderawasih |
+| **3H** | 3 of Hearts | Papua | Hati | Raja Ampat |
+| **3D** | 3 of Diamonds | Papua | Wajik | Papeda |
+| **3C** | 3 of Clubs | Papua | Keriting | Tari Perang Papua |
+| **4S** | 4 of Spades | Jawa Barat | Sekop | Legenda Sangkuriang |
+| **4H** | 4 of Hearts | Jawa Barat | Hati | Kawah Putih |
+| **4D** | 4 of Diamonds | Jawa Barat | Wajik | Nasi Timbel |
+| **4C** | 4 of Clubs | Jawa Barat | Keriting | Angklung |
+| **5S** | 5 of Spades | Jawa Tengah | Sekop | Legenda Roro Jonggrang |
+| **5H** | 5 of Hearts | Jawa Tengah | Hati | Candi Borobudur |
+| **5D** | 5 of Diamonds | Jawa Tengah | Wajik | Gudeg |
+| **5C** | 5 of Clubs | Jawa Tengah | Keriting | Wayang Kulit |
+| **6S** | 6 of Spades | Jawa Timur | Sekop | Legenda Reog Ponorogo |
+| **6H** | 6 of Hearts | Jawa Timur | Hati | Gunung Bromo |
+| **6D** | 6 of Diamonds | Jawa Timur | Wajik | Rawon |
+| **6C** | 6 of Clubs | Jawa Timur | Keriting | Ludruk |
+| **7S** | 7 of Spades | Baduy | Sekop | Asal-Usul Suku Baduy |
+| **7H** | 7 of Hearts | Baduy | Hati | Pantai Tanjung Lesung |
+| **7D** | 7 of Diamonds | Baduy | Wajik | Sate Bandeng |
+| **7C** | 7 of Clubs | Baduy | Keriting | Debus |
+| **8S** | 8 of Spades | Dayak | Sekop | Legenda Burung Enggang |
+| **8H** | 8 of Hearts | Dayak | Hati | Danau Sentarum |
+| **8D** | 8 of Diamonds | Dayak | Wajik | Bubur Pedas |
+| **8C** | 8 of Clubs | Dayak | Keriting | Tari Mandau |
+| **9S** | 9 of Spades | Bugis | Sekop | Legenda La Galigo |
+| **9H** | 9 of Hearts | Bugis | Hati | Pantai Losari |
+| **9D** | 9 of Diamonds | Bugis | Wajik | Coto Makassar |
+| **9C** | 9 of Clubs | Bugis | Keriting | Tari Pakarena |
+| **10S** | 10 of Spades | Toraja | Sekop | Legenda Awal Toraja |
+| **10H** | 10 of Hearts | Toraja | Hati | Londa |
+| **10D** | 10 of Diamonds | Toraja | Wajik | Pa'piong |
+| **10C** | 10 of Clubs | Toraja | Keriting | Rumah Tongkonan |
+| **JS** | Jack of Spades | Bali | Sekop | Legenda Barong dan Rangda |
+| **JH** | Jack of Hearts | Bali | Hati | Pura Tanah Lot |
+| **JD** | Jack of Diamonds | Bali | Wajik | Babi Guling |
+| **JC** | Jack of Clubs | Bali | Keriting | Tari Kecak |
+| **QS** | Queen of Spades | Sasak | Sekop | Legenda Putri Mandalika |
+| **QH** | Queen of Hearts | Sasak | Hati | Pantai Pink |
+| **QD** | Queen of Diamonds | Sasak | Wajik | Ayam Taliwang |
+| **QC** | Queen of Clubs | Sasak | Keriting | Gendang Beleq |
+| **KS** | King of Spades | Gayo | Sekop | Legenda Danau Lut Tawar |
+| **KH** | King of Hearts | Gayo | Hati | Masjid Raya Baiturrahman |
+| **KD** | King of Diamonds | Gayo | Wajik | Kopi Gayo |
+| **KC** | King of Clubs | Gayo | Keriting | Tari Saman |
+
 ---
 
 ## 🎨 Komponen React

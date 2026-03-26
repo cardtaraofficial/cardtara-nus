@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useState } from "react";
 import Link from "next/link";
@@ -108,7 +108,7 @@ export default function CardDetailClient({ card, locale }: Props) {
                         {tribe ? (
                             <AudioPlayer
                                 audioPath={tribe.audioPath}
-                                title={`${t.audioJourney}: ${card.title[locale]}`}
+                                title={tribe.audioTitle[locale]}
                                 subtitle={t.nowPlaying}
                             />
                         ) : (
